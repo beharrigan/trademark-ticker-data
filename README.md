@@ -1,0 +1,1 @@
+# trademark-ticker-data
