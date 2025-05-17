@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-16T09:37:32.304313",
+  "lastUpdated": "2025-05-17T09:31:14.450416",
   "categories": {
     "auto": [
       {
@@ -44,6 +44,24 @@
     "crypto": [],
     "celebrities": [],
     "tech": [
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Michael Cloutier",
+        "mark": "INEEDTHIS",
+        "serial": "99170855",
+        "date": "2025-05-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99170855&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Capri Medical Ltd.",
+        "mark": "IONA (& Logo)",
+        "serial": "99184874",
+        "date": "2025-05-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99184874&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
@@ -205,24 +223,6 @@
         "serial": "99178832",
         "date": "2025-05-10",
         "url": "https://tsdr.uspto.gov/#caseNumber=99178832&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Charles Robert Steinmetz",
-        "mark": "AGENTIC ENTERTAINMENT (& Logo)",
-        "serial": "99178846",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178846&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "FestQuest LLC",
-        "mark": "FESTQUEST",
-        "serial": "99178848",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178848&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "sports": [],
