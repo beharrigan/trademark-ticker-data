@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-05-20T09:39:05.289065",
+    "lastUpdated": "2025-05-21T09:39:15.268239",
     "totalRecords": 400,
     "categories": [
       "auto",
@@ -3257,2178 +3257,23 @@
       "processed": "2025-05-12T19:24:43.059005"
     },
     {
-      "id": "6e055e4a7df75ecfb2c6ed4333f3b704",
+      "id": "2f3bef65e52efd6661b31b2f7c68f606",
       "category": "uncategorized",
       "category_confidence": 0.0,
-      "applicant": "Dongguan Zhixing E-commerce Co., Ltd.",
-      "applicant_full": "Dongguan Zhixing E-commerce Co., Ltd.",
-      "mark": "ARISECOZY",
-      "serial": "99191830",
+      "applicant": "Databricks, Inc.",
+      "applicant_full": "Databricks, Inc.",
+      "mark": "DATABRICKS",
+      "serial": "99192548",
       "filingDate": "2025-05-19",
       "hasLogo": false,
-      "description": "Tee-shirts; Clothing layettes; Tank tops; Swimsuits; Lingerie; Pajamas; Loungewear; Dresses; Skirts; Sports jerseys",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.672415"
-    },
-    {
-      "id": "6accce938df6accb546fb041dcfa6222",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Francis Ryu",
-      "applicant_full": "Francis Ryu",
-      "mark": "RYU LAW FIRM",
-      "serial": "99191831",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Legal services",
-      "international_classes": [
-        "045"
-      ],
-      "processed": "2025-05-20T09:39:04.673319"
-    },
-    {
-      "id": "31be445077fea254f213a76ef0d18381",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Stephen W Crespo",
-      "applicant_full": "Stephen W Crespo",
-      "mark": "CURLYWORKS",
-      "serial": "99191833",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Textile fabrics for use in the manufacture of garments, bags, jackets, gloves, and apparel",
-      "international_classes": [
-        "024"
-      ],
-      "processed": "2025-05-20T09:39:04.674601"
-    },
-    {
-      "id": "a95df239556abd718a959e89cc91ae9f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "WARMING ESSENTIALS LLC",
-      "applicant_full": "WARMING ESSENTIALS LLC",
-      "mark": "WARMING ESSENTIALS MESMERIZE YOUR SENSES",
-      "serial": "99191834",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Soy candles",
-      "international_classes": [
-        "004"
-      ],
-      "processed": "2025-05-20T09:39:04.675601"
-    },
-    {
-      "id": "42bd0de7331bfc11d84ae90a396fceec",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "American Wagering, Inc.",
-      "applicant_full": "American Wagering, Inc.",
-      "mark": "SIGNATURE BLACKJACK SURRENDER",
-      "serial": "99191835",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Entertainment services, namely, providing online computer games, interactive computer games, online game applications and online computer games in mobile form; providing games within online computer games and enhancements within online computer games; entertainment services, namely, providing a webs",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.679430"
-    },
-    {
-      "id": "4d32d2bac1e694f88d23ad17eae4062e",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Pizza Store One LLC",
-      "applicant_full": "Pizza Store One LLC",
-      "mark": "SANTO TRATTORIA",
-      "serial": "99191836",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Restaurant; Restaurant services",
-      "international_classes": [
-        "043"
-      ],
-      "processed": "2025-05-20T09:39:04.680442"
-    },
-    {
-      "id": "420514611b5f3791576a0c9bfc0eca52",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "SCHWARTZ-MEI GROUP USA, INC.",
-      "applicant_full": "SCHWARTZ-MEI GROUP USA, INC.",
-      "mark": "AETHERIS",
-      "serial": "99191837",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Generation of energy from renewable resources and fossil fuels; Leasing of energy generating equipment; Leasing of renewable energy generation equipment; Generation of energy; Energy generation services",
-      "international_classes": [
-        "040"
-      ],
-      "processed": "2025-05-20T09:39:04.682430"
-    },
-    {
-      "id": "f93e387f675645d782e63448caceb71e",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Erich J Harvey",
-      "applicant_full": "Erich J Harvey",
-      "mark": "FITCYPHER",
-      "serial": "99191838",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Downloadable software in the nature of a mobile application for tracking fitness, workouts, and nutrition.",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.683884"
-    },
-    {
-      "id": "2f986b9505e456c0db6dd4490e83ff21",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "At Eaze LLC",
-      "applicant_full": "At Eaze LLC",
-      "mark": "SUSHI-ZZA",
-      "serial": "99191839",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Sushi | Sushi restaurant services",
-      "international_classes": [
-        "030",
-        "043"
-      ],
-      "processed": "2025-05-20T09:39:04.684812"
-    },
-    {
-      "id": "d5f775561dc5d22062695aa1976cddc2",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Asian Bank",
-      "applicant_full": "Asian Bank",
-      "mark": "GET THE FUNDS YOU NEED",
-      "serial": "99191840",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Banking services",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.685683"
-    },
-    {
-      "id": "1d88a4a2eb5f57a788f5e2240dcd3c0e",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Conair LLC",
-      "applicant_full": "Conair LLC",
-      "mark": "CONAIR",
-      "serial": "99191841",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Radios incorporating clocks; Bathroom scales; Digital bathroom scales; Weighing scales; Adapter plugs | Electric clothes irons; Electric steam irons | Alarm clocks | Electric massage appliances, namely, electric vibrating massager; Massage apparatus; Facial rollers in the nature of massage apparatus",
-      "international_classes": [
-        "008",
-        "009",
-        "010",
-        "014"
-      ],
-      "processed": "2025-05-20T09:39:04.689038"
-    },
-    {
-      "id": "67622a9bd6832bac319759ab00fcb941",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "GEROX WORKS, S.L.",
-      "applicant_full": "GEROX WORKS, S.L.",
-      "mark": "WALLABOL",
-      "serial": "99191842",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Metal hooks; Metal clothes hooks; Magnetic metal hooks; Metal garment hooks; Metal cup hooks; Towel hooks of metal; Hat-hanging hooks of metal; Pot hooks of metal; Metal mirror hangers; Hooks of metal for clothes rails; Hangers in the nature of metal hooks used to hang a purse or bag from a table; M",
-      "international_classes": [
-        "006",
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.693295"
-    },
-    {
-      "id": "e916119cbdb93ba7198699933bfe5cd3",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "OutPlay Games LLC",
-      "applicant_full": "OutPlay Games LLC",
-      "mark": "OUTPLAY",
-      "serial": "99191843",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Board games; Puzzle board games",
-      "international_classes": [
-        "028"
-      ],
-      "processed": "2025-05-20T09:39:04.694257"
-    },
-    {
-      "id": "b241bb45420380fee8ac79c9a8b9ea4b",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Reclaim Integrative Medicine PLLC",
-      "applicant_full": "Reclaim Integrative Medicine PLLC",
-      "mark": "ALTIRA PROTOCOL",
-      "serial": "99191845",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Medical services",
-      "international_classes": [
-        "044"
-      ],
-      "processed": "2025-05-20T09:39:04.695277"
-    },
-    {
-      "id": "8d289665fe0a4361d12c025839cdc6df",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "SCHWARTZ-MEI GROUP USA, INC.",
-      "applicant_full": "SCHWARTZ-MEI GROUP USA, INC.",
-      "mark": "AETHERIS",
-      "serial": "99191846",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Rental of decentralized cloud storage facility for containerized data centers of others; Leasing of data center facilities",
-      "international_classes": [
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.696898"
-    },
-    {
-      "id": "9cf46ba66405913ec7a0ad7070dbf32c",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "SOON Movement Global",
-      "applicant_full": "SOON Movement Global",
-      "mark": "No word mark",
-      "serial": "99191847",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Life coaching services in the field of spiritual, religious and cultural values and issues and the intersection of spiritual and religious values and issues with ethnic culture; Life coaching services in the field of achieving personal spiritual growth, developing character, and building and strengt",
-      "international_classes": [
-        "045",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.700902"
-    },
-    {
-      "id": "be2756b1cd4744260297cdc9603fe435",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Dr. Heidemarie Kremer - STAR H LLC",
-      "applicant_full": "Dr. Heidemarie Kremer - STAR H LLC",
-      "mark": "H STAR H HEALTH, HOMES & HAPPINESS",
-      "serial": "99191848",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Business consultation services; Business development services; Business marketing services; Business information services; Business advisory services; Business consulting services; Business to business direct marketing services; Business consultancy services; Business consulting services in business",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.704908"
-    },
-    {
-      "id": "544a9d94ef4b31944f7e4d0a7007ceb7",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Tina Chang",
-      "applicant_full": "Tina Chang",
-      "mark": "BILY LOVE",
-      "serial": "99191849",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Shirts; T-shirts; Blouses; Pants; Trousers; Dresses; Skirts; Shorts; Sweaters; Sleepwear; Hats; Sports caps and hats",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.706433"
-    },
-    {
-      "id": "134f1653bf66dae49446c8ac8e657384",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Yayas Boutique LLC",
-      "applicant_full": "Yayas Boutique LLC",
-      "mark": "PET PULSE NUTRITION",
-      "serial": "99191850",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Dietary pet supplements in the form of pet treats; Dietary supplements for pets; Dietary supplements for pets in the nature of a powdered drink mix; Feed supplements for Dogs and cat; Nutritional supplements for Dogs and cats; Vitamins for pets",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.708794"
-    },
-    {
-      "id": "71af15626fe45948ec6a66650076513d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Juanita Martin Enterprises",
-      "applicant_full": "Juanita Martin Enterprises",
-      "mark": "THE SELF W.O.R.T.H. FRAMEWORK",
-      "serial": "99191851",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Consulting services about education; Providing information about online education; Providing continuing business education courses; Business education and training services, namely, developing customized leadership and executive development programs, providing executive coaching services, and provid",
-      "international_classes": [
-        "016",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.712796"
-    },
-    {
-      "id": "71a1d9ce5c3ed9ffa488cf94c7690045",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "American Wagering, Inc.",
-      "applicant_full": "American Wagering, Inc.",
-      "mark": "SIGNATURE MULTIHAND BLACKJACK SURRENDER",
-      "serial": "99191852",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Entertainment services, namely, providing online computer games, interactive computer games, online game applications and online computer games in mobile form; providing games within online computer games and enhancements within online computer games; entertainment services, namely, providing a webs",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.716758"
-    },
-    {
-      "id": "bb6fe432ab26e475f1d783a41f38b13f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "PICO, LLC",
-      "applicant_full": "PICO, LLC",
-      "mark": "P.O.R.T.",
-      "serial": "99191853",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Footwear; Footwear components sold as a component of shoes, namely, medial and lateral mid-foot components for enhanced balance and support",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.718432"
-    },
-    {
-      "id": "9e7735f97892cafde35f42fa8ba608f5",
-      "category": "tech",
-      "category_confidence": 0.36000000000000004,
-      "applicant": "MyDearest Inc.",
-      "applicant_full": "MyDearest Inc.",
-      "mark": "CHAINED ESCAPE",
-      "serial": "99191854",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Entertainment services, namely, providing on-line computer games; Virtual reality game services provided on-line from a computer network; Providing online computer games; Providing online augmented reality games; Providing online computer games featuring virtual worlds in which users can interact fo",
-      "international_classes": [
-        "025",
-        "028",
-        "009",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.722363"
-    },
-    {
-      "id": "62dae29c7e5ebe0452a74173805598b2",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "CORSICANA BEDDING, LLC",
-      "applicant_full": "CORSICANA BEDDING, LLC",
-      "mark": "COMPLETE COMFORT",
-      "serial": "99191855",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Furniture; Bed bases",
-      "international_classes": [
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.723298"
-    },
-    {
-      "id": "00b2d2f2f50e9128766a7574f4b40e57",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Victoria L Dammer, LLC",
-      "applicant_full": "Victoria L Dammer, LLC",
-      "mark": "LACROSSE IS NOT JUST A SPORT. IT'S A RELIGION !",
-      "serial": "99191856",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Smart clothing in the nature of shirts incorporating biochip sensors; Hats; T-shirts",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.724939"
-    },
-    {
-      "id": "4f6d1216400595e4fd811146129e06ba",
-      "category": "food",
-      "category_confidence": 0.52,
-      "applicant": "Cousins Fried Seafood, LLC",
-      "applicant_full": "Cousins Fried Seafood, LLC",
-      "mark": "COUSINS FRIED SEAFOOD",
-      "serial": "99191857",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Prepared food kits composed of meat, poultry, fish, seafood, and/or vegetables and also including sauces or seasonings, ready for cooking and assembly as a meal; e-commerce food products, primarily fried food products | Clothing, namely, shirts, hats, pants, and other apparel. | Providing of food an",
-      "international_classes": [
-        "025",
-        "029",
-        "043"
-      ],
-      "processed": "2025-05-20T09:39:04.728701"
-    },
-    {
-      "id": "321c0ac78994a500943d4d60c57202d9",
-      "category": "food",
-      "category_confidence": 0.30000000000000004,
-      "applicant": "miMap Inc.",
-      "applicant_full": "miMap Inc.",
-      "mark": "MIMAP",
-      "serial": "99191858",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Mixes in the nature of concentrates, syrups or powders used in the preparation of tea based beverages; Tapioca pearls; Matcha | Rental of machines and apparatus for processing beverages | Dairy-based powders for making dairy-based food beverages and shakes; Non-dairy creamer | Non-aerated beverage m",
-      "international_classes": [
-        "029",
-        "030",
-        "032",
-        "035",
-        "007",
-        "040"
-      ],
-      "processed": "2025-05-20T09:39:04.732766"
-    },
-    {
-      "id": "b453020a5cecdd67c53c57f93d4741d0",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Shenzhen Jie Yun E-commerce Co., Ltd.",
-      "applicant_full": "Shenzhen Jie Yun E-commerce Co., Ltd.",
-      "mark": "CHILOSKIT",
-      "serial": "99191859",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Abrading tools, hand-operated; Bench vices being hand-operated implements; Bits for hand drills; Drill bits for hand drills; Hand tools, namely, graving tools; Hand tools, namely, manually-operated grinding wheels; Hand tools, namely, pincers; Needle files; Hand-operated ratchet wrenches; Hand-opera",
-      "international_classes": [
-        "008"
-      ],
-      "processed": "2025-05-20T09:39:04.735999"
-    },
-    {
-      "id": "ff616c414976d8e5653e30fbe77a3502",
-      "category": "gaming",
-      "category_confidence": 0.34,
-      "applicant": "HK GOOSOM TECHNOLOGY CO., LIMITED",
-      "applicant_full": "HK GOOSOM TECHNOLOGY CO., LIMITED",
-      "mark": "ORBIIEGELS",
-      "serial": "99191860",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Arcade game machines; Arcade-type electronic video games; Electronic learning toys; Electronic novelty toys, namely, toys that electronically record, play back, and distort or manipulate voices and sounds; Model toy vehicles; Remote control toys, namely, cars, race cars, airplanes, boats; Toy airpla",
-      "international_classes": [
-        "028"
-      ],
-      "processed": "2025-05-20T09:39:04.739906"
-    },
-    {
-      "id": "f25bd0df557b8f1b850364bc995ce28d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Matthew Odachowski",
-      "applicant_full": "Matthew Odachowski",
-      "mark": "ROCK AND RIDE",
-      "serial": "99191861",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Organizing, arranging, and conducting motorcycle events; Conducting of entertainment events in the nature of motorcycle festivals; Organization of entertainment events in the nature of motorcycle festivals",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.741878"
-    },
-    {
-      "id": "b3c6e51a9572689b978d93dcb383a22a",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "SCHWARTZ-MEI GROUP USA, INC.",
-      "applicant_full": "SCHWARTZ-MEI GROUP USA, INC.",
-      "mark": "A",
-      "serial": "99191862",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Generation of energy from renewable resources and fossil fuels; Leasing of energy generating equipment; Leasing of renewable energy generation equipment; Generation of energy; Energy generation services | Real estate development; Installation and maintenance of solar energy based power plants; Const",
-      "international_classes": [
-        "040",
-        "036",
-        "037",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.745607"
-    },
-    {
-      "id": "f84b38b62005cf565296fa0ef71aafd1",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "VAN AMERICA LLC",
-      "applicant_full": "VAN AMERICA LLC",
-      "mark": "VANAM ADAPT",
-      "serial": "99191863",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Campers",
-      "international_classes": [
-        "012"
-      ],
-      "processed": "2025-05-20T09:39:04.746464"
-    },
-    {
-      "id": "c0a70a15b81f42e11fbcb524e9562902",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "WISH ATLANTA, LLC",
-      "applicant_full": "WISH ATLANTA, LLC",
-      "mark": "WISH",
-      "serial": "99191864",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Clothing, namely, tops, bottoms, shirts pants, shorts, sweat suits, socks, shoes, jackets sweaters, coats, hats and gloves",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.748126"
-    },
-    {
-      "id": "52401d573a09610b080fe6b7be19128c",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Caesars License Company, LLC",
-      "applicant_full": "Caesars License Company, LLC",
-      "mark": "No word mark",
-      "serial": "99191865",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Hotel accommodation services; Restaurant and bar services; Provision of conference, exhibition and meeting facilities",
-      "international_classes": [
-        "043"
-      ],
-      "processed": "2025-05-20T09:39:04.749769"
-    },
-    {
-      "id": "f55fe09ad0380b5f0d32284f30f15822",
-      "category": "tech",
-      "category_confidence": 0.5,
-      "applicant": "OWM GROUP LTD",
-      "applicant_full": "OWM GROUP LTD",
-      "mark": "OPENWEATHER",
-      "serial": "99191866",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Downloadable computer software for authorising access to data bases; Downloadable intelligent personal assistant software for weather information; Downloadable computer software for application and database integration; Downloadable computer simulation software for modeling weather conditions; Meteo",
-      "international_classes": [
-        "025",
-        "035",
-        "038",
-        "009",
-        "016",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.753600"
-    },
-    {
-      "id": "e1a62cb1ca135ed92b4c64fbac9072ea",
-      "category": "tech",
-      "category_confidence": 0.52,
-      "applicant": "Soul Interface Inc.",
-      "applicant_full": "Soul Interface Inc.",
-      "mark": "NO STANDARD CHARACTERS APPEAR, ONLY ONE CHINESE CHARACTER",
-      "serial": "99191867",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Sunglasses and spectacles; Downloadable speech recognition software; Recorded speech recognition software; Recorded computer programs using artificial intelligence (AI) for voice recognition, natural-language understanding, and text-to-speech synthesis in motor vehicles; Downloadable intelligent per",
-      "international_classes": [
-        "025",
-        "009",
-        "012"
-      ],
-      "processed": "2025-05-20T09:39:04.757831"
-    },
-    {
-      "id": "b797377e075de74641157bfa1a342a5f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Global Eye Investments, LLC",
-      "applicant_full": "Global Eye Investments, LLC",
-      "mark": "SALVIARE",
-      "serial": "99191868",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Caviar",
-      "international_classes": [
-        "029"
-      ],
-      "processed": "2025-05-20T09:39:04.758732"
-    },
-    {
-      "id": "a94a290f5f12749eff35a942860fcb0d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Shenzhen Yichishan Technology Co., Ltd.",
-      "applicant_full": "Shenzhen Yichishan Technology Co., Ltd.",
-      "mark": "FITYCSW",
-      "serial": "99191869",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Golf club shafts; Golf club holders for use on a driving range or golf course; Tennis racquets, baseball bats, cricket bats, golf clubs and hockey sticks; Handle grips for sporting equipment; Exercise equipment, namely, chest expanders; Exercise equipment, namely, abdominal boards; Manually-operated",
-      "international_classes": [
-        "028"
-      ],
-      "processed": "2025-05-20T09:39:04.762306"
-    },
-    {
-      "id": "23536ec2ebf1e902290e20c6fa8ab4ed",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "BF Sleep, LLC",
-      "applicant_full": "BF Sleep, LLC",
-      "mark": "BIG FIG",
-      "serial": "99191870",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Mattress pads; Bed sheets; Pillow cases; Pillow protector covers | Adjustable beds; Bed bases; Pillows; Bed frames; Mattress foundations; Mattresses",
-      "international_classes": [
-        "024",
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.764090"
-    },
-    {
-      "id": "27e89abc3c86d8cd9243cc7d524a801b",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "DL IP Holdings, LLC",
-      "applicant_full": "DL IP Holdings, LLC",
-      "mark": "DEKA FACE AESTHETICS",
-      "serial": "99191871",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Permanent makeup services; Cosmetic eyebrow care services; Cosmetic skin care services, namely, facials, injection of dermal filling agents and neuromuscular blocking agents to reduce the appearance of facial lines and wrinkles; Beauty treatment services especially for eyelashes; Beauty care service",
-      "international_classes": [
-        "044"
-      ],
-      "processed": "2025-05-20T09:39:04.766955"
-    },
-    {
-      "id": "474f120256315de888cf11460ca7c55c",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "CANCERSUCCS Inc.",
-      "applicant_full": "CANCERSUCCS Inc.",
-      "mark": "CANCERSUCCS",
-      "serial": "99191872",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Personal selection of gifts for customized gift boxes; Preparation of customized gift boxes",
-      "international_classes": [
-        "045"
-      ],
-      "processed": "2025-05-20T09:39:04.768346"
-    },
-    {
-      "id": "36c65a47fab9184c33be52459e81a75d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Gooptimized LLC",
-      "applicant_full": "Gooptimized LLC",
-      "mark": "GOOPTIMIZED",
-      "serial": "99191873",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Online advertising and marketing services in the field of promoting the goods and services of others through social media ads, search engine ads, and digital advertising campaigns.",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.770344"
-    },
-    {
-      "id": "9a0dbaaedeec194ff9d17822147e9a44",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "ANDEAN ADVENTURE LLC",
-      "applicant_full": "ANDEAN ADVENTURE LLC",
-      "mark": "ANDEAN ADVENTURE",
-      "serial": "99191874",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Travel agency services, namely, making reservations and bookings  for transportation; Arranging of transportation for travel tours; Providing information about travel",
-      "international_classes": [
-        "039"
-      ],
-      "processed": "2025-05-20T09:39:04.772279"
-    },
-    {
-      "id": "d0472d9b9f2e7761d69753bfca4d4cba",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "BF Sleep, LLC",
-      "applicant_full": "BF Sleep, LLC",
-      "mark": "BIG FIG",
-      "serial": "99191875",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Mattress pads; Bed sheets; Pillow cases; Pillow protector covers | Adjustable beds; Bed bases; Pillows; Bed frames; Mattress foundations; Mattresses",
-      "international_classes": [
-        "024",
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.774068"
-    },
-    {
-      "id": "98546933b13a24f545f48d9821758ec0",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "DX Tech Pty Ltd",
-      "applicant_full": "DX Tech Pty Ltd",
-      "mark": "FIRESAFE",
-      "serial": "99191876",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Apparatus and instruments for scientific, research, surveying, measuring, detecting, testing and inspecting, namely, computers; apparatus for digital signal processing, namely, digital signal processor; radio frequency sensor; apparatus for detecting radio signals in power lines, namely, radio recei",
-      "international_classes": [
-        "038",
-        "009",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.778270"
-    },
-    {
-      "id": "3ed608f558f7cee9224d25cbdac87f53",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Gibson Cosmetics LLC",
-      "applicant_full": "Gibson Cosmetics LLC",
-      "mark": "NUMBRRRZ",
-      "serial": "99191877",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Non-medicated lip balm containing beeswax",
-      "international_classes": [
-        "003"
-      ],
-      "processed": "2025-05-20T09:39:04.779372"
-    },
-    {
-      "id": "ba723e256649c0e452eb6120d08f8b42",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Delta Faucet Company",
-      "applicant_full": "Delta Faucet Company",
-      "mark": "TAVIS",
-      "serial": "99191878",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Faucets",
-      "international_classes": [
-        "011"
-      ],
-      "processed": "2025-05-20T09:39:04.780225"
-    },
-    {
-      "id": "3c0bc13d42afde3acd96885124200cfc",
-      "category": "tech",
-      "category_confidence": 0.4,
-      "applicant": "Datalytix, LLC",
-      "applicant_full": "Datalytix, LLC",
-      "mark": "CLARIVISION",
-      "serial": "99191879",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Apparatus for recording and reproduction of sound, images or data; Apparatus for broadcasting, recording, transmission or reproduction of sound or images; Downloadable computer programs using artificial intelligence (AI) for detecting, collecting, and analyzing images and imaging data; Downloadable ",
-      "international_classes": [
-        "009",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.784399"
-    },
-    {
-      "id": "b157162bf7cff7179b61d1549c3a04c4",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Shenzhen Huaruixing Trading Co., Ltd",
-      "applicant_full": "Shenzhen Huaruixing Trading Co., Ltd",
-      "mark": "HRX PACKAGE",
-      "serial": "99191880",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Bags of paper or plastics for packaging; Plastic bubble packs for packaging; Garbage bags of paper or of plastics; Packaging and containers comprised of starch-based materials in the nature of a paper substitute for food, beverages and consumer products; Plastic bags for pet waste disposal; Shopping",
-      "international_classes": [
-        "016"
-      ],
-      "processed": "2025-05-20T09:39:04.788032"
-    },
-    {
-      "id": "d6b801201144c0b18b078e5ab3faa5b5",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Isaiah Bernie Mendoza",
-      "applicant_full": "Isaiah Bernie Mendoza",
-      "mark": "THE EXCLUSIVE WAY",
-      "serial": "99191881",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Barbershops",
-      "international_classes": [
-        "044"
-      ],
-      "processed": "2025-05-20T09:39:04.789122"
-    },
-    {
-      "id": "b666923dd25a38d05f5b4377298a8d15",
-      "category": "tech",
-      "category_confidence": 0.52,
-      "applicant": "Premier Tech Ltd.",
-      "applicant_full": "Premier Tech Ltd.",
-      "mark": "OPRIZE",
-      "serial": "99191882",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Downloadable computer software platforms for use in asset optimization, machine diagnostics, and optimization of industrial and manufacturing operation management; Downloadable cloud-computing software for information management, data collection, data analysis and data visualization in the fields of",
-      "international_classes": [
-        "009",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.793242"
-    },
-    {
-      "id": "7e0d878ca64fe86bfd80d37669e773c7",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Halocline International, LLC",
-      "applicant_full": "Halocline International, LLC",
-      "mark": "HALOCLINE INTERNATIONAL",
-      "serial": "99191883",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Heating, ventilating, and air conditioning equipment, namely, air conditioners; water chillers for use in connection with air conditioning systems; heat recovery chillers for use in connection with air conditioning systems; water heaters; ventilating exhaust fans; direct exchange fan coils as parts ",
-      "international_classes": [
-        "011"
-      ],
-      "processed": "2025-05-20T09:39:04.797669"
-    },
-    {
-      "id": "14a451121eaa0c3cb0758546b7c606dd",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Natalie J Barabash",
-      "applicant_full": "Natalie J Barabash",
-      "mark": "NORTH + ASH CANDLES",
-      "serial": "99191884",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Candles",
-      "international_classes": [
-        "004"
-      ],
-      "processed": "2025-05-20T09:39:04.798627"
-    },
-    {
-      "id": "23e298a1344bc644cfad5804b068465f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "BTTE, LLC",
-      "applicant_full": "BTTE, LLC",
-      "mark": "B.T. T.E. BROTHERS TILL THE END",
-      "serial": "99191885",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "On-line retail store services featuring hats, t-shirts, bandanas, steel mugs, leather bracelets",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.800274"
-    },
-    {
-      "id": "fb4d58677f5713f54349fedf325627e2",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "MHL TRADING INC",
-      "applicant_full": "MHL TRADING INC",
-      "mark": "BLACK LEOPARD",
-      "serial": "99191886",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Herbal supplements; Natural herbal supplements; Herbal supplements for Enhancement of male power; Dietary supplements; Dietary food supplements; Natural dietary supplements",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.802232"
-    },
-    {
-      "id": "a6d976c69643c5f1b18c23a78a145e2d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "United States Distilled Products Company",
-      "applicant_full": "United States Distilled Products Company",
-      "mark": "CAF\u00c9 GRANITA",
-      "serial": "99191887",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Alcoholic beverages except beers; Wine-based beverages",
-      "international_classes": [
-        "033"
-      ],
-      "processed": "2025-05-20T09:39:04.803573"
-    },
-    {
-      "id": "3b9af3bc8d42d515cd0b5eb1de86dccf",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Imaginnovative Design Studio LLC",
-      "applicant_full": "Imaginnovative Design Studio LLC",
-      "mark": "IMAGINNOVATIVE DESIGN STUDIO",
-      "serial": "99191888",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Computer graphics design services, namely, creating of 3D files for print, 2D vector; Graphic design",
-      "international_classes": [
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.805302"
-    },
-    {
-      "id": "0f8d48e5f3ca0c30b98cb295eb7ce3ea",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Jill Fazekas",
-      "applicant_full": "Jill Fazekas",
-      "mark": "THE LITERAL ELEMENT IS DOMESTIC DISTURBANCE",
-      "serial": "99191889",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Conducting entertainment exhibitions in the nature of professional automobile races and auto racing exhibitions; Entertainment services in the nature of professional athletes competing in drag racing competitions, exhibitions and events; Entertainment services, namely, personal appearances by a team",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.809460"
-    },
-    {
-      "id": "af695cc69c1eb006be954d41d0becbe7",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "NeuroLogica Corp.",
-      "applicant_full": "NeuroLogica Corp.",
-      "mark": "RADREDUX",
-      "serial": "99191890",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Computer software, recorded, for enhancing images generated by a CT imaging machine",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.810804"
-    },
-    {
-      "id": "30bc9480a3cc5b70cb1e6c32a1d9e705",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Addie Owens",
-      "applicant_full": "Addie Owens",
-      "mark": "MERMA",
-      "serial": "99191891",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Providing information in the fields of education and entertainment for children via a website; Providing a website featuring information in the fields of education and entertainment for children; Educational and entertainment services, namely, a continuing program about featuring a fictional charact",
-      "international_classes": [
-        "016",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.815033"
-    },
-    {
-      "id": "3d45ca89d59312be60c49ef7e9c7bba4",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Bellerive Country Club",
-      "applicant_full": "Bellerive Country Club",
-      "mark": "1897",
-      "serial": "99191892",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Golf instruction; Golf courses; Golf club services; Providing golf facilities; Organisation of golf tournaments; Planning of professional golf tournaments; Organization, arranging and conducting of professional golf tournaments or competitions | Golf gloves; Fitted protective covers specially adapte",
-      "international_classes": [
-        "025",
-        "028",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.819331"
-    },
-    {
-      "id": "6a8644aa2963be7a749ebc8eafa929db",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Mitchell Cole",
-      "applicant_full": "Mitchell Cole",
-      "mark": "BOOTY BUILD HUNT DESTROY",
-      "serial": "99191893",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Board games; Puzzle board games",
-      "international_classes": [
-        "028"
-      ],
-      "processed": "2025-05-20T09:39:04.820495"
-    },
-    {
-      "id": "c87f7b9d28e19f6bd42f479323aa7def",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "KB Collective Real Estate",
-      "applicant_full": "KB Collective Real Estate",
-      "mark": "KEY AND BASE REAL ESTATE",
-      "serial": "99191894",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Real estate agency services",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.821676"
-    },
-    {
-      "id": "a58b2c46598fa8b7d9db292ad49fb7ab",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Vatn Systems, Inc.",
-      "applicant_full": "Vatn Systems, Inc.",
-      "mark": "VATN",
-      "serial": "99191895",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Manufacturing services for others in the field of autonomous underwater vehicles | Downloadable software for use in connection with autonomous underwater vehicles | Autonomous underwater vehicles | Research, design, and development services in the field of autonomous underwater vehicles for others; ",
-      "international_classes": [
-        "040",
-        "009",
-        "012",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.825024"
-    },
-    {
-      "id": "34c4d688e5f1f4dd3ddb8852bc3a876f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Tanya Weddemire Gallery Inc.",
-      "applicant_full": "Tanya Weddemire Gallery Inc.",
-      "mark": "TANYA WEDDEMIRE GALLERY",
-      "serial": "99191896",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Art exhibition services",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.826161"
-    },
-    {
-      "id": "63b74def243ed9ae3cbe5b5fcad0e235",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "RITUALE BEAUTY LLC",
-      "applicant_full": "RITUALE BEAUTY LLC",
-      "mark": "TUESDAY\u2019S CHILD",
-      "serial": "99191897",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Hair shampoo; Hair conditioner; Hair styling preparations",
-      "international_classes": [
-        "003"
-      ],
-      "processed": "2025-05-20T09:39:04.827342"
-    },
-    {
-      "id": "a0ede3d0545463e53c7d8e478fe1a36a",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Delta Faucet Company",
-      "applicant_full": "Delta Faucet Company",
-      "mark": "RANSLEY",
-      "serial": "99191898",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Faucets",
-      "international_classes": [
-        "011"
-      ],
-      "processed": "2025-05-20T09:39:04.828206"
-    },
-    {
-      "id": "977172a3c42bcc44dbb5bb425ce61232",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Actelion Pharmaceuticals Ltd",
-      "applicant_full": "Actelion Pharmaceuticals Ltd",
-      "mark": "NUELPHI",
-      "serial": "99191899",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Pharmaceuticals preparations for the treatment of cardiovascular and pulmonary diseases",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.829602"
-    },
-    {
-      "id": "76c568b16ef53aad31e563a4bf47b4cc",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Quanzhou Nuoxian Trading Co., Ltd.",
-      "applicant_full": "Quanzhou Nuoxian Trading Co., Ltd.",
-      "mark": "RENOVAFLEX",
-      "serial": "99191900",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Cyclists' jerseys; Yoga shirts; Yoga pants; Cycling bib shorts; Cycling shorts; Running suits; Sweatsuits; Sweatpants; Sweatshirts; Swimwear; Triathlon clothing, namely, triathlon tights, triathlon shorts, triathlon singlets, triathlon shirts, triathlon suits; Hooded sweat shirts; Clothing for athle",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.832987"
-    },
-    {
-      "id": "0c0c7b7bd6fdbdc5fe57dedf9898b887",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "McArdle Marketing Co.",
-      "applicant_full": "McArdle Marketing Co.",
-      "mark": "STRATEGYMAPPING",
-      "serial": "99191901",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Educational services, namely, conducting workshops, training sessions, coaching programs, and seminars in the field of marketing strategy, brand messaging, and business development, and distribution of course and educational materials in connection therewith | Business consulting services, namely, p",
+      "description": "Educational services; conducting conferences, seminars, classes workshops, courses, and webinars; training services; providing training for certification; non-downloadable podcasts; conducting conferences, seminars, classes workshops, courses, and webinars in field of data analytics, data migration,",
       "international_classes": [
         "035",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.836411"
-    },
-    {
-      "id": "3b2fc89704b626c214ceaa3c5edeb477",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Edge TGW Holdings Corp.",
-      "applicant_full": "Edge TGW Holdings Corp.",
-      "mark": "EDGE INDUSTRIAL TECHNOLOGIES",
-      "serial": "99191902",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Machining and manufacturing services in the field of industrial machine knives and blades to the order and specification of others",
-      "international_classes": [
-        "040"
-      ],
-      "processed": "2025-05-20T09:39:04.838281"
-    },
-    {
-      "id": "4897035f2e632ad330b130882cd039fc",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Desygn Theory LLC",
-      "applicant_full": "Desygn Theory LLC",
-      "mark": "DESYGNTHEORY",
-      "serial": "99191903",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Art prints",
-      "international_classes": [
-        "016"
-      ],
-      "processed": "2025-05-20T09:39:04.839182"
-    },
-    {
-      "id": "c29c2cf1c4be200f317ba97bf36fa45d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Actelion Pharmaceuticals Ltd",
-      "applicant_full": "Actelion Pharmaceuticals Ltd",
-      "mark": "BEXAPHY",
-      "serial": "99191904",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Pharmaceuticals preparations for the treatment of cardiovascular and pulmonary diseases",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.840575"
-    },
-    {
-      "id": "138a4aff0db1667745da129a158479f0",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Optic Depot LLC",
-      "applicant_full": "Optic Depot LLC",
-      "mark": "FOGEX",
-      "serial": "99191905",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Optical lenses; Sports eyewear; Safety eyewear; Eyewear",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.841715"
-    },
-    {
-      "id": "b306c2023f0490d5354e0aa5343ab365",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "The Stafford Foundation, LLC",
-      "applicant_full": "The Stafford Foundation, LLC",
-      "mark": "PELHAM PROWLERS",
-      "serial": "99191906",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Entertainment in the nature of hockey games; Organization of ice hockey games; Ice hockey instruction | Hats; Sports jerseys; Shirts",
-      "international_classes": [
-        "025",
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.843549"
-    },
-    {
-      "id": "f0060b3c343a3fa47f83689b1c4291ca",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "New Relief LLC",
-      "applicant_full": "New Relief LLC",
-      "mark": "QORE",
-      "serial": "99191907",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Dietary supplements",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.844428"
-    },
-    {
-      "id": "b06b69b8b9960629f6784d8c05531d24",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Wow Media, Inc.",
-      "applicant_full": "Wow Media, Inc.",
-      "mark": "EON",
-      "serial": "99191908",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Electronic billboard advertising",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.845394"
-    },
-    {
-      "id": "632e092976d91e25c4d9a81536f9e25d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "YIWU GUANGZONG E-COMMERCE FIRM",
-      "applicant_full": "YIWU GUANGZONG E-COMMERCE FIRM",
-      "mark": "VPKIN",
-      "serial": "99191909",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Diet capsules; Dietary supplement for eliminating toxins from the intestinal tract; Dietary supplements for humans; Dietary supplements for pets; Enzyme food supplements; Food supplements; Health food supplements; Liquid herbal supplements; Liquid nutritional supplement; Mineral dietary supplements;",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.849220"
-    },
-    {
-      "id": "f08856c9d64a0590489aa09487e5ce63",
-      "category": "tech",
-      "category_confidence": 0.56,
-      "applicant": "INTEGRITY SECURITY SERVICES LLC",
-      "applicant_full": "INTEGRITY SECURITY SERVICES LLC",
-      "mark": "I O",
-      "serial": "99191910",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Downloadable software for use in the field of cryptographic security services for communication between electronic devices, namely, digital signing, supply chain asset management, certificate authority management, over-the-air updates, cyber asset management and authority management of internet-of-t",
-      "international_classes": [
         "009",
+        "041",
         "042"
       ],
-      "processed": "2025-05-20T09:39:04.853416"
-    },
-    {
-      "id": "2e28d6eac7f9c4d91152be9aaa61fa1f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Johnathan Lewis II",
-      "applicant_full": "Johnathan Lewis II",
-      "mark": "AFIUS",
-      "serial": "99191911",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Tops as clothing; Bottoms as clothing; Headwear; Footwear; Undergarments",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.854682"
-    },
-    {
-      "id": "946a33a7a9e145d13a164652373355c4",
-      "category": "crypto",
-      "category_confidence": 0.92,
-      "applicant": "ModDNA LLC",
-      "applicant_full": "ModDNA LLC",
-      "mark": "MODPULSE",
-      "serial": "99191912",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Cryptocurrency payment processing; Financial trading of cryptocurrency | Providing temporary use of on-line non-downloadable software and applications for enabling cryptocurrency transactions, smart contract execution, wallet management, token minting and burning, and blockchain-based infrastructure",
-      "international_classes": [
-        "036",
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.858114"
-    },
-    {
-      "id": "eda4f171627ea41800e4af8f6b093e13",
-      "category": "tech",
-      "category_confidence": 0.30000000000000004,
-      "applicant": "KRISTY DAVIS",
-      "applicant_full": "KRISTY DAVIS",
-      "mark": "SIMPLY SENSEI",
-      "serial": "99191913",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Software as a service (SAAS) services featuring software using artificial intelligence (AI) for facilitating finding, utilizing and the  interactions between ai agents and humans",
-      "international_classes": [
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.860120"
-    },
-    {
-      "id": "a32bb6eb4a9d1b3628d02dbf3b302891",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Guilan Li",
-      "applicant_full": "Guilan Li",
-      "mark": "ZRYTHAX",
-      "serial": "99191914",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Ceramic sculptures, vases, vessels, bowls, plates and pots; Ice buckets; Flower syringes; Flowerpots; Candlesticks not of precious metal; Flower and plant cultivation trays; Sprinklers for watering flowers and plants; Glass bowls for live goldfish; Crockery, namely, pots, dishes, drinking cups and s",
-      "international_classes": [
-        "021"
-      ],
-      "processed": "2025-05-20T09:39:04.863961"
-    },
-    {
-      "id": "9820ae5f7b863efd26fbea032cf3a707",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "ALL-DAY BOOST LLC",
-      "applicant_full": "ALL-DAY BOOST LLC",
-      "mark": "ALL DAY BOOST",
-      "serial": "99191915",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Food supplements; Vitamins; Nutritional supplements; Nutritional supplements for body enhancing",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.865484"
-    },
-    {
-      "id": "3aac27d33d1c75544d421cb57a5dbb4d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "jhoan cardenas",
-      "applicant_full": "jhoan cardenas",
-      "mark": "FINANZAS CON UN PROP\u00d3SITO",
-      "serial": "99191916",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Financial consulting; Financial consulting and advising in the field of mergers and acquisitions; Credit and financial consultation; Financial advisory and consultancy services, namely, the creation of personalized strategies to achieve financial independence; Financial analysis and consultation; In",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.868998"
-    },
-    {
-      "id": "a4704dee07c3005962091bf5e02c8138",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Shadiamond Roseburgh",
-      "applicant_full": "Shadiamond Roseburgh",
-      "mark": "FOREVER BALLIN",
-      "serial": "99191917",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Headwear; Footwear; Pants; Shirts; Sweat shirts; T-shirts; Sport shirts; Polo shirts; Tee-shirts; Yoga shirts",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.870643"
-    },
-    {
-      "id": "201b72e09b0cff3862ec410dad161cd5",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "J&N PLUS Services LLC",
-      "applicant_full": "J&N PLUS Services LLC",
-      "mark": "J&N PLUS SERVICES LLC",
-      "serial": "99191918",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Janitorial services",
-      "international_classes": [
-        "037"
-      ],
-      "processed": "2025-05-20T09:39:04.871704"
-    },
-    {
-      "id": "c1c0edf0eb2278d1a7ded00c3580ea7c",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Joshua Spencer",
-      "applicant_full": "Joshua Spencer",
-      "mark": "LONG COLT CUSTOMS",
-      "serial": "99191919",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Clothing, namely, t-shirts, hats, clothing jackets",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.872896"
-    },
-    {
-      "id": "100edff32fce00f1c4fa1be460cc045e",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "M3P Enterprises LLC",
-      "applicant_full": "M3P Enterprises LLC",
-      "mark": "THE SQUIRRELLY BAVARIAN NUT CO.",
-      "serial": "99191920",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Roasted nuts; Flavored nuts",
-      "international_classes": [
-        "029"
-      ],
-      "processed": "2025-05-20T09:39:04.874048"
-    },
-    {
-      "id": "8366411479887706782faa96c32cdfbb",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Otasowie Lillian Osaigbovo",
-      "applicant_full": "Otasowie Lillian Osaigbovo",
-      "mark": "THE ROOM FOR THERAPY, LCSW, PLLC",
-      "serial": "99191921",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Psychotherapy services; Providing information in the field of mental health and wellness via a website",
-      "international_classes": [
-        "044"
-      ],
-      "processed": "2025-05-20T09:39:04.875793"
-    },
-    {
-      "id": "b0b4145c43b4722416982c7949819612",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Callidus Digital, LLC",
-      "applicant_full": "Callidus Digital, LLC",
-      "mark": "CALLIDUS DIGITAL",
-      "serial": "99191922",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Designing and developing websites in the field of digital presence and brand representation for businesses across various industries",
-      "international_classes": [
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.877554"
-    },
-    {
-      "id": "71bde50b771b60f2c6e6d1848e5b9ec0",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Grand Parents Club, LLC",
-      "applicant_full": "Grand Parents Club, LLC",
-      "mark": "GRAND PARENTS CLUB",
-      "serial": "99191923",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Providing on-line resource guides for relatives concerning children in the fields of education, recreation, and entertainment",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.879336"
-    },
-    {
-      "id": "2a0922849a0a31e7cb0560b8c7dba1f1",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Montana Mixers LLC",
-      "applicant_full": "Montana Mixers LLC",
-      "mark": "RESONANT MIXING",
-      "serial": "99191924",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Mechanical mixing machines",
-      "international_classes": [
-        "007"
-      ],
-      "processed": "2025-05-20T09:39:04.880354"
-    },
-    {
-      "id": "d8e5d7d7e1ae91f71c1be100fffb70e8",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "AZ Window Services LLC",
-      "applicant_full": "AZ Window Services LLC",
-      "mark": "GHOST TINT",
-      "serial": "99191925",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Tinted, laminated and reflective plastic films for use in home or auto windows",
-      "international_classes": [
-        "017"
-      ],
-      "processed": "2025-05-20T09:39:04.881747"
-    },
-    {
-      "id": "3f98528a312ea7663ba0b28fdecf5468",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "GANG FAMILY CELLARS, LLC",
-      "applicant_full": "GANG FAMILY CELLARS, LLC",
-      "mark": "CONFIDANTE",
-      "serial": "99191926",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Wine",
-      "international_classes": [
-        "033"
-      ],
-      "processed": "2025-05-20T09:39:04.882644"
-    },
-    {
-      "id": "e4970c408115dbc8cd541abd04de13db",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Sport's Synonymous LLC",
-      "applicant_full": "Sport's Synonymous LLC",
-      "mark": "SPORT'S SYNONYMOUS",
-      "serial": "99191927",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Entertainment services, namely, providing podcasts in the field of sports, personal growth, relationships, finances, family, and life lessons; Production and distribution of videos in the field of sports strategies and stories to real-life experiences; Educational services, namely, providing motivat",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.886430"
-    },
-    {
-      "id": "c788c4e38ee9ab62fe86e98f3dff6888",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "MOHIM",
-      "applicant_full": "MOHIM",
-      "mark": "MOHIM",
-      "serial": "99191928",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "T-shirts, hoodies, sweatshirts, pants, jackets, hats, beanies, and other streetwear clothing items featuring brand logos or custom designs",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.888079"
-    },
-    {
-      "id": "248661a0d2718a58f29f054383f7211f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Julien Copithorne",
-      "applicant_full": "Julien Copithorne",
-      "mark": "HIGH TICKET SOLUTIONS",
-      "serial": "99191929",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Business consulting; business profit analysis services; advertising and marketing services for businesses; Consulting in the field of sales methods, sales management, and sales improvement",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.890223"
-    },
-    {
-      "id": "72b6cd9f994a7ff7d80658fe264dc412",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "YAYI & LFE'S STUDIOS LLC",
-      "applicant_full": "YAYI & LFE'S STUDIOS LLC",
-      "mark": "STRETCHED FUSION",
-      "serial": "99191930",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Physical fitness equipment, namely, exercise bands, training bars, medicine balls, and dumbbells",
-      "international_classes": [
-        "028"
-      ],
-      "processed": "2025-05-20T09:39:04.891953"
-    },
-    {
-      "id": "5643abd083b2f4fdeb7019f8489e397d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Vahan Avagyan",
-      "applicant_full": "Vahan Avagyan",
-      "mark": "WJD EXCLUSIVES",
-      "serial": "99191931",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Jewelry",
-      "international_classes": [
-        "014"
-      ],
-      "processed": "2025-05-20T09:39:04.892878"
-    },
-    {
-      "id": "754b7dfc1768b1888315bc709d4c83c2",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "CHANGSHA SINOCARE INC.",
-      "applicant_full": "CHANGSHA SINOCARE INC.",
-      "mark": "SINOCARE",
-      "serial": "99191932",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Retail drug store services; Advertising services; Commercial administration of the licensing of the goods and services of others; Commercial information; Provision of an online marketplace for buyers and sellers of goods and services; Business services, namely, combined strategic goods or services s",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.897169"
-    },
-    {
-      "id": "b1be4b299c03f80733eb8c4fbf2e4fd0",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Wheel Pros, LLC",
-      "applicant_full": "Wheel Pros, LLC",
-      "mark": "FUEL ETHOS STR",
-      "serial": "99191933",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Tires",
-      "international_classes": [
-        "012"
-      ],
-      "processed": "2025-05-20T09:39:04.898044"
-    },
-    {
-      "id": "e815a1d56ce5992376639c134eb8a13a",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Sport's Synonymous LLC",
-      "applicant_full": "Sport's Synonymous LLC",
-      "mark": "THE GAMEPLAN FOR LIFE'S WINS",
-      "serial": "99191934",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Entertainment services, namely, providing podcasts in the field of sports, personal growth, relationships, finances, family, and life lessons; Production and distribution of videos in the field of sports strategies and stories to real-life experiences; Educational services, namely, providing motivat",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.901678"
-    },
-    {
-      "id": "38555078717cfa5c9e7120be3aca9fa7",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "YAYI & LFE'S STUDIOS LLC",
-      "applicant_full": "YAYI & LFE'S STUDIOS LLC",
-      "mark": "FUSIONFLEX",
-      "serial": "99191935",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Physical fitness equipment, namely, exercise bands, training bars, medicine balls, and dumbbells",
-      "international_classes": [
-        "028"
-      ],
-      "processed": "2025-05-20T09:39:04.903169"
-    },
-    {
-      "id": "6674c91da9c23c8d4ed06dde69986aa9",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Benjamin Mogul",
-      "applicant_full": "Benjamin Mogul",
-      "mark": "HOT GIRL TEQUILA",
-      "serial": "99191936",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Alcoholic carbonated beverages, except beer",
-      "international_classes": [
-        "033"
-      ],
-      "processed": "2025-05-20T09:39:04.904254"
-    },
-    {
-      "id": "c94c481429503a4e2244e9bd7bc57a64",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Crissy Gray",
-      "applicant_full": "Crissy Gray",
-      "mark": "BETTER BLINDS",
-      "serial": "99191937",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Interior window blinds; Fabric window blinds; Interior window shades",
-      "international_classes": [
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.905452"
-    },
-    {
-      "id": "227cf51230987060657a6601d679b9d5",
-      "category": "tech",
-      "category_confidence": 0.44,
-      "applicant": "SoftAcuity Inc.",
-      "applicant_full": "SoftAcuity Inc.",
-      "mark": "SAI",
-      "serial": "99191938",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Voice controlled information devices, namely, cloud-connected and voice-controlled computer display monitors with virtual assistant capabilities for integrating services provided via applications; electric control devices comprising computer hardware for accessing, monitoring, tracking, and searchin",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.909227"
-    },
-    {
-      "id": "c71b2c1dbc24af9c9d2ac3d81364bb63",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "ZOWN REALTY INC.",
-      "applicant_full": "ZOWN REALTY INC.",
-      "mark": "ZOWN",
-      "serial": "99191939",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Real estate brokerage; Financial services, namely, real estate note brokerage; Financial consulting in the field of real estate note brokerage; Online real estate brokerage rendered in virtual environments; Real estate service, namely, rental property management; Leasing of real estate; Rental of re",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.913198"
-    },
-    {
-      "id": "cd960620019c28d2729c7fa5e7f79d3c",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Jill Fazekas",
-      "applicant_full": "Jill Fazekas",
-      "mark": "THE LITERAL ELEMENT IS SHORT FUSE",
-      "serial": "99191940",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Conducting entertainment exhibitions in the nature of professional automobile races and auto racing exhibitions; Entertainment services in the nature of professional athletes competing in drag racing competitions, exhibitions and events; Entertainment services, namely, personal appearances by a team",
-      "international_classes": [
-        "041"
-      ],
-      "processed": "2025-05-20T09:39:04.917650"
-    },
-    {
-      "id": "718d623822214d79b015d13dc826067d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Alloy Valves & Control, Inc.",
-      "applicant_full": "Alloy Valves & Control, Inc.",
-      "mark": "ENGINEERED FOR ENGINEERS",
-      "serial": "99191941",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Control valves for regulating the flow of gases and liquids",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.919020"
-    },
-    {
-      "id": "5a4077dcdd106c310789a4c1c5390244",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "The St. Joe Company",
-      "applicant_full": "The St. Joe Company",
-      "mark": "PIER PARK CITY CENTER",
-      "serial": "99191942",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "making shopping center services available to consumers in one location access to a variety of stores offering a variety of consumer products and services.; Real estate management; Shopping center services, namely, rental of shopping center space; Real estate management services relating to shopping ",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.921872"
-    },
-    {
-      "id": "c6e0664cd12113c9cfa32501c984456d",
-      "category": "tech",
-      "category_confidence": 0.30000000000000004,
-      "applicant": "Fishing Reservations LLC",
-      "applicant_full": "Fishing Reservations LLC",
-      "mark": "FISHINGRESERVATIONS",
-      "serial": "99191943",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Design and development of computer software for cloud-based scheduling and booking services",
-      "international_classes": [
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.923326"
-    },
-    {
-      "id": "83462f1ad422240320149794a7da5daa",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Delta Faucet Company",
-      "applicant_full": "Delta Faucet Company",
-      "mark": "AQUABOT",
-      "serial": "99191944",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Providing temporary use of online non-downloadable chatbot software for providing information relating to water quality",
-      "international_classes": [
-        "042"
-      ],
-      "processed": "2025-05-20T09:39:04.924856"
-    },
-    {
-      "id": "218963bfa61e7343d5ca8ade6fc21b2f",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "YAQI LI",
-      "applicant_full": "YAQI LI",
-      "mark": "FAROROMY",
-      "serial": "99191945",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Chocolate candies; Candy; Peppermint sweets; Fondants; Fruit jelly candy",
-      "international_classes": [
-        "030"
-      ],
-      "processed": "2025-05-20T09:39:04.926046"
-    },
-    {
-      "id": "7b2e01c24e54e0edf7f07c8595e9c271",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "ZOWN REALTY INC.",
-      "applicant_full": "ZOWN REALTY INC.",
-      "mark": "ZOWN",
-      "serial": "99191946",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Real estate brokerage; Financial services, namely, real estate note brokerage; Financial consulting in the field of real estate note brokerage; Online real estate brokerage rendered in virtual environments; Real estate service, namely, rental property management; Leasing of real estate; Rental of re",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.929991"
-    },
-    {
-      "id": "9f209a6241d1b3947c8b173c308fa926",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "CHANGSHA SINOCARE INC.",
-      "applicant_full": "CHANGSHA SINOCARE INC.",
-      "mark": "SINOCARE",
-      "serial": "99191948",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Reagents for medical use; Antidiarrheal medicines; Pharmaceutical preparations for wounds; Diabetic bread adapted for medical use; Nutritional supplements; Depuratives for the body; Diagnostic preparations for veterinary purposes; Biocides; Disinfectant wipes; Cotton for medical purposes",
-      "international_classes": [
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.932607"
-    },
-    {
-      "id": "9eb8397c1c96d89fb8ef6ee93de3c0d5",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Vargas Marcas e Participa\u00e7\u00f5es Ltda.",
-      "applicant_full": "Vargas Marcas e Participa\u00e7\u00f5es Ltda.",
-      "mark": "E-MAKE",
-      "serial": "99191949",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Cosmetics; Foundation; Face powder; Loose face powder; Blush; Lip stains; Lip liners; Lip glosses; Eyeshadow; Eyeliner pencils; Eyeliner; Mascara; Concealers for facial lines and wrinkles; Facial concealer; Concealers for blemishes; Solid powder for cosmetic compacts; Make-up primers; Under-eye enha",
-      "international_classes": [
-        "003"
-      ],
-      "processed": "2025-05-20T09:39:04.936817"
-    },
-    {
-      "id": "16aab09a7a908ffad2d11592ae9149e0",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Nectarine Financial, Inc.",
-      "applicant_full": "Nectarine Financial, Inc.",
-      "mark": "No word mark",
-      "serial": "99191950",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Financial consultancy services; Financial portfolio analysis services; Providing financial information and financial advice via a website; Providing a web site featuring personal financial information and financial advice; On-line financial planning services; Providing information and advice in the ",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.940138"
-    },
-    {
-      "id": "e9b7cef0aa9157485fc1e78521352041",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Randy Lindberg",
-      "applicant_full": "Randy Lindberg",
-      "mark": "ERM PILOT - ENTERPRISE RISK MANAGEMENT SOFTWARE",
-      "serial": "99191951",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Business risk management",
-      "international_classes": [
-        "035"
-      ],
-      "processed": "2025-05-20T09:39:04.941300"
-    },
-    {
-      "id": "6272de2a8c224f838b7df780bc366068",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Tough Hound",
-      "applicant_full": "Tough Hound",
-      "mark": "TOUGH HOUND",
-      "serial": "99191952",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Shirts; Pants; Dresses; Clothing jackets; Hats; Clothing belts; Scarves; Gloves as clothing; Headwear; Shorts; Hoodies; Polo shirts; Shoes; Sweaters; Slippers; Boots; Underwear; Fleece tops; Fleece jackets; Fleece pullovers; Fleece bottoms; Fleece vests; Fleece shorts; Vests; Morning coats; Dust coa",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.945550"
-    },
-    {
-      "id": "20763896c1b8fdeef2d627eb2350bbba",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Xiao Xu",
-      "applicant_full": "Xiao Xu",
-      "mark": "HETRAROOT",
-      "serial": "99191953",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Electric space heaters; Electric heating fans; Air heaters; Portable electric heaters; Portable electric fans; Humidifiers; Floor heating apparatus; Portable stoves; Wood burning stoves; Portable air conditioners; Portable patio heaters",
-      "international_classes": [
-        "011"
-      ],
-      "processed": "2025-05-20T09:39:04.947777"
-    },
-    {
-      "id": "4e3b7fabed256aef169dd24c1bf4dfa4",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Warby Parker Inc.",
-      "applicant_full": "Warby Parker Inc.",
-      "mark": "INTELLIGENT EYEWEAR",
-      "serial": "99191954",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Smart glasses",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.948724"
-    },
-    {
-      "id": "663dd82a732f5c4ae8af4158d56f97cc",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Athco LLC",
-      "applicant_full": "Athco LLC",
-      "mark": "ATHENA ORAL",
-      "serial": "99191955",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Toothpaste",
-      "international_classes": [
-        "003"
-      ],
-      "processed": "2025-05-20T09:39:04.949551"
-    },
-    {
-      "id": "2307338f84730fe532a2e182c6f6c9c2",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Jason O Villegas",
-      "applicant_full": "Jason O Villegas",
-      "mark": "No word mark",
-      "serial": "99191956",
-      "filingDate": "2025-05-19",
-      "hasLogo": true,
-      "description": "Personal prayer altars; Altar furniture",
-      "international_classes": [
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.950622"
-    },
-    {
-      "id": "74466ad800c190bafd514696c7cc1e56",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "David Lee Crow",
-      "applicant_full": "David Lee Crow",
-      "mark": "GHASTLY",
-      "serial": "99191957",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Crop tops; Hats; Bucket hats; Shirts; Sweatpants; Bandanas; Pashmina shawls; Jerseys being clothing; Shirts and short-sleeved shirts; Sweatshirts; Hooded sweatshirts; Hooded sweat shirts; Long sleeve tee shirts; Long-sleeved shirts; Short-sleeved or long-sleeved t-shirts; Sports jerseys; T-shirts",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-05-20T09:39:04.953414"
-    },
-    {
-      "id": "11ed32ba60b445b1b7a63819dc4973b7",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Nectarine Financial, Inc.",
-      "applicant_full": "Nectarine Financial, Inc.",
-      "mark": "NECTARINE",
-      "serial": "99191958",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Financial consultancy services; Financial portfolio analysis services; Providing financial information and financial advice via a website; Providing a web site featuring personal financial information and financial advice; On-line financial planning services; Providing information and advice in the ",
-      "international_classes": [
-        "036"
-      ],
-      "processed": "2025-05-20T09:39:04.956754"
-    },
-    {
-      "id": "fd98da7dbac19e4656e087a4c16d7143",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Bengbu Zhongcheng Electronics Co., Ltd.",
-      "applicant_full": "Bengbu Zhongcheng Electronics Co., Ltd.",
-      "mark": "FLYECHO",
-      "serial": "99191959",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Bathroom mirrors; Decorative mirrors; Wall mirrors; Cheval floor mirrors; Furniture",
-      "international_classes": [
-        "020"
-      ],
-      "processed": "2025-05-20T09:39:04.958227"
-    },
-    {
-      "id": "140aca098b51b351f6a53c98d9ffe531",
-      "category": "tech",
-      "category_confidence": 0.44,
-      "applicant": "SoftAcuity Inc.",
-      "applicant_full": "SoftAcuity Inc.",
-      "mark": "SAI SPEECH AND INTELLIGENCE",
-      "serial": "99191960",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Voice controlled information devices, namely, cloud-connected and voice-controlled computer display monitors with virtual assistant capabilities for integrating services provided via applications; electric control devices comprising computer hardware for accessing, monitoring, tracking, and searchin",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.962245"
-    },
-    {
-      "id": "93ff0a863ba66451702dbddc14fbcf19",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "24 HOUR TRADING INC",
-      "applicant_full": "24 HOUR TRADING INC",
-      "mark": "VOCKS",
-      "serial": "99191961",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Dietary and nutritional supplements; Dietary and nutritional supplements containing creatine; Dietary and nutritional supplements containing magnesium; Probiotic supplements; Medicated oils, other than essential oils, containing vitamin E; Castor oil for medical purposes; Vitamin supplements; Vitami",
-      "international_classes": [
-        "003",
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.966291"
-    },
-    {
-      "id": "1829a1a0cd2a3d6710a5da22a7bc37b9",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Lauren Azzo",
-      "applicant_full": "Lauren Azzo",
-      "mark": "DON'T GAMBLE WITH YOUR CASE",
-      "serial": "99191962",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Legal services",
-      "international_classes": [
-        "045"
-      ],
-      "processed": "2025-05-20T09:39:04.967275"
-    },
-    {
-      "id": "601b43e5a2f66c9a156fa0930f236fdd",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Four Visions LLC",
-      "applicant_full": "Four Visions LLC",
-      "mark": "FOUR VISIONS",
-      "serial": "99191963",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Herb tea for medicinal purposes; Plant and herb extracts, other than essential oils, for medicinal purposes; Medicinal herbs in dried or preserved form; Dietary and nutritional supplements; Medicinal herbal preparations; Herbal tinctures for medical purposes | Incense; Sage smudge sticks; Essential ",
-      "international_classes": [
-        "003",
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.970197"
-    },
-    {
-      "id": "05bce5e22ab6ae4e85bb2dbccaf5ab23",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "David N Abbott Jr",
-      "applicant_full": "David N Abbott Jr",
-      "mark": "PRISONERS NOT FORGOTTEN",
-      "serial": "99191964",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Downloadable webinars in the field of addiction recovery and self-improvement.",
-      "international_classes": [
-        "009"
-      ],
-      "processed": "2025-05-20T09:39:04.971605"
-    },
-    {
-      "id": "8accfce4de4940742d2e0b29d9c1f5a4",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Four Visions LLC",
-      "applicant_full": "Four Visions LLC",
-      "mark": "FOUR VISIONS",
-      "serial": "99191965",
-      "filingDate": "2025-05-19",
-      "hasLogo": false,
-      "description": "Herb tea for medicinal purposes; Plant and herb extracts, other than essential oils, for medicinal purposes; Medicinal herbs in dried or preserved form; Dietary and nutritional supplements; Medicinal herbal preparations; Herbal tinctures for medical purposes | Incense; Sage smudge sticks; Essential ",
-      "international_classes": [
-        "003",
-        "005"
-      ],
-      "processed": "2025-05-20T09:39:04.974522"
+      "processed": "2025-05-21T09:39:14.696312"
     },
     {
       "id": "8c1b7c4cbcff6b878e9336128a755754",
@@ -5444,7 +3289,7 @@
       "international_classes": [
         "044"
       ],
-      "processed": "2025-05-20T09:39:04.976883"
+      "processed": "2025-05-21T09:39:14.698728"
     },
     {
       "id": "5c0623af41bc0f35ae44f506ae62ff0d",
@@ -5460,7 +3305,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-05-20T09:39:04.979784"
+      "processed": "2025-05-21T09:39:14.701562"
     },
     {
       "id": "f6635115ad9be3c687168b983a21a1fe",
@@ -5476,7 +3321,7 @@
       "international_classes": [
         "043"
       ],
-      "processed": "2025-05-20T09:39:04.980704"
+      "processed": "2025-05-21T09:39:14.702491"
     },
     {
       "id": "1fe5174e408bd0da4305321cba26c1e6",
@@ -5492,7 +3337,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-05-20T09:39:04.981792"
+      "processed": "2025-05-21T09:39:14.703577"
     },
     {
       "id": "6c30642a26b5b10c7ce42d1dddaf7b20",
@@ -5510,7 +3355,7 @@
         "035",
         "039"
       ],
-      "processed": "2025-05-20T09:39:04.984597"
+      "processed": "2025-05-21T09:39:14.705405"
     },
     {
       "id": "c26f0db34f062e3ad6b59f0e1d9606b5",
@@ -5526,7 +3371,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-05-20T09:39:04.986593"
+      "processed": "2025-05-21T09:39:14.706429"
     },
     {
       "id": "848dbd02b5fde3361ca397422b69350f",
@@ -5542,7 +3387,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-05-20T09:39:04.988712"
+      "processed": "2025-05-21T09:39:14.707529"
     },
     {
       "id": "03985a89adfb50f43caf8c7d0ae855aa",
@@ -5560,7 +3405,7 @@
         "014",
         "020"
       ],
-      "processed": "2025-05-20T09:39:04.991251"
+      "processed": "2025-05-21T09:39:14.709071"
     },
     {
       "id": "c367cda2e3f8979804fe00a9c3b94144",
@@ -5576,7 +3421,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-05-20T09:39:04.992409"
+      "processed": "2025-05-21T09:39:14.710218"
     },
     {
       "id": "bec429c93c2173f947f6b78bfd896c23",
@@ -5593,7 +3438,7 @@
         "035",
         "014"
       ],
-      "processed": "2025-05-20T09:39:04.993722"
+      "processed": "2025-05-21T09:39:14.711540"
     },
     {
       "id": "c54978cf79b55992efd366d21c4d5bd9",
@@ -5610,7 +3455,7 @@
         "010",
         "042"
       ],
-      "processed": "2025-05-20T09:39:05.001801"
+      "processed": "2025-05-21T09:39:14.715871"
     },
     {
       "id": "ef6d46ce312e248f704c4c3aa3116e67",
@@ -5626,7 +3471,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-05-20T09:39:05.005913"
+      "processed": "2025-05-21T09:39:14.719699"
     },
     {
       "id": "8c30a67d42388bf9f820aa0c82615e69",
@@ -5642,7 +3487,7 @@
       "international_classes": [
         "029"
       ],
-      "processed": "2025-05-20T09:39:05.008064"
+      "processed": "2025-05-21T09:39:14.722838"
     },
     {
       "id": "e183898571d593075da2ba1991e5692a",
@@ -5658,7 +3503,7 @@
       "international_classes": [
         "006"
       ],
-      "processed": "2025-05-20T09:39:05.011349"
+      "processed": "2025-05-21T09:39:14.724639"
     },
     {
       "id": "258e5f5f226491da159590e7aadec1c7",
@@ -5675,7 +3520,7 @@
         "041",
         "042"
       ],
-      "processed": "2025-05-20T09:39:05.015101"
+      "processed": "2025-05-21T09:39:14.727783"
     },
     {
       "id": "b23371fc1d8cf1220878edb5f442bf79",
@@ -5691,7 +3536,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-05-20T09:39:05.016818"
+      "processed": "2025-05-21T09:39:14.728865"
     },
     {
       "id": "ecbdc0fd2d9f4fe0864a22e35674a94e",
@@ -5707,7 +3552,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.019908"
+      "processed": "2025-05-21T09:39:14.730471"
     },
     {
       "id": "6ee0593e2686215954c624a65f7d0965",
@@ -5723,7 +3568,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-05-20T09:39:05.022450"
+      "processed": "2025-05-21T09:39:14.731756"
     },
     {
       "id": "e0ae9253af02ced0c943bff56c50d68c",
@@ -5739,7 +3584,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-05-20T09:39:05.025253"
+      "processed": "2025-05-21T09:39:14.733178"
     },
     {
       "id": "787337250896fe43569779f0e328a69e",
@@ -5755,7 +3600,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-05-20T09:39:05.027318"
+      "processed": "2025-05-21T09:39:14.734214"
     },
     {
       "id": "9f1fd11d99c648e32033d75ff6f49119",
@@ -5772,7 +3617,7 @@
         "009",
         "042"
       ],
-      "processed": "2025-05-20T09:39:05.032818"
+      "processed": "2025-05-21T09:39:14.736988"
     },
     {
       "id": "a9597b76ec4547e0a496320b2e8102d1",
@@ -5790,7 +3635,7 @@
         "009",
         "036"
       ],
-      "processed": "2025-05-20T09:39:05.040223"
+      "processed": "2025-05-21T09:39:14.741081"
     },
     {
       "id": "66b4684956177fd9602967a81b454085",
@@ -5806,7 +3651,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-05-20T09:39:05.047856"
+      "processed": "2025-05-21T09:39:14.744984"
     },
     {
       "id": "816e77674eedc30df053eb03e6c309bd",
@@ -5822,7 +3667,7 @@
       "international_classes": [
         "010"
       ],
-      "processed": "2025-05-20T09:39:05.050646"
+      "processed": "2025-05-21T09:39:14.746425"
     },
     {
       "id": "4f869a2e23a41b414419541ac80604d0",
@@ -5840,7 +3685,7 @@
         "009",
         "036"
       ],
-      "processed": "2025-05-20T09:39:05.058029"
+      "processed": "2025-05-21T09:39:14.750527"
     },
     {
       "id": "a0ff1b2a2ae01715317466a7e3d8d544",
@@ -5856,7 +3701,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-05-20T09:39:05.062839"
+      "processed": "2025-05-21T09:39:14.753171"
     },
     {
       "id": "4cccf8e265af14780ea8af6318b66299",
@@ -5872,7 +3717,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-05-20T09:39:05.068565"
+      "processed": "2025-05-21T09:39:14.756190"
     },
     {
       "id": "808bd30176a19498277d396487639eae",
@@ -5888,7 +3733,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.074830"
+      "processed": "2025-05-21T09:39:14.759496"
     },
     {
       "id": "0d4de578ea9df6b1392cfd539ea2a1ff",
@@ -5904,7 +3749,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-05-20T09:39:05.082698"
+      "processed": "2025-05-21T09:39:14.763516"
     },
     {
       "id": "aa6450f69b08f9decd96f051b70eba5c",
@@ -5920,7 +3765,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-05-20T09:39:05.085398"
+      "processed": "2025-05-21T09:39:14.764854"
     },
     {
       "id": "1c0b38fe7cafe6fe4f6c2827c708d67d",
@@ -5936,7 +3781,7 @@
       "international_classes": [
         "032"
       ],
-      "processed": "2025-05-20T09:39:05.093116"
+      "processed": "2025-05-21T09:39:14.768820"
     },
     {
       "id": "8b0e778472beeab9908fead6cfde3491",
@@ -5954,7 +3799,7 @@
         "045",
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.100865"
+      "processed": "2025-05-21T09:39:14.772842"
     },
     {
       "id": "d55c6e190709c33a169b1ca03c168d0c",
@@ -5970,7 +3815,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-05-20T09:39:05.105059"
+      "processed": "2025-05-21T09:39:14.775007"
     },
     {
       "id": "1e8828102a1b161038927cf2647ce820",
@@ -5986,7 +3831,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-05-20T09:39:05.108404"
+      "processed": "2025-05-21T09:39:14.776718"
     },
     {
       "id": "185d27b2fe23b775ebfaf24ec7ab2408",
@@ -6002,7 +3847,23 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-05-20T09:39:05.114279"
+      "processed": "2025-05-21T09:39:14.779765"
+    },
+    {
+      "id": "006644bca2fafc96b21e75149fc99cf6",
+      "category": "tech",
+      "category_confidence": 0.32000000000000006,
+      "applicant": "JAMS/Endispute LLC",
+      "applicant_full": "JAMS/Endispute LLC",
+      "mark": "WARREN",
+      "serial": "99192003",
+      "filingDate": "2025-05-20",
+      "hasLogo": false,
+      "description": "Providing temporary use of online non-downloadable chatbot software for answering questions, researching and drafting documents using artificial intelligence (AI) in the fields of alternative dispute resolution (ADR), mediation, legal services and for locating mediators and arbitrators, locations, p",
+      "international_classes": [
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:14.783682"
     },
     {
       "id": "92de4cbd6eb769346dc6ab888a78042e",
@@ -6018,7 +3879,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.158385"
+      "processed": "2025-05-21T09:39:14.806460"
     },
     {
       "id": "8dc449470af49b7513f6c09e6f338d05",
@@ -6034,7 +3895,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-05-20T09:39:05.161409"
+      "processed": "2025-05-21T09:39:14.807955"
     },
     {
       "id": "182f673382bd0ed2e41de2cad4a21766",
@@ -6050,7 +3911,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-05-20T09:39:05.166446"
+      "processed": "2025-05-21T09:39:14.810519"
     },
     {
       "id": "8fe71589e3d85b5f567a057b4ed2dc85",
@@ -6066,7 +3927,7 @@
       "international_classes": [
         "029"
       ],
-      "processed": "2025-05-20T09:39:05.168543"
+      "processed": "2025-05-21T09:39:14.811601"
     },
     {
       "id": "a19c855e3d83bb8246f0750f8943de38",
@@ -6082,7 +3943,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.176301"
+      "processed": "2025-05-21T09:39:14.815782"
     },
     {
       "id": "ac287910b0228a8d6e1fd5e184e6e92d",
@@ -6098,7 +3959,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-05-20T09:39:05.184288"
+      "processed": "2025-05-21T09:39:14.819703"
     },
     {
       "id": "b04cdc8aff335d7464e225dd43baaf88",
@@ -6114,7 +3975,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-05-20T09:39:05.186927"
+      "processed": "2025-05-21T09:39:14.821039"
     },
     {
       "id": "653ee00c5f7b9b8500c50d3403f40c97",
@@ -6130,7 +3991,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-05-20T09:39:05.189119"
+      "processed": "2025-05-21T09:39:14.822140"
     },
     {
       "id": "3cf049a1e39de28c957484e00a816cb5",
@@ -6146,7 +4007,7 @@
       "international_classes": [
         "034"
       ],
-      "processed": "2025-05-20T09:39:05.197045"
+      "processed": "2025-05-21T09:39:14.826325"
     },
     {
       "id": "32fb9cd66ad44227cb89c0dcdc2d8ea3",
@@ -6163,7 +4024,7 @@
         "029",
         "030"
       ],
-      "processed": "2025-05-20T09:39:05.203462"
+      "processed": "2025-05-21T09:39:14.829736"
     },
     {
       "id": "ec25792c13df0fcf34c764aea1d5d1c4",
@@ -6179,7 +4040,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-05-20T09:39:05.207200"
+      "processed": "2025-05-21T09:39:14.831607"
     },
     {
       "id": "a72550beac8ea447433ae407f0b61926",
@@ -6195,7 +4056,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-05-20T09:39:05.212702"
+      "processed": "2025-05-21T09:39:14.834402"
     },
     {
       "id": "0230e02d04fac4e8833009726ae6e083",
@@ -6211,7 +4072,7 @@
       "international_classes": [
         "029"
       ],
-      "processed": "2025-05-20T09:39:05.214700"
+      "processed": "2025-05-21T09:39:14.835404"
     },
     {
       "id": "61ab6c7fec2a1da0e6b4c18b1008c768",
@@ -6228,7 +4089,7 @@
         "029",
         "030"
       ],
-      "processed": "2025-05-20T09:39:05.221328"
+      "processed": "2025-05-21T09:39:14.838731"
     },
     {
       "id": "a190df39810d023ef2298478a6729ab6",
@@ -6244,7 +4105,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-05-20T09:39:05.224240"
+      "processed": "2025-05-21T09:39:14.840203"
     },
     {
       "id": "b6e2ff3ef559eccc5bb8c289e1defd41",
@@ -6260,7 +4121,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.249947"
+      "processed": "2025-05-21T09:39:14.863002"
     },
     {
       "id": "b32e87019b7ad0217937dbc4797c3d0a",
@@ -6276,7 +4137,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-05-20T09:39:05.251071"
+      "processed": "2025-05-21T09:39:14.864123"
     },
     {
       "id": "07307f30f232e2bad43323ee0845a163",
@@ -6292,7 +4153,7 @@
       "international_classes": [
         "022"
       ],
-      "processed": "2025-05-20T09:39:05.252023"
+      "processed": "2025-05-21T09:39:14.865068"
     },
     {
       "id": "e048fc32589923efc898ac77f4737eb0",
@@ -6308,7 +4169,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-05-20T09:39:05.255307"
+      "processed": "2025-05-21T09:39:14.868389"
     },
     {
       "id": "000eb1102eeed8c19620839444705a35",
@@ -6324,7 +4185,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-05-20T09:39:05.259071"
+      "processed": "2025-05-21T09:39:14.872198"
     },
     {
       "id": "883a89a0d66a9366bd6cc047aa439bd5",
@@ -6340,7 +4201,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-05-20T09:39:05.261403"
+      "processed": "2025-05-21T09:39:14.874559"
     },
     {
       "id": "8d32d79ea4692f30a7c15f2ca8bbe7f3",
@@ -6356,7 +4217,7 @@
       "international_classes": [
         "037"
       ],
-      "processed": "2025-05-20T09:39:05.262925"
+      "processed": "2025-05-21T09:39:14.876047"
     },
     {
       "id": "7be76c15eeb18b69e13702e8e3c6db22",
@@ -6372,7 +4233,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-05-20T09:39:05.265958"
+      "processed": "2025-05-21T09:39:14.878987"
     },
     {
       "id": "4798b288f680f1f8453a41e3d0df8bac",
@@ -6388,7 +4249,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-05-20T09:39:05.267252"
+      "processed": "2025-05-21T09:39:14.880278"
     },
     {
       "id": "9e3fa57b8426e021a63f4977139ef77a",
@@ -6404,7 +4265,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-05-20T09:39:05.269171"
+      "processed": "2025-05-21T09:39:14.882235"
     },
     {
       "id": "da1c37f9347020cc06eef80b4f1e7607",
@@ -6421,7 +4282,7 @@
         "016",
         "044"
       ],
-      "processed": "2025-05-20T09:39:05.270930"
+      "processed": "2025-05-21T09:39:14.884004"
     },
     {
       "id": "9ad9b088e24ce72d16e1a3aaa4296008",
@@ -6437,7 +4298,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-05-20T09:39:05.273631"
+      "processed": "2025-05-21T09:39:14.886773"
     },
     {
       "id": "0e67324fc634b59fb36e4f1a5b6bacc2",
@@ -6453,7 +4314,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-05-20T09:39:05.277636"
+      "processed": "2025-05-21T09:39:14.891102"
     },
     {
       "id": "a21ef91e7798036d65f9d71901ab896d",
@@ -6469,7 +4330,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-05-20T09:39:05.278626"
+      "processed": "2025-05-21T09:39:14.892140"
     },
     {
       "id": "ed1f7275f3283a3823545a7e5f87d503",
@@ -6486,7 +4347,7 @@
         "009",
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.280612"
+      "processed": "2025-05-21T09:39:14.894315"
     },
     {
       "id": "c416047ab6234fa2aa39ce09b75b58e6",
@@ -6502,7 +4363,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-05-20T09:39:05.285111"
+      "processed": "2025-05-21T09:39:14.898915"
     },
     {
       "id": "c08bce800eb93fff440115c55eb40553",
@@ -6519,7 +4380,2153 @@
         "038",
         "041"
       ],
-      "processed": "2025-05-20T09:39:05.289059"
+      "processed": "2025-05-21T09:39:14.903300"
+    },
+    {
+      "id": "d69dba18bcf4f69eb3c334e01d33c07d",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "MYDEBT INC.",
+      "applicant_full": "MYDEBT INC.",
+      "mark": "No word mark",
+      "serial": "99192036",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Providing emergency financial assistance for individuals and families",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:14.904558"
+    },
+    {
+      "id": "d5701739b4543763a20e718d725a09ef",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Shenzhen Ant Manufacturing Co., Ltd.",
+      "applicant_full": "Shenzhen Ant Manufacturing Co., Ltd.",
+      "mark": "NYTHRALIS",
+      "serial": "99192037",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Cell phone battery chargers; Chargers for electric accumulators; Chargers for electric batteries; Flash bulbs; Portable power chargers; Projector lamps; Solar-powered battery chargers; Wireless battery chargers; Power inverters; Inverters; Battery jump starters",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:14.907374"
+    },
+    {
+      "id": "d5101a3288bd97a0739bf06fe63981f4",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Girish Maheshbhai Bhatia",
+      "applicant_full": "Girish Maheshbhai Bhatia",
+      "mark": "C COGTEK",
+      "serial": "99192039",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Design, development and implementation of software",
+      "international_classes": [
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:14.908569"
+    },
+    {
+      "id": "01d3ffc85093e655563adeb88d3a8f5e",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Tiago Aguiar Dutra",
+      "applicant_full": "Tiago Aguiar Dutra",
+      "mark": "NOVAWELL NUTRITIONAL PRODUCTS",
+      "serial": "99192040",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Nutritional supplements; Food supplements; Dietary supplements; Mineral supplements; Health food supplements; Protein supplements; Homeopathic supplements; Amino acids for nutritional purposes; Probiotic supplements; Vitamins; Dietary and nutritional supplements containing fish oil, collagen, colost",
+      "international_classes": [
+        "005"
+      ],
+      "processed": "2025-05-21T09:39:14.912038"
+    },
+    {
+      "id": "054495d47d367d20f9df33420f4e2024",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Punar Green Lab LLC",
+      "applicant_full": "Punar Green Lab LLC",
+      "mark": "C'CHOI",
+      "serial": "99192041",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Shampoo bars; Hair conditioner bars; Hair care preparations; Natural soap bars; Hair oils; Lip balm; Lip tints; Lip gloss; Cosmetic creams; Cosmetic masks; Cosmetic soaps; Make-up remover; Make-up preparations; Foundation make-up; Cosmetic preparations for the hair and scalp; Non-medicated preparati",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:14.915481"
+    },
+    {
+      "id": "67f8fe3de2bf41a3a1d8146b9178000b",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "RollForward LLC",
+      "applicant_full": "RollForward LLC",
+      "mark": "REVA",
+      "serial": "99192042",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Accounting services; Bookkeeping",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:14.916450"
+    },
+    {
+      "id": "81ddc6046fc34ea4d4dafeb88a19c746",
+      "category": "auto",
+      "category_confidence": 0.32000000000000006,
+      "applicant": "Foshan Dabing Xiaobing Electronic Commerce Co., Ltd.",
+      "applicant_full": "Foshan Dabing Xiaobing Electronic Commerce Co., Ltd.",
+      "mark": "DBXB-RV",
+      "serial": "99192043",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Trailer hitches; Trailer hitches for vehicles; Vehicle running boards; Vehicle seat cushions; Wheel covers; Vehicle parts, namely, steering wheels; Vehicle bumpers; Wheel rims; Cargo carriers for vehicles; Automotive cargo rack; Roof racks; Automotive aftermarket parts, namely, truck bed extender an",
+      "international_classes": [
+        "012"
+      ],
+      "processed": "2025-05-21T09:39:14.920020"
+    },
+    {
+      "id": "075bd957b31f641259bc796a41b5f26e",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "STOFF Copenhagen ApS",
+      "applicant_full": "STOFF Copenhagen ApS",
+      "mark": "STOFF NAGEL",
+      "serial": "99192044",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Sculptures of metal | Non-textile wall hangings | Candles | On-line wholesale and retail store services featuring candles, LED candles, sculptures of metal, non-electric candelabra, kitchen containers, bowls, non-textile wall hangings | Non-electric candelabras; Kitchen containers; Bowls",
+      "international_classes": [
+        "035",
+        "004",
+        "006",
+        "027",
+        "021"
+      ],
+      "processed": "2025-05-21T09:39:14.922954"
+    },
+    {
+      "id": "3be4a6b326ddfbbe75baa9dfb3c6594c",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "The Byron Marcelle Experience, LLC",
+      "applicant_full": "The Byron Marcelle Experience, LLC",
+      "mark": "THE BYRON MARCELLE EXPERIENCE",
+      "serial": "99192045",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Providing on-site beauty services, namely, hair styling and make-up application services; Hair cutting services; Hair color salon services; Hair colouring services; Hair replacement, hair addition, and hair extension services; Hair braiding services; Hair salon services; Hair salon services, namely,",
+      "international_classes": [
+        "044"
+      ],
+      "processed": "2025-05-21T09:39:14.927713"
+    },
+    {
+      "id": "90e97d24ba960775941a604ff75c19d7",
+      "category": "tech",
+      "category_confidence": 0.32000000000000006,
+      "applicant": "Anker Innovations Limited",
+      "applicant_full": "Anker Innovations Limited",
+      "mark": "EDGEAGENT",
+      "serial": "99192046",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Access control and alarm monitoring systems; Baby monitors; Cameras; Wireless controllers to remotely monitor and control the function and status of other electrical, electronic, and mechanical devices or systems, namely, security systems, excluding gaming apparatus; Computer storage devices, namely",
+      "international_classes": [
+        "045",
+        "009",
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:14.932162"
+    },
+    {
+      "id": "a5ee8249d75c9ca5b9790f2a2ed67e12",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Corporaci\u00f3n Industrial San Francisco S.A. de C.V.",
+      "applicant_full": "Corporaci\u00f3n Industrial San Francisco S.A. de C.V.",
+      "mark": "DESEO MEXICANO",
+      "serial": "99192047",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Distilled blue agave liquor; Mezcal",
+      "international_classes": [
+        "033"
+      ],
+      "processed": "2025-05-21T09:39:14.933530"
+    },
+    {
+      "id": "ede7f31793ae69c8e19edf863d0d3de6",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Howcow LLC",
+      "applicant_full": "Howcow LLC",
+      "mark": "HOWCOW",
+      "serial": "99192048",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Dietary and nutritional supplements",
+      "international_classes": [
+        "005"
+      ],
+      "processed": "2025-05-21T09:39:14.934512"
+    },
+    {
+      "id": "2e0ae277ebfa1405e7135bbd99d70560",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Savencia SA",
+      "applicant_full": "Savencia SA",
+      "mark": "COEUR DE LAIT",
+      "serial": "99192049",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Confectionery, namely, candy and chocolate",
+      "international_classes": [
+        "030"
+      ],
+      "processed": "2025-05-21T09:39:14.935625"
+    },
+    {
+      "id": "579b57913a68425e6f94c0b0eeffcf1f",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Quanzhou Fengze District Yunyi E-commerce Co., Ltd.",
+      "applicant_full": "Quanzhou Fengze District Yunyi E-commerce Co., Ltd.",
+      "mark": "YMPUDXFI",
+      "serial": "99192050",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Women's shoes; Jogging pants; Hooded pullovers; Tee shirts; Bathing suits; Tracksuits; Swimsuits; Golf shirts; Dresses",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:14.937584"
+    },
+    {
+      "id": "54b8031f054af9e7348ad4f79921cefa",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Pelimingo, LLC",
+      "applicant_full": "Pelimingo, LLC",
+      "mark": "PALM BEACH COLLAR",
+      "serial": "99192051",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Jewelry",
+      "international_classes": [
+        "014"
+      ],
+      "processed": "2025-05-21T09:39:14.938524"
+    },
+    {
+      "id": "49a35a84e03939efe363fdd5e38153a9",
+      "category": "tech",
+      "category_confidence": 0.42000000000000004,
+      "applicant": "The Kore Impact, Inc.",
+      "applicant_full": "The Kore Impact, Inc.",
+      "mark": "KEVERYTHING",
+      "serial": "99192052",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable computer  application software for mobile phones, namely, software for online shopping; Downloadable computer application software for use as an electronic wallet.",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:14.940679"
+    },
+    {
+      "id": "2e363e9cc7cfb6202e32aeefe7ff5bc6",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Wei Dang",
+      "applicant_full": "Wei Dang",
+      "mark": "EVOTACGO",
+      "serial": "99192053",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Backpacks, book bags, sports bags, bum bags, wallets and handbags; Back packs",
+      "international_classes": [
+        "018"
+      ],
+      "processed": "2025-05-21T09:39:14.942016"
+    },
+    {
+      "id": "8c08e9879ae2df6eac8aeecd21485c7b",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "\"WUXI RUISHU E-COMMERCE TECHNOLOGY CO., LTD. \"",
+      "applicant_full": "\"WUXI RUISHU E-COMMERCE TECHNOLOGY CO., LTD. \"",
+      "mark": "WEIERDA",
+      "serial": "99192054",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Portable infant beds; Infant cradles; Playpens; Furniture for children; Furniture; Dining chairs; High chairs for babies; Baby walkers; Cribs; Pet furniture",
+      "international_classes": [
+        "020"
+      ],
+      "processed": "2025-05-21T09:39:14.944213"
+    },
+    {
+      "id": "d0a9173b820fa53a5718f774b0904bf0",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Claritas Events LLC",
+      "applicant_full": "Claritas Events LLC",
+      "mark": "CLARITAS EVENTS",
+      "serial": "99192055",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Special event planning for business purposes; Corporate event management services",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:14.945644"
+    },
+    {
+      "id": "06c8931be56190efe5bd8a75fa1eadc4",
+      "category": "tech",
+      "category_confidence": 0.4,
+      "applicant": "John Keagy",
+      "applicant_full": "John Keagy",
+      "mark": "YOUPLICATE",
+      "serial": "99192056",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable computer software using artificial intelligence (AI) to simulate the personality, expertise, and communication style of individuals for use in coaching, business consulting, education, and personal development; downloadable computer programs using artificial intelligence (AI) to customi",
+      "international_classes": [
+        "009",
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:14.949980"
+    },
+    {
+      "id": "9446705ba900ca0cee197fa87142bb55",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Beverage Testing Institute, Inc.",
+      "applicant_full": "Beverage Testing Institute, Inc.",
+      "mark": "THE DROP",
+      "serial": "99192057",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Advertising and publicity services, namely, promoting the goods, services, brand identity and commercial information and news of third parties through print, audio, video, digital and on-line medium; Advertising services, namely, promoting the food and wine of others; Providing consumer product info",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:14.953299"
+    },
+    {
+      "id": "3f71b70f51c75f4528af4ea7f28ae6d6",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Business Credit Reports, Inc.",
+      "applicant_full": "Business Credit Reports, Inc.",
+      "mark": "BUSINESS CREDIT REPORT PRO",
+      "serial": "99192058",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Evaluation of the credit worthiness of companies and private individuals",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:14.954831"
+    },
+    {
+      "id": "5bee9fad616b721cce42437ef2edd59f",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "AKA CAPITAL GROUP",
+      "applicant_full": "AKA CAPITAL GROUP",
+      "mark": "VALLOW",
+      "serial": "99192059",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Edible oil; Cooking oil; Beef tallow for food; Oil-based cooking spray | Non-medicated skin care preparations; Non-medicated skin care preparation, namely, body mist; Non-medicated body care preparations, namely, body and facial creams and lotions; Cosmetic preparations for skin care; Body and beaut",
+      "international_classes": [
+        "029",
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:14.959480"
+    },
+    {
+      "id": "ba82de431459883c0ab120489810b494",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Z-In LLC",
+      "applicant_full": "Z-In LLC",
+      "mark": "Z-IN",
+      "serial": "99192060",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Hair gel; Hair conditioner; Hair oils; Hair wax; Hair shampoo; Greases for cosmetic purposes",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:14.960905"
+    },
+    {
+      "id": "1e0c8d155007590b830434925a1221b8",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Central College",
+      "applicant_full": "Central College",
+      "mark": "FOREVER DUTCH",
+      "serial": "99192061",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Coffee; Chocolate; Candy | Beer",
+      "international_classes": [
+        "030",
+        "032"
+      ],
+      "processed": "2025-05-21T09:39:14.961979"
+    },
+    {
+      "id": "21524c9b485504a713331902b1088c14",
+      "category": "fashion",
+      "category_confidence": 0.30000000000000004,
+      "applicant": "Pittsburgh Steelers LLC",
+      "applicant_full": "Pittsburgh Steelers LLC",
+      "mark": "STEELERS",
+      "serial": "99192062",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Clothing jerseys; Ties as clothing; Tops as clothing; Hats; T-shirts; Long sleeve T-shirts; Sweatshirts; Sweatpants; Outer jackets; Athletic jackets; Athletic apparel, namely, shirts, pants, jackets, footwear, hats and caps, athletic uniforms; Pajamas",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:14.964715"
+    },
+    {
+      "id": "317fcaab29eb74fdaefaa563f76e0c07",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Trader PhD LLC",
+      "applicant_full": "Trader PhD LLC",
+      "mark": "TRADER PHD",
+      "serial": "99192063",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Financial services, namely, commodity trading and managed futures advisory and management services",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:14.966205"
+    },
+    {
+      "id": "dc90e575c1057e5cb0f6b7d914adb3a9",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Johnny D Mason",
+      "applicant_full": "Johnny D Mason",
+      "mark": "STILL MAJOR",
+      "serial": "99192064",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Athletic apparel, namely, shirts, pants, jackets, footwear, hats and caps, athletic uniforms; Children's and infant's apparel, namely, jumper coveralls, overall sleepwear, pajamas, rompers and one-piece garments",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:14.968629"
+    },
+    {
+      "id": "d9a0f15d0988b64013b25b8e7d39ea17",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "NYC Next, Inc.",
+      "applicant_full": "NYC Next, Inc.",
+      "mark": "THE LONGEST TABLE",
+      "serial": "99192065",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Arranging, organizing, conducting, and hosting social entertainment events; Organizing community festivals in the field of social engagement and connectivity for cultural or entertainment purposes",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:14.970880"
+    },
+    {
+      "id": "715ff7c053493c738c6f7e63999e3b05",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Michael Christopher Irby",
+      "applicant_full": "Michael Christopher Irby",
+      "mark": "GANJABIS",
+      "serial": "99192066",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Provision of information in the field of leisure activities, namely, Entertainment and Media",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:14.972593"
+    },
+    {
+      "id": "c3dc7a26fd5775ce0877295fe3876e6a",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "B.E. Meyers & Co., Inc.",
+      "applicant_full": "B.E. Meyers & Co., Inc.",
+      "mark": "B.E. MEYERS & CO., INC.",
+      "serial": "99192067",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Electrical connectors and plugs; Laser pointers; Laser pointing device for use with firearms with incorporated laser illuminator device; Laser pointing device for use with firearms; Laser pointing device for use with night vision equipment; Lasers not for medical use; Laser communication equipment; ",
+      "international_classes": [
+        "013",
+        "009",
+        "011"
+      ],
+      "processed": "2025-05-21T09:39:14.977364"
+    },
+    {
+      "id": "d626f1b0e62c9d341b9c653272c89a7f",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Reevo, Inc",
+      "applicant_full": "Reevo, Inc",
+      "mark": "FROM FIRST TOUCH TO CLOSED WON",
+      "serial": "99192068",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable software for use in business management, featuring AI/ML tools for tracking, managing, negotiating, and analyzing sales deals; Downloadable customer relationship management (CRM) software for monitoring sales activities, managing sales communications, automating deal execution, and mana",
+      "international_classes": [
+        "009",
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:14.981850"
+    },
+    {
+      "id": "bf71a142cbff373cda4cec4765c3ad40",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Alligare, LLC",
+      "applicant_full": "Alligare, LLC",
+      "mark": "PROVISION",
+      "serial": "99192069",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Herbicides",
+      "international_classes": [
+        "005"
+      ],
+      "processed": "2025-05-21T09:39:14.982706"
+    },
+    {
+      "id": "6125ed7ad7fbffc2eb905245ff7a2286",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Leigh Delaware Holdings, LLC",
+      "applicant_full": "Leigh Delaware Holdings, LLC",
+      "mark": "POLYPAL",
+      "serial": "99192070",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Providing a members-only website which provides members with the ability to access multiple databases and polymer industry services for the purpose of conducting polymer materials purchase and sale transactions",
+      "international_classes": [
+        "040"
+      ],
+      "processed": "2025-05-21T09:39:14.985072"
+    },
+    {
+      "id": "a975006439a4e1d313c1eb7e33a1a6b2",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Twin Cities Print, LLC",
+      "applicant_full": "Twin Cities Print, LLC",
+      "mark": "NORTHERN GOODS",
+      "serial": "99192071",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Online retail clothing store services; Retail stores featuring glassware, apparel, candles, home goods, and sporting equipment.; Retail store services featuring glassware, apparel, candles, home goods, and sporting equipment.; On-line retail store services featuring glassware, apparel, candles, home",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:14.988321"
+    },
+    {
+      "id": "f7c1b3232c972731878448210eb3b586",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Emily Skiles",
+      "applicant_full": "Emily Skiles",
+      "mark": "ELEVATED AESTHETICS & WELLNESS",
+      "serial": "99192073",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Skin care salon services; Aesthetician services; Health spa services for health and wellness of the body and spirit, namely, providing massage, facial and body treatment services, cosmetic body care services",
+      "international_classes": [
+        "044"
+      ],
+      "processed": "2025-05-21T09:39:14.990772"
+    },
+    {
+      "id": "aaf976524d08bc168d6e96826dbb4205",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Matthew Raatz",
+      "applicant_full": "Matthew Raatz",
+      "mark": "ILLUMINATOR'S ELECTRIC",
+      "serial": "99192074",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Electrical contractor services",
+      "international_classes": [
+        "037"
+      ],
+      "processed": "2025-05-21T09:39:14.991865"
+    },
+    {
+      "id": "1958abb74d413106cd4e67e62679e330",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Flagger Force Management Services, LLC",
+      "applicant_full": "Flagger Force Management Services, LLC",
+      "mark": "IN THE ZONE",
+      "serial": "99192075",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable mobile application featuring a secure employer/employee communication application that enables employees to obtain real-time, work-related updates, instructional videos, safety protocols, work zone setup guides, traffic control resources, human resource documents, and employee recogniti",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:14.995883"
+    },
+    {
+      "id": "92a6dd3b179fb971ee742e5e7d88f0ae",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Angel Yeast Co., Ltd.",
+      "applicant_full": "Angel Yeast Co., Ltd.",
+      "mark": "BAKERDREAM",
+      "serial": "99192076",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "daily enamel plastic utensils, namely, basins in the nature of receptacles, bowls, plates, pots and cups; Disposable table plates; tableware, other than knives, forks and spoons, namely, table plates, table dishes, table napkin holders, cups, and saucers; Trays for domestic purposes, of paper; House",
+      "international_classes": [
+        "021"
+      ],
+      "processed": "2025-05-21T09:39:15.000568"
+    },
+    {
+      "id": "777b890a32a286b5261c40f6285bac48",
+      "category": "food",
+      "category_confidence": 0.30000000000000004,
+      "applicant": "Matsu Gami Culture Co Ltd",
+      "applicant_full": "Matsu Gami Culture Co Ltd",
+      "mark": "ICHIRAKU RAMEN NARUTO",
+      "serial": "99192077",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Japanese restaurant services; Restaurant services; Juice bar services; Bar services featuring snacks; Contract food services; Food preparation services; Providing food and drink catering services; Ramen restaurant services; Rotisserie restaurant services; Restaurant and catering services; Restaurant",
+      "international_classes": [
+        "043"
+      ],
+      "processed": "2025-05-21T09:39:15.003836"
+    },
+    {
+      "id": "dac99a731fe34214b8e207cf6e90f8bf",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Founiverse LLC",
+      "applicant_full": "Founiverse LLC",
+      "mark": "PROTECTMYHEELS",
+      "serial": "99192078",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Fitted heel protectors for shoes",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:15.004884"
+    },
+    {
+      "id": "0f6fe1056e62251b1b0c850649c59365",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "GAGE Technology, Inc.",
+      "applicant_full": "GAGE Technology, Inc.",
+      "mark": "UNIVERSAL EMPLOYMENT SCORE",
+      "serial": "99192079",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Providing employment performance evaluation services in the nature of a standardized, measurable benchmark for workplace contributions; Workforce analytics services, namely, assessing  job tenure, managerial and employer evaluations, coworker endorsements, customer feedback, workplace engagement, pr",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:15.009556"
+    },
+    {
+      "id": "1dcd24de5ed39c6330cf5e3dd784669a",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Christopher Melnyk",
+      "applicant_full": "Christopher Melnyk",
+      "mark": "CARLETON\u2019S PRIZE DISTILLING",
+      "serial": "99192080",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Rum; Rum; Rum-based beverages; Rum cocktails; Rum punch",
+      "international_classes": [
+        "033"
+      ],
+      "processed": "2025-05-21T09:39:15.010858"
+    },
+    {
+      "id": "5b260787753e7786fd29bb6905b40151",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "0 PERCENT CONCERNED LLC",
+      "applicant_full": "0 PERCENT CONCERNED LLC",
+      "mark": "0% CONCERNED",
+      "serial": "99192081",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Hats; T-shirts; Shorts; Swimwear; Sweatshirts; Socks",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:15.012160"
+    },
+    {
+      "id": "a715857561b40187ed057bfe0ca214e5",
+      "category": "entertainment",
+      "category_confidence": 0.5,
+      "applicant": "Sophomore Music",
+      "applicant_full": "Sophomore Music",
+      "mark": "OUTSIDE THE SP3CTRUM",
+      "serial": "99192082",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Entertainment services, namely, an ongoing multimedia program featuring commentary related to personal growth, societal issues, and creative arts distributed via various platforms across multiple forms of transmission media; Entertainment, namely, a continuing talk show broadcast over television, sa",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.016626"
+    },
+    {
+      "id": "9c28b1d96b7906d7b5fef6e16567f267",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "David Michael Minogue",
+      "applicant_full": "David Michael Minogue",
+      "mark": "PULLPAL",
+      "serial": "99192083",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Pet training supplies, namely, leash attachments",
+      "international_classes": [
+        "018"
+      ],
+      "processed": "2025-05-21T09:39:15.017825"
+    },
+    {
+      "id": "6e0399b843b03a6021de50c56c2558d8",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Airvac, Inc.",
+      "applicant_full": "Airvac, Inc.",
+      "mark": "No word mark",
+      "serial": "99192084",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Control valves for sewers | Construction and installation of sewage systems; Installation of utilities in the nature of sewage pipe systems in construction sites; Sewer system maintenance and repair service | Sewage systems comprised or surge tanks, water traps, dump units, fittings, clamps, conduit",
+      "international_classes": [
+        "009",
+        "011",
+        "037"
+      ],
+      "processed": "2025-05-21T09:39:15.020972"
+    },
+    {
+      "id": "83e752b01d901e96a6e4eb88a65d53a8",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "HANGZHOU BSEED INTELLIGENT TECHNOLOGY CO., LTD.",
+      "applicant_full": "HANGZHOU BSEED INTELLIGENT TECHNOLOGY CO., LTD.",
+      "mark": "BSEEDHOME",
+      "serial": "99192085",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Gloves for protection against accidents; Electric light dimmers; Electric cables; Distribution boxes for electrical power; Switches, electric; Circuit breakers; Relays, electric; Power inverters; Touchscreen sensors; Security alarms; Photovoltaic solar panels for the production of electricity; Elect",
+      "international_classes": [
+        "009",
+        "011"
+      ],
+      "processed": "2025-05-21T09:39:15.025633"
+    },
+    {
+      "id": "e7a54bd2737a9264187fb621e28b9d45",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Nicholas William Trahan",
+      "applicant_full": "Nicholas William Trahan",
+      "mark": "BUCKSKIN FIRE DIST.  PARKER STRIP ARIZONA TRAHAN ENTERPRISES INC.",
+      "serial": "99192086",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Decontamination of hazardous materials; Detoxification of hazardous materials | Rescue services; Rescue transportation services | Fire-fighting; Fire-fighting services; Fire fighting services; Fire fighting",
+      "international_classes": [
+        "045",
+        "040",
+        "039"
+      ],
+      "processed": "2025-05-21T09:39:15.028350"
+    },
+    {
+      "id": "f331816d167f91b0fe6b8c09a1e0c526",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "SC Infrastructure LLC",
+      "applicant_full": "SC Infrastructure LLC",
+      "mark": "SOLCITY",
+      "serial": "99192087",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Real estate development; land development and construction services, namely, planning, laying out, and construction of mixed-use communities, including residential, retail, hotel, commercial, and industrial uses | Real estate listing, leasing of real estate, and real estate brokerage services; real ",
+      "international_classes": [
+        "035",
+        "036",
+        "037"
+      ],
+      "processed": "2025-05-21T09:39:15.032774"
+    },
+    {
+      "id": "f6fdfda9a506060e9f251fd64c59f329",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Shenzhen Xishi Technology Co., Ltd.",
+      "applicant_full": "Shenzhen Xishi Technology Co., Ltd.",
+      "mark": "JWL.XS.SP",
+      "serial": "99192088",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Slapband bracelets; Women's jewelry; Jewelry, namely, magnetic necklaces; Bracelets; Rings; Synthetic diamonds; Ear studs; Nose rings; Choker necklaces; Ankle bracelets",
+      "international_classes": [
+        "014"
+      ],
+      "processed": "2025-05-21T09:39:15.034971"
+    },
+    {
+      "id": "96f0dc4308cd3247e73cf5e10e4b55ef",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Business Credit Reports, Inc.",
+      "applicant_full": "Business Credit Reports, Inc.",
+      "mark": "CREDIT LOGIC SCORE",
+      "serial": "99192089",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Evaluation of the credit worthiness of companies and private individuals",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.036464"
+    },
+    {
+      "id": "fd4713487ff976e2cbb81c98f9e17b3d",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "NYC Next, Inc.",
+      "applicant_full": "NYC Next, Inc.",
+      "mark": "THE LONGEST TABLE",
+      "serial": "99192090",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Arranging, organizing, conducting, and hosting social entertainment events; Organizing community festivals in the field of social engagement and connectivity for cultural or entertainment purposes",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.038705"
+    },
+    {
+      "id": "80bcf5fe2a30af0f56c0fb11bd4f54f6",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "IBIDEN Bussan Co., Ltd.",
+      "applicant_full": "IBIDEN Bussan Co., Ltd.",
+      "mark": "SHRIMPEA",
+      "serial": "99192091",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Processed marine products of shrimp; shrimp substitutes made from beans; shrimp substitutes; shrimps, not live; frozen shrimp, dried shrimp; edible fish and shellfish, not live; edible protein, excluding those for industrial use",
+      "international_classes": [
+        "029"
+      ],
+      "processed": "2025-05-21T09:39:15.041261"
+    },
+    {
+      "id": "371b3045596ab041ab15e95b59f3f7ac",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Kardion GmbH",
+      "applicant_full": "Kardion GmbH",
+      "mark": "CORY",
+      "serial": "99192092",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Medical devices for treating vascular diseases and conditions, namely, medical pumps in the nature of pumps for circulating blood; control units being recorded software for controlling medical pumps; control units for medical pumps in the nature of controllers for controlling medical pumps for circu",
+      "international_classes": [
+        "010"
+      ],
+      "processed": "2025-05-21T09:39:15.045625"
+    },
+    {
+      "id": "a3816b7bdf527ac8e99440a3da6029f6",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "AD SOLUTION Co.,Ltd.",
+      "applicant_full": "AD SOLUTION Co.,Ltd.",
+      "mark": "AD SOLUTION",
+      "serial": "99192093",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Cosmetics; Skin care products, namely, non-medicated skin serum; Patches containing non-medicated skin care preparations",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.047388"
+    },
+    {
+      "id": "e9376388ec5efa45af1df42e863993eb",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Barbara Serrano",
+      "applicant_full": "Barbara Serrano",
+      "mark": "RICA POR UN D\u00cdA",
+      "serial": "99192094",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Production of podcasts; Entertainment services in the nature of development, creation, production and post-production services of multimedia entertainment content; Educational services, namely, conducting classes, seminars, conferences, workshops, retreats, camps and field trips in the field of fina",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.051965"
+    },
+    {
+      "id": "c37205cecbf345051e59f0f72d4ff188",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Merced Distribution",
+      "applicant_full": "Merced Distribution",
+      "mark": "NITRO TERP",
+      "serial": "99192095",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Herbs for smoking containing cannabis, Dried cannabis flower for smoking. Oral vaporizers for smokers, dabbing equipment in the nature of smokers' articles, namely, dab rigs and oil rigs, electronic cigarette liquid (e-liquid) comprised of flavorings in liquid form, other than essential oils, used t",
+      "international_classes": [
+        "034"
+      ],
+      "processed": "2025-05-21T09:39:15.056613"
+    },
+    {
+      "id": "c363015d91a56658c3b8efb2f7252c02",
+      "category": "tech",
+      "category_confidence": 0.52,
+      "applicant": "Soul Interface Inc.",
+      "applicant_full": "Soul Interface Inc.",
+      "mark": "NO ROMAN CHARACTERS, ONLY CHINESE CHARACTERS",
+      "serial": "99192096",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable speech recognition software; Recorded speech recognition software; Recorded computer programs using artificial intelligence (AI) for voice recognition, natural-language understanding, and text-to-speech synthesis in motor vehicles; Downloadable intelligent personal assistant software fo",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.061259"
+    },
+    {
+      "id": "6f5c7affa8bee0611cb32ec2c7e4a4d8",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Melissa Ann Burrows",
+      "applicant_full": "Melissa Ann Burrows",
+      "mark": "FOWL FRENZY FARM",
+      "serial": "99192097",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Live poultry; Eggs for hatching",
+      "international_classes": [
+        "031"
+      ],
+      "processed": "2025-05-21T09:39:15.062383"
+    },
+    {
+      "id": "52cb475b1fa8f4dbcc567ee4f2efbc3f",
+      "category": "tech",
+      "category_confidence": 0.34,
+      "applicant": "Shenzhen Yiyuyi Technology Co., LTD",
+      "applicant_full": "Shenzhen Yiyuyi Technology Co., LTD",
+      "mark": "YUYIALARM",
+      "serial": "99192098",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Flat panel display screens; Digital photo frames for displaying digital pictures; Digital weather station instruments; Bar code printers; Multi-function electronic device for use in children's rooms comprising a sound producing function, temperature gauge and also including a clock and nightlight; T",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.066175"
+    },
+    {
+      "id": "586b384cff37e34eeaff2fef941843e2",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Kids Infinity Directive, LLC",
+      "applicant_full": "Kids Infinity Directive, LLC",
+      "mark": "KIDS INFINITY DIRECTIVE",
+      "serial": "99192099",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Educational services, namely, developing, arranging, and conducting educational conferences and programs and providing courses of instruction in the field of pediatric cancer care | Charitable fundraising services for promoting research, education and other activities relating to pediatric cancer ca",
+      "international_classes": [
+        "036",
+        "041",
+        "042",
+        "044"
+      ],
+      "processed": "2025-05-21T09:39:15.070582"
+    },
+    {
+      "id": "93c64d891d1985a6b56ed8edb1711bf8",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "HISTORIC WINDOW RESTORATION, LLC",
+      "applicant_full": "HISTORIC WINDOW RESTORATION, LLC",
+      "mark": "MASTERPIECE STORM WINDOWS",
+      "serial": "99192100",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Non-metal storm windows | Installation, maintenance and repair of storm windows",
+      "international_classes": [
+        "019",
+        "037"
+      ],
+      "processed": "2025-05-21T09:39:15.072193"
+    },
+    {
+      "id": "06158ad2365fd7be76c9b4fc231a2f15",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "The Textile Collection Unlimited Ltda",
+      "applicant_full": "The Textile Collection Unlimited Ltda",
+      "mark": "VAC VALDIVINO",
+      "serial": "99192101",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Handbags; Shoulder bags; Clutches; Tote bags; Leather wallets; Travel bags; Trunks being luggage; Luggage; Leather pouches; Key cases; Leather credit card holders; Umbrellas; Cosmetic bags sold empty | Leather belts for clothing; Outerwear, namely, leather gloves; Shirts; T-shirts; Clothing jackets;",
+      "international_classes": [
+        "024",
+        "025",
+        "035",
+        "018",
+        "020"
+      ],
+      "processed": "2025-05-21T09:39:15.076997"
+    },
+    {
+      "id": "d9afb78363f02b6b72b5315fa7bf61d4",
+      "category": "fashion",
+      "category_confidence": 0.30000000000000004,
+      "applicant": "Ningbo Qiyisi Trading Co., Ltd",
+      "applicant_full": "Ningbo Qiyisi Trading Co., Ltd",
+      "mark": "714STREETPAPER",
+      "serial": "99192102",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Clothing, namely, shirts, pants, skirts; Trousers; Waterproof jackets and pants; Pyjamas; Pajamas; Clothing jackets for children; Pants for children; Clothing layettes; Cyclists' jerseys; Swimsuits; Footwear; Hats; Hosiery; Gloves as clothing; Shawls; Scarfs; Foundation garment girdles",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:15.080054"
+    },
+    {
+      "id": "dcec4d3f403bc0581299605bf4677e41",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "One Time Is Too Much LLC",
+      "applicant_full": "One Time Is Too Much LLC",
+      "mark": "NEVERONCE",
+      "serial": "99192103",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Hats; T-shirts; Shorts; Swimwear; Sweatshirts; Socks | Fragrances | Preparation of customized promotional and merchandising materials for others",
+      "international_classes": [
+        "025",
+        "035",
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.081996"
+    },
+    {
+      "id": "cad01b5df2731dabe65b6a10f50752f1",
+      "category": "entertainment",
+      "category_confidence": 0.32000000000000006,
+      "applicant": "Do Good Technologies, Inc",
+      "applicant_full": "Do Good Technologies, Inc",
+      "mark": "DO GOOD MEDIA",
+      "serial": "99192104",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Entertainment services in the nature of production of on-line video and podcast content; Entertainment services, namely, an ongoing multimedia program featuring human-interest stories and related content including host-led interviews and personality profiles distributed via various platforms across ",
+      "international_classes": [
+        "025",
+        "035",
+        "016",
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.086530"
+    },
+    {
+      "id": "e5341919f574a90d68121287314c4d74",
+      "category": "tech",
+      "category_confidence": 0.30000000000000004,
+      "applicant": "NERD MONEY VENTURES LLC",
+      "applicant_full": "NERD MONEY VENTURES LLC",
+      "mark": "CROWDPIN",
+      "serial": "99192105",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable augmented reality software in the nature of a mobile application for navigating, identifying, and sharing real-time location data of users in large events and social gatherings; Downloadable software in the nature of a mobile application for navigation of the location of users in large ",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.089868"
+    },
+    {
+      "id": "ab8c19224b5ef08059a06de6414afbfb",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Essential Solutions Co.",
+      "applicant_full": "Essential Solutions Co.",
+      "mark": "WASHINGTON QUANTUM CONFERENCE                                                                                                       OREGON QUANTUM CONFERENCE                                                                                                           CALIFORNIA QUANTUM CONFERENCE                                                                                                              IDAHO QUANTUM CONFERENCE                                                                                                                   NEVADA QUANTUM CONFERENCE                                                                                                                    UTAH QUANTUM CONFERENCE                                                                                                                    ARIZONA QUANTUM CONFERENCE                                                                                                            COLORADO QUANTUM CONFERENCE                                                                                                                  NEW MEXICO QUANTUM CONFERENCE                                                                                                         TEXAS QUANTUM CONFERENCE                                                                                                             OKLAHOMA QUANTUM CONFERENCE                                                                                                          KANSAS QUANTUM CONFERENCE                                                                                                              MISSOURI QUANTUM CONFERENCE                                                                                                          ARKANSAS QUANTUM CONFERENCE                                                                                                        LOUISIANA QUANTUM CONFERENCE",
+      "serial": "99192106",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Arranging and conducting of training workshops in the field of quantum computing, quantum physics, and emerging quantum technologies; providing in-person and virtual programming designed to support workforce development, knowledge-sharing, and research collaboration; offering continuing education an",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.114572"
+    },
+    {
+      "id": "bc7addb2c081ac0140c84bea080fb9ce",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "BF Sleep, LLC",
+      "applicant_full": "BF Sleep, LLC",
+      "mark": "BIG FIG THE MATTRESS MADE FOR MORE.",
+      "serial": "99192107",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Mattress pads; Bed sheets; Pillow cases; Pillow protector covers | Adjustable beds; Bed bases; Pillows; Bed frames; Mattress foundations; Mattresses",
+      "international_classes": [
+        "024",
+        "020"
+      ],
+      "processed": "2025-05-21T09:39:15.116694"
+    },
+    {
+      "id": "67ff61d32fba84b3731796594d84d340",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Topoleski, Christopher Jack",
+      "applicant_full": "Topoleski, Christopher Jack",
+      "mark": "CHRISTOPHER JACK TOPOLESKI",
+      "serial": "99192108",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Financial consultancy; Financial information and advisory services",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.118120"
+    },
+    {
+      "id": "e0b1429f90b50e501a0e02d141e4ddca",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "East Tennessee State University",
+      "applicant_full": "East Tennessee State University",
+      "mark": "E ETSU E",
+      "serial": "99192109",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Educational services, namely providing post-secondary and graduate educational courses of instruction and providing classes, seminars and workshops on sports and cultural training and the promotion of athletic events | Clothing, namely, head gear, namely caps, hats and stocking caps, footwear, tee s",
+      "international_classes": [
+        "025",
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.121665"
+    },
+    {
+      "id": "5b12d52144fe5e3f67cb4d3691a6daf7",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "GEFION INVESTMENTS LLC",
+      "applicant_full": "GEFION INVESTMENTS LLC",
+      "mark": "GEFION INVESTMENTS",
+      "serial": "99192110",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Capital investment services; Financial planning and investment advisory services",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.123132"
+    },
+    {
+      "id": "4200cda017d9c76dfaa48d77f40d28d5",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Richard C Hubbarth",
+      "applicant_full": "Richard C Hubbarth",
+      "mark": "CISC\"O\" CLOCK",
+      "serial": "99192111",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Advertising services, namely, creating corporate logos for others",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:15.124458"
+    },
+    {
+      "id": "b9910a0acc240e6c5b8f1a7f4ba12cd3",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Zhejiang\u00a0Litheli\u00a0Technology\u00a0Co.,\u00a0Ltd",
+      "applicant_full": "Zhejiang\u00a0Litheli\u00a0Technology\u00a0Co.,\u00a0Ltd",
+      "mark": "KRAFTSENSE",
+      "serial": "99192112",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Batteries, electric; Rechargeable batteries; Battery chargers; Battery charge devices; Solar panels for the production of electricity; Audio equipment for vehicles, namely, stereos, speakers, amplifiers, equalizers, crossovers and speaker housings; Current rectifiers; Couplings, electric; Inverters;",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.128480"
+    },
+    {
+      "id": "cf4bbcb3816dbb03867dde124afd25c1",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Chemglass Life Sciences, LLC",
+      "applicant_full": "Chemglass Life Sciences, LLC",
+      "mark": "CG MACHINE",
+      "serial": "99192114",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Laboratory equipment and supplies, namely, adaptors, agitators, tubes, bushings, clamps, funnels, impellors, motors, bushing adaptors, reaction blocks, plugs, reaction blocks and vessels, spargers, washers, gaskets, siphons, caps, stir blades, stoppers,\u00a0and\u00a0stands, vials, baffles, carts, rotary scra",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.133255"
+    },
+    {
+      "id": "4728413d83e888b1d685841baa755092",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Marco Polo Gutie",
+      "applicant_full": "Marco Polo Gutie",
+      "mark": "ZUBIES",
+      "serial": "99192115",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Stuffed and plush toys; Plush toys; Smart plush toys; Soft sculpture plush toys; Gift baskets containing plush toys; Novelty plush toys for parties; Plush toys with attached comfort blanket; Decorative toy mobiles and plush toys for children made of felt; Novelty toy items in the nature of Toy plush",
+      "international_classes": [
+        "028"
+      ],
+      "processed": "2025-05-21T09:39:15.136425"
+    },
+    {
+      "id": "39a4243f1c5ff865dc0551c1c68e3bcd",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "XZELLER REALTY LLC",
+      "applicant_full": "XZELLER REALTY LLC",
+      "mark": "XZELLER",
+      "serial": "99192116",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Real estate agency services for the purchase or sales of buildings",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.137720"
+    },
+    {
+      "id": "5efd91d20503f574e7664a3a526458eb",
+      "category": "tech",
+      "category_confidence": 0.4,
+      "applicant": "Satcom Direct, LLC",
+      "applicant_full": "Satcom Direct, LLC",
+      "mark": "SD GOVERNMENT",
+      "serial": "99192117",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Training in the use of aeronautical satellite communications systems | Computer and telecommunications hardware and software for implementing local area networks onboard aircrafts to enable users to transmit and receive voice, video, and data within the aircrafts, between aircrafts, between the airc",
+      "international_classes": [
+        "035",
+        "038",
+        "009",
+        "036",
+        "037",
+        "041",
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:15.142028"
+    },
+    {
+      "id": "1ae4be167b978e8d1cb031daa8e7a4de",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Good Faith Funding LLC",
+      "applicant_full": "Good Faith Funding LLC",
+      "mark": "GOOD FAITH FUNDING",
+      "serial": "99192118",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Real estate lending services",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.143117"
+    },
+    {
+      "id": "443eb5e105d8bb251ee87d1002919eb5",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Shenzhen Galaxy Innovation Co., Ltd.",
+      "applicant_full": "Shenzhen Galaxy Innovation Co., Ltd.",
+      "mark": "ELEXLINCO",
+      "serial": "99192119",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "USB chargers adapted for car cigarette lighter sockets; USB card readers; USB hubs; Electronic docking stations; USB charging ports; Portable power chargers",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.145074"
+    },
+    {
+      "id": "f301a298c230f747b8171f736b6adbd7",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "All Hair Slays, LLC",
+      "applicant_full": "All Hair Slays, LLC",
+      "mark": "ALL HAIR SLAYS",
+      "serial": "99192120",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Hair extensions; Wig caps; Hair pieces and wigs; False hair",
+      "international_classes": [
+        "026"
+      ],
+      "processed": "2025-05-21T09:39:15.146571"
+    },
+    {
+      "id": "8c69171a0b7064258eb63bab495a3aae",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "FEMM SOLUTIONS LLC",
+      "applicant_full": "FEMM SOLUTIONS LLC",
+      "mark": "TINY SPLASH",
+      "serial": "99192121",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Inflatable bath tubs for babies",
+      "international_classes": [
+        "021"
+      ],
+      "processed": "2025-05-21T09:39:15.147602"
+    },
+    {
+      "id": "28344368eba9b1ac60e639ddbb8db3b1",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Kinzua Environmental, Inc.",
+      "applicant_full": "Kinzua Environmental, Inc.",
+      "mark": "ECO-CONSCIOUS",
+      "serial": "99192122",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Cleaning preparations; General purpose cleaning, polishing, and abrasive liquids and powders",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.149072"
+    },
+    {
+      "id": "c1375afbd0b277dbe83bfbe0cabc9d0c",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Business Credit Reports, Inc.",
+      "applicant_full": "Business Credit Reports, Inc.",
+      "mark": "DECISION ASSISTANT",
+      "serial": "99192123",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Evaluation of the credit worthiness of companies and private individuals",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.150491"
+    },
+    {
+      "id": "7c83aa230cae1f358dfe81d1bbf0aa07",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "BLIEVE INC.",
+      "applicant_full": "BLIEVE INC.",
+      "mark": "BLIEVE",
+      "serial": "99192124",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Highlighting pens; Pens; Printed posters; Stickers; Marking tabs; Protective book covers",
+      "international_classes": [
+        "016"
+      ],
+      "processed": "2025-05-21T09:39:15.151806"
+    },
+    {
+      "id": "5fb889fa880eb9a61a3705624c32728f",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Raymond Q Chen",
+      "applicant_full": "Raymond Q Chen",
+      "mark": "ORIGINAL USA",
+      "serial": "99192125",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Women's clothing, namely, shirts, blouses, dresses, skirts, pants, shorts, sweaters, cardigans, jackets, coats, jumpsuits, rompers, loungewear, sleepwear, tank tops, camisoles, bodysuits, and leggings; outerwear, including rainwear, ponchos, vests, capes, and windbreakers; scarves, shawls, wraps, be",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:15.156004"
+    },
+    {
+      "id": "3fae75e1e6bdf424735d3382636c0970",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Jinhua Salide Tools Co., Ltd.",
+      "applicant_full": "Jinhua Salide Tools Co., Ltd.",
+      "mark": "LEADPET",
+      "serial": "99192126",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Drinking troughs; Feeding troughs; Cages for household pets; Litter trays for pets; Small animal feeders; Pet feeding and drinking bowls; Automatic pet feeding bowls; Dog food scoops; Cages for carrying pets; Mangers for animals",
+      "international_classes": [
+        "021"
+      ],
+      "processed": "2025-05-21T09:39:15.158473"
+    },
+    {
+      "id": "973c2382b0b317ff088141618ef2c790",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Teknor Apex Company",
+      "applicant_full": "Teknor Apex Company",
+      "mark": "TRUFLEX",
+      "serial": "99192127",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Viscose chemicals for use in manufacturing",
+      "international_classes": [
+        "001"
+      ],
+      "processed": "2025-05-21T09:39:15.159527"
+    },
+    {
+      "id": "1850360c9c235a69ab27d1fdc810fe4b",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Jiawen Xu",
+      "applicant_full": "Jiawen Xu",
+      "mark": "JADE LADY ANTI-AGING",
+      "serial": "99192128",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Cosmetology services; Health spa services, namely, laser treatments for acne, rejuvenation, scars, tattoo removal and for facials and massage",
+      "international_classes": [
+        "044"
+      ],
+      "processed": "2025-05-21T09:39:15.161260"
+    },
+    {
+      "id": "ed86a5157cb7c97e74269fa23d4a065b",
+      "category": "tech",
+      "category_confidence": 0.42000000000000004,
+      "applicant": "Get Vsbl LLC",
+      "applicant_full": "Get Vsbl LLC",
+      "mark": "VSBL",
+      "serial": "99192129",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Providing online non-downloadable software for compiling and organizing business intelligence; Providing online non-downloadable software for creating advertising layout; Providing temporary use of online non-downloadable software for use in the creation and publication of journals and blogs; Provid",
+      "international_classes": [
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:15.165093"
+    },
+    {
+      "id": "5661eeae450f22c4604703eb82adca3c",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "BeautyMark International",
+      "applicant_full": "BeautyMark International",
+      "mark": "DIRTYCLEAN",
+      "serial": "99192130",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Hair care lotions; Hair care creams; Hair care preparations; Waxes for hair care; Hair care products, namely, heat protection sprays; Hair styling preparations; Hair styling gel; Hair styling wax; Hair styling waxes; Hair styling fixative in the nature of hair wax; Styling clay for hair; Styling pas",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.169380"
+    },
+    {
+      "id": "fbb2bf1d5c7800c6cfcf7a8e0e572ccc",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Daniel M Cheron",
+      "applicant_full": "Daniel M Cheron",
+      "mark": "EXECUTIVE PARENT COACHING",
+      "serial": "99192131",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Business education and training services, namely, developing customized leadership and executive development programs, providing executive coaching services, and providing business education programs to employees and executives",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.171632"
+    },
+    {
+      "id": "b62b1555530ede71370fef517fa4b702",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "BIG ROCK OYSTER COMPANY, INC.",
+      "applicant_full": "BIG ROCK OYSTER COMPANY, INC.",
+      "mark": "BIG ROCK OYSTER 501 CO., INC.",
+      "serial": "99192132",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Live oysters",
+      "international_classes": [
+        "031"
+      ],
+      "processed": "2025-05-21T09:39:15.172756"
+    },
+    {
+      "id": "ca5ae5931caeb76daeaaf01db536ba21",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Himmel Hospitality Group, LLC",
+      "applicant_full": "Himmel Hospitality Group, LLC",
+      "mark": "GRILL 23 & BAR",
+      "serial": "99192133",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Restaurant and bar services, including restaurant carryout services",
+      "international_classes": [
+        "043"
+      ],
+      "processed": "2025-05-21T09:39:15.174083"
+    },
+    {
+      "id": "4885fdd107bf700c7576bb6efb8ecca5",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "DX Tech Pty Ltd",
+      "applicant_full": "DX Tech Pty Ltd",
+      "mark": "CABLESAFE",
+      "serial": "99192134",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Apparatus and instruments for scientific, research, surveying, measuring, detecting, testing and inspecting, namely, computers; apparatus for digital signal processing, namely, digital signal processor; radio frequency sensor; apparatus for detecting radio signals in power lines, namely, radio recei",
+      "international_classes": [
+        "038",
+        "009",
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:15.178016"
+    },
+    {
+      "id": "336c511becfeb09699c084f904e74226",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Taiyuan Jianuo Technology Co., Ltd.",
+      "applicant_full": "Taiyuan Jianuo Technology Co., Ltd.",
+      "mark": "BESQUE MAGIC BODY",
+      "serial": "99192135",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Medicated massage oils; Medicated oils, other than essential oils, containing vitamins",
+      "international_classes": [
+        "005"
+      ],
+      "processed": "2025-05-21T09:39:15.179549"
+    },
+    {
+      "id": "504010eb5becd5ce5fc0aad27c83ce92",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Metropolitan Naples, LLC",
+      "applicant_full": "Metropolitan Naples, LLC",
+      "mark": "AVRA",
+      "serial": "99192136",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Real estate development and construction | Real estate brokerage featuring condominiums; Real estate agency services; Real estate services, namely, condominium management services | Condominium association services, namely, promoting the interests of condominium owners and marketing the condominium ",
+      "international_classes": [
+        "035",
+        "036",
+        "037"
+      ],
+      "processed": "2025-05-21T09:39:15.182835"
+    },
+    {
+      "id": "b26a15e52c32ac2b974f9867a9a13dee",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "SHENZHEN QIRUI ZHIHUI TECHNOLOGY CO., LTD.",
+      "applicant_full": "SHENZHEN QIRUI ZHIHUI TECHNOLOGY CO., LTD.",
+      "mark": "TIRPHY",
+      "serial": "99192137",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Stationery; Pencils; Drawing pencils; Writing implements; Paint brushes; Watercolor pencils; Marker pens; Felt writing pens; Colored pencils; Engraving plates",
+      "international_classes": [
+        "016"
+      ],
+      "processed": "2025-05-21T09:39:15.184812"
+    },
+    {
+      "id": "81ba747156c5428a63fcf40c9faca218",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Essential Solutions Co.",
+      "applicant_full": "Essential Solutions Co.",
+      "mark": "MISSISSIPPI QUANTUM CONFERENCE                                                                                                      ALABAMA QUANTUM CONFERENCE                                                                                                         KENTUCKY QUANTUM CONFERENCE                                                                                                            FLORIDA QUANTUM CONFERENCE                                                                                                                INDIANA QUANTUM CONFERENCE                                                                                                                 ILLINOIS QUANTUM CONFERENCE                                                                                                                      IOWA QUANTUM CONFERENCE                                                                                                               WISCONSIN QUANTUM CONFERENCE                                                                                                      MINNESOTA QUANTUM CONFERENCE                                                                                                      MARYLAND QUANTUM CONFERENCE                                                                                                       DELAWARE QUANTUM CONFERENCE                                                                                                           VIRGINIA QUANTUM CONFERENCE                                                                                                                  NORTH CAROLINA QUANTUM CONFERENCE                                                                                                      SOUTH CAROLINA QUANTUM CONFERENCE                                                                                                      GEORGIA QUANTUM CONFERENCE",
+      "serial": "99192138",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Arranging and conducting of training workshops in the field of quantum computing, quantum physics, and emerging quantum technologies; providing in-person and virtual programming designed to support workforce development, knowledge-sharing, and research collaboration; offering continuing education an",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.207174"
+    },
+    {
+      "id": "0c68c1e9103616b2c471bcd897304997",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Victoria wholesale LLC",
+      "applicant_full": "Victoria wholesale LLC",
+      "mark": "REAL 1688",
+      "serial": "99192139",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Spirits; Distilled agave liquor; Distilled liquor; Distilled blue agave liquor; Distilled spirits; Distilled liquors; Agave-based distilled alcoholic drinks",
+      "international_classes": [
+        "033"
+      ],
+      "processed": "2025-05-21T09:39:15.208962"
+    },
+    {
+      "id": "9425825681cc411e8159b692b962916a",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Marcus Samuelsson Group LLC",
+      "applicant_full": "Marcus Samuelsson Group LLC",
+      "mark": "GOODIE LOUNGE",
+      "serial": "99192140",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Restaurant services; Bar services; Cocktail lounge services",
+      "international_classes": [
+        "043"
+      ],
+      "processed": "2025-05-21T09:39:15.210206"
+    },
+    {
+      "id": "1aff4d19f1c997054049cac58de45332",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Sheng Wen",
+      "applicant_full": "Sheng Wen",
+      "mark": "KRENZIA",
+      "serial": "99192141",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Metal threaded fasteners; Metal cable ties; Metal screws; Hardware, namely, metal brackets for general use; Cable ties of metal; Metal fence wire tensioners; Bolt snaps of metal; Screws of metal; Metal cable clips; Metal binding strips used on packaging; Buckles of common metal; Metal fasteners, nam",
+      "international_classes": [
+        "006"
+      ],
+      "processed": "2025-05-21T09:39:15.213231"
+    },
+    {
+      "id": "e7f7a4570bbcabd366899d60cd4ecac7",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Himmel Hospitality Group, LLC",
+      "applicant_full": "Himmel Hospitality Group, LLC",
+      "mark": "BISTRO DU MIDI",
+      "serial": "99192142",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Restaurant and bar services, including restaurant carryout services",
+      "international_classes": [
+        "043"
+      ],
+      "processed": "2025-05-21T09:39:15.214557"
+    },
+    {
+      "id": "e4fa44806f5ed534e754a9cccbdf146e",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Epic Infancts LLC",
+      "applicant_full": "Epic Infancts LLC",
+      "mark": "EPIC INFANTS",
+      "serial": "99192143",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Cases for baby wipes impregnated with cleaning preparations",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.215753"
+    },
+    {
+      "id": "74e60b5ee732e30c4b450617808258c4",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Frederick Kent Hixson",
+      "applicant_full": "Frederick Kent Hixson",
+      "mark": "LEVEL LINE TRIMMER",
+      "serial": "99192144",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Power-operated lawn and garden string trimmers",
+      "international_classes": [
+        "007"
+      ],
+      "processed": "2025-05-21T09:39:15.216920"
+    },
+    {
+      "id": "4bdffa2f8e71446b7bfac7350d7c0237",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Marcus Samuelsson Group LLC",
+      "applicant_full": "Marcus Samuelsson Group LLC",
+      "mark": "GOODIE LOUNGE",
+      "serial": "99192145",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Restaurant services; Bar services; Cocktail lounge services",
+      "international_classes": [
+        "043"
+      ],
+      "processed": "2025-05-21T09:39:15.218213"
+    },
+    {
+      "id": "5db527d46e8ab939b503c66d4db03e70",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Shenzhen Yameitong E-commerce Co., Ltd.",
+      "applicant_full": "Shenzhen Yameitong E-commerce Co., Ltd.",
+      "mark": "EMIIF",
+      "serial": "99192146",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Fireplace brushes",
+      "international_classes": [
+        "021"
+      ],
+      "processed": "2025-05-21T09:39:15.219249"
+    },
+    {
+      "id": "0049c5ea699d1c8767e770bf6ba3e303",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "AlaTrust Credit Union",
+      "applicant_full": "AlaTrust Credit Union",
+      "mark": "ALATRUST NOT FOR PROFIT.  ALL FOR YOU.",
+      "serial": "99192147",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Credit unions; Credit union services",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.220520"
+    },
+    {
+      "id": "42d329ea8691345a64e0da32d5f670fb",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Minogue Consulting, LLC",
+      "applicant_full": "Minogue Consulting, LLC",
+      "mark": "PROCAN",
+      "serial": "99192148",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Oxygen, namely, oxygen for non-therapeutic purposes",
+      "international_classes": [
+        "001"
+      ],
+      "processed": "2025-05-21T09:39:15.221679"
+    },
+    {
+      "id": "06908105a9b0506df8eb02bea00fd5de",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Twin Cities Print, LLC",
+      "applicant_full": "Twin Cities Print, LLC",
+      "mark": "NORTHERN GOODS",
+      "serial": "99192149",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Retail stores featuring glassware, apparel, candles, home goods, and sporting\nequipment; Online retail clothing store services; Retail store services featuring glassware, apparel, candles, home goods, and sporting\nequipment; On-line retail store services featuring glassware, apparel, candles, home g",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:15.224751"
+    },
+    {
+      "id": "03ec94c0b6d945cb6e12549ec9f4acc8",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Marcus Samuelsson Group LLC",
+      "applicant_full": "Marcus Samuelsson Group LLC",
+      "mark": "GOODIE LOUNGE",
+      "serial": "99192150",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Clothing, namely, shirts, sweatshirts, hoodies, aprons and hats",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:15.226048"
+    },
+    {
+      "id": "397e2602a3a710759d4e0b3bc7c483c9",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Business Credit Reports, Inc.",
+      "applicant_full": "Business Credit Reports, Inc.",
+      "mark": "MULTIMAX CREDIT GUIDELINE",
+      "serial": "99192151",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Evaluation of the credit worthiness of companies and private individuals",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.227482"
+    },
+    {
+      "id": "e63844e17a9891e2ec94c4511e205066",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Proven  Winners North America LLC",
+      "applicant_full": "Proven  Winners North America LLC",
+      "mark": "THE MOST AWARD-WINNING PLANT BRAND",
+      "serial": "99192152",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Living plants",
+      "international_classes": [
+        "031"
+      ],
+      "processed": "2025-05-21T09:39:15.228620"
+    },
+    {
+      "id": "7b5f35b9700a205dc32418b95c62de3c",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Pearl Banyan Capital LLC",
+      "applicant_full": "Pearl Banyan Capital LLC",
+      "mark": "BANYAN",
+      "serial": "99192153",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Dietary supplements",
+      "international_classes": [
+        "005"
+      ],
+      "processed": "2025-05-21T09:39:15.229557"
+    },
+    {
+      "id": "2d0327393d71dbcc5c24aeabe403e3fe",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Robert R. Berry",
+      "applicant_full": "Robert R. Berry",
+      "mark": "SIX BY SIX",
+      "serial": "99192154",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Audio recordings featuring music | Wearable garments and clothing, namely, shirts",
+      "international_classes": [
+        "025",
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.230890"
+    },
+    {
+      "id": "9238cd46f84ff3baea618fd115d52816",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Underground Partners, LLC",
+      "applicant_full": "Underground Partners, LLC",
+      "mark": "No word mark",
+      "serial": "99192155",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "",
+      "international_classes": [],
+      "processed": "2025-05-21T09:39:15.231764"
+    },
+    {
+      "id": "1d9a8cfaafd546408230439c732c527e",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Hope Scarves, Inc.",
+      "applicant_full": "Hope Scarves, Inc.",
+      "mark": "OUTLIVING CANCER",
+      "serial": "99192156",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Charitable fundraising services; Charitable fundraising services for promoting research, education and other activities relating to metastatic cancer; Charitable foundation services, namely, providing fundraising activities to support medical research and procedures for those in need; Charitable fun",
+      "international_classes": [
+        "036"
+      ],
+      "processed": "2025-05-21T09:39:15.234826"
+    },
+    {
+      "id": "09d60340cfbc4de171f735b11a5b4f72",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Homewerks Worldwide, LLC",
+      "applicant_full": "Homewerks Worldwide, LLC",
+      "mark": "SEAL TIGHT",
+      "serial": "99192157",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Toilet gaskets and flappers",
+      "international_classes": [
+        "011"
+      ],
+      "processed": "2025-05-21T09:39:15.235836"
+    },
+    {
+      "id": "36e527a35afeee4b3a2752cb687727ad",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "JOSH'S JOB BLAST LLC",
+      "applicant_full": "JOSH'S JOB BLAST LLC",
+      "mark": "JOSH'S K12 JOBS BLAST LLC",
+      "serial": "99192158",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Providing on-line employment information in the field of K-12 leadership roles",
+      "international_classes": [
+        "035"
+      ],
+      "processed": "2025-05-21T09:39:15.237317"
+    },
+    {
+      "id": "e2ec4eae6de92f6884c69e00d666e5bc",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Jon Boyd",
+      "applicant_full": "Jon Boyd",
+      "mark": "SOPHISTICARE",
+      "serial": "99192159",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Software as a service (SAAS) services featuring software for scheduling, billing, and point-of-care evaluation, specifically for documenting patient records, ensuring Medicare compliance, supporting electronic signatures, in the context of medical and non-medical home care operations, and client and",
+      "international_classes": [
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:15.240138"
+    },
+    {
+      "id": "51bfcd59195a665d43c8943b7d322df9",
+      "category": "entertainment",
+      "category_confidence": 0.32000000000000006,
+      "applicant": "Do Good Technologies, Inc",
+      "applicant_full": "Do Good Technologies, Inc",
+      "mark": "DO GOOD",
+      "serial": "99192160",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Entertainment services in the nature of production of on-line video and podcast content; Entertainment services, namely, an ongoing multimedia program featuring human-interest stories and related content including host-led interviews and personality profiles distributed via various platforms across ",
+      "international_classes": [
+        "025",
+        "035",
+        "016",
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.244172"
+    },
+    {
+      "id": "360ea6a74f238250a9e2700573716219",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Denise Noyer-Erez, L.AC., Inc.",
+      "applicant_full": "Denise Noyer-Erez, L.AC., Inc.",
+      "mark": "THE FERTILITY GODMOTHER",
+      "serial": "99192161",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Acupuncture; Wellness and health-related consulting services",
+      "international_classes": [
+        "044"
+      ],
+      "processed": "2025-05-21T09:39:15.245549"
+    },
+    {
+      "id": "8f8ab50617347911447cd2ca5a84c312",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "SG HOLDINGS I LLC",
+      "applicant_full": "SG HOLDINGS I LLC",
+      "mark": "ASSET FUEL INTERNATIONAL",
+      "serial": "99192162",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Downloadable computer software for monitoring and controlling industrial equipment. | Providing online non-downloadable computer software for monitoring and controlling industrial equipment.",
+      "international_classes": [
+        "009",
+        "042"
+      ],
+      "processed": "2025-05-21T09:39:15.247590"
+    },
+    {
+      "id": "37f7c6fd8e3f11aec26358bea4c13807",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Midnight Logic LLC",
+      "applicant_full": "Midnight Logic LLC",
+      "mark": "NIGHTSHIFT",
+      "serial": "99192163",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Conducting social entertainment events, namely, Dance party, for others; Entertainment services in the nature of production of live events for parties and special events for social entertainment purposes; Hosting and conducting social entertainment events, namely, dance party, for others; Conducting",
+      "international_classes": [
+        "041"
+      ],
+      "processed": "2025-05-21T09:39:15.250977"
+    },
+    {
+      "id": "f008bb20852a57bed07449059492e305",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "GWT (GOLD WATER TRADING)",
+      "applicant_full": "GWT (GOLD WATER TRADING)",
+      "mark": "GWT",
+      "serial": "99192164",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Cotton rounds for cosmetic purposes; Make-up remover; Make-up removing preparations",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.252338"
+    },
+    {
+      "id": "603e863a359211d8045dd175e7d75380",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "H.E.A.L Hair Care LLC",
+      "applicant_full": "H.E.A.L Hair Care LLC",
+      "mark": "No word mark",
+      "serial": "99192165",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Shampoos; Hair conditioners; Non-medicated balms for use on hair and scalp; Hair oils; Hair creams; Hair masks; Skin lotion; Body butter; Non-medicated hair serums",
+      "international_classes": [
+        "003"
+      ],
+      "processed": "2025-05-21T09:39:15.254346"
+    },
+    {
+      "id": "e0016267335700472ac7bb99ef4027a0",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Gallant International Inc",
+      "applicant_full": "Gallant International Inc",
+      "mark": "VOTTERA VOTE FOR A BETTER EARTH",
+      "serial": "99192166",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Clothing, namely, t-shirts, crewneck shirts, V-neck t-shirts, round neck shirts, hoodies, sweatshirts, polos, shorts, joggers, underwear, boxers, boxer briefs, bikinis, bras, sleepwear, pajamas, camisoles, tank tops, dresses, clothing jackets, bodysuits, men\u2019s suits, women\u2019s suits, pants, sweaters, ",
+      "international_classes": [
+        "025"
+      ],
+      "processed": "2025-05-21T09:39:15.257883"
+    },
+    {
+      "id": "36a3444b333560e3a742574c7ad062d1",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Jinhua Aoke New Material Technology Co., Ltd.",
+      "applicant_full": "Jinhua Aoke New Material Technology Co., Ltd.",
+      "mark": "No word mark",
+      "serial": "99192167",
+      "filingDate": "2025-05-19",
+      "hasLogo": true,
+      "description": "Clothing for protection against radiation; Clothing for protection against fire; Safety goggles; Portable power chargers",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-05-21T09:39:15.259653"
+    },
+    {
+      "id": "7fce98e9da8f28cb5af3983dfb546e28",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "Shenzhen Chengyi Trading Co., LTD",
+      "applicant_full": "Shenzhen Chengyi Trading Co., LTD",
+      "mark": "CYREQZYA",
+      "serial": "99192168",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Mah-jong; Drawing toys; Fishing bobbers; Pool cue chalk; Inflatable float mattresses or pads for recreational use; Cases for billiard cues; Kites; Parafoil kites; Party favors in the nature of small toys; Craft sets for decorating balloons; Mosaic puzzles; Knitted toys; Fish cages for use in recreat",
+      "international_classes": [
+        "028"
+      ],
+      "processed": "2025-05-21T09:39:15.263918"
+    },
+    {
+      "id": "bfaa2e32bd547c6c91d35b6f51cfd626",
+      "category": "tech",
+      "category_confidence": 0.30000000000000004,
+      "applicant": "Beijing Transcend Vivoscope Bio-Technology Co., Ltd.",
+      "applicant_full": "Beijing Transcend Vivoscope Bio-Technology Co., Ltd.",
+      "mark": "TRANSVISTA",
+      "serial": "99192169",
+      "filingDate": "2025-05-19",
+      "hasLogo": false,
+      "description": "Medical laboratory research instruments for detecting pathogens; Cables, electric; Mounts and mounting brackets for computers; Mounts and mounting brackets for computer monitors; Televisions and monitors; Test adapters for testing printed circuit boards; Mounts adapted for near field communication (",
+      "international_classes": [
+        "035",
+        "005",
+        "009",
+        "010"
+      ],
+      "processed": "2025-05-21T09:39:15.268234"
     }
   ]
 }
