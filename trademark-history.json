@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2025-06-28T09:14:02.531841",
+    "lastUpdated": "2025-06-29T09:13:56.166207",
     "totalRecords": 400,
     "categories": [
       "auto",
@@ -3257,6 +3257,23 @@
       "processed": "2025-05-12T19:24:43.059005"
     },
     {
+      "id": "b6f03dc316af663d35d80a97a48f03d3",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "ARTE Professional LLC",
+      "applicant_full": "ARTE Professional LLC",
+      "mark": "ART\u00c9",
+      "serial": "99079086",
+      "filingDate": "2025-06-28",
+      "hasLogo": false,
+      "description": "Hair styling preparations; Hair care preparations; Non-medicated skin care preparations; Hair pomades; Styling clay for hair; Styling paste for hair; Facial cleansing preparations; Facial moisturizers; Facial scrubs; Skin toners; Ampoules sold filled with non-medicated serums for use on skin for cos",
+      "international_classes": [
+        "003",
+        "021"
+      ],
+      "processed": "2025-06-29T09:13:55.605952"
+    },
+    {
       "id": "b0aa20ca58c7e8c602de3283ed3c5b8e",
       "category": "uncategorized",
       "category_confidence": 0.0,
@@ -3271,7 +3288,7 @@
         "037",
         "039"
       ],
-      "processed": "2025-06-28T09:14:02.011880"
+      "processed": "2025-06-29T09:13:55.610356"
     },
     {
       "id": "b3290fc9e998a49d64d0e6e5464f445e",
@@ -3287,7 +3304,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.013445"
+      "processed": "2025-06-29T09:13:55.611893"
     },
     {
       "id": "9103b8e1d52d67d35f1599621a9585f6",
@@ -3307,7 +3324,7 @@
         "016",
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.017603"
+      "processed": "2025-06-29T09:13:55.615946"
     },
     {
       "id": "86d590e242252b1eae649ac79b4716a3",
@@ -3324,7 +3341,23 @@
         "006",
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.019040"
+      "processed": "2025-06-29T09:13:55.617368"
+    },
+    {
+      "id": "96751f75f70252d2a22935984be57e73",
+      "category": "uncategorized",
+      "category_confidence": 0.0,
+      "applicant": "ALYKA Health Technologies, LLC",
+      "applicant_full": "ALYKA Health Technologies, LLC",
+      "mark": "No word mark",
+      "serial": "99250399",
+      "filingDate": "2025-06-28",
+      "hasLogo": true,
+      "description": "Downloadable mobile applications for retrieving and displaying health information",
+      "international_classes": [
+        "009"
+      ],
+      "processed": "2025-06-29T09:13:55.618782"
     },
     {
       "id": "7045acc205d36531796684e80bcb3f6c",
@@ -3340,7 +3373,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.023342"
+      "processed": "2025-06-29T09:13:55.623489"
     },
     {
       "id": "f853d8bc3b02085512c6cf5bd41ffae9",
@@ -3356,7 +3389,27 @@
       "international_classes": [
         "010"
       ],
-      "processed": "2025-06-28T09:14:02.024317"
+      "processed": "2025-06-29T09:13:55.624507"
+    },
+    {
+      "id": "9256122399949dc925fefbf2354acb7d",
+      "category": "auto",
+      "category_confidence": 0.36000000000000004,
+      "applicant": "GenZ Automotive, LLC",
+      "applicant_full": "GenZ Automotive, LLC",
+      "mark": "GENZ PROTECT",
+      "serial": "99252342",
+      "filingDate": "2025-06-28",
+      "hasLogo": false,
+      "description": "TRANSPORTATION, AND PACKAGING AND STORAGE OF GOODS; SUCH AS THE SERVICES OF: ORGANIZATION OF VEHICLE TOWING; ORGANIZATION OF TOWING SERVICES FOR VEHICLES IN THE EVENT OF A BREAKDOWN; ORGANIZATION OF CAR RENTAL; TRANSPORT AND STORAGE OF VEHICLES; TOWING AND TRANSPORTING CARS AS PART OF SERVICES FOR B",
+      "international_classes": [
+        "035",
+        "045",
+        "036",
+        "037",
+        "039"
+      ],
+      "processed": "2025-06-29T09:13:55.628717"
     },
     {
       "id": "8b493bcb87ea8954b165da9eadc0fcf0",
@@ -3372,7 +3425,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.025682"
+      "processed": "2025-06-29T09:13:55.630072"
     },
     {
       "id": "0bb773a902839811233a7c406df4c5b9",
@@ -3388,7 +3441,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-06-28T09:14:02.029830"
+      "processed": "2025-06-29T09:13:55.634163"
     },
     {
       "id": "44e462f14dd28781f6c1c1394351db2b",
@@ -3404,7 +3457,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.034041"
+      "processed": "2025-06-29T09:13:55.638370"
     },
     {
       "id": "b996937534da974688566756a59d125e",
@@ -3420,7 +3473,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.035550"
+      "processed": "2025-06-29T09:13:55.639882"
     },
     {
       "id": "674275600ff8486b391e0f2b29176b9a",
@@ -3436,7 +3489,7 @@
       "international_classes": [
         "008"
       ],
-      "processed": "2025-06-28T09:14:02.038219"
+      "processed": "2025-06-29T09:13:55.642538"
     },
     {
       "id": "7a883fa1104cc85cbca3140ffeb70e73",
@@ -3452,7 +3505,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.040370"
+      "processed": "2025-06-29T09:13:55.644684"
     },
     {
       "id": "38c39ee9539e879dade100086ad8a2ed",
@@ -3468,7 +3521,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.043490"
+      "processed": "2025-06-29T09:13:55.647951"
     },
     {
       "id": "cbcdb7937bf5ce2a7795823ddfb9cb0d",
@@ -3484,7 +3537,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.046666"
+      "processed": "2025-06-29T09:13:55.651259"
     },
     {
       "id": "b3525a0b87589dfa317b3af1f3bec16b",
@@ -3501,23 +3554,7 @@
         "001",
         "017"
       ],
-      "processed": "2025-06-28T09:14:02.050859"
-    },
-    {
-      "id": "abc6664546c5d87923d851457028256d",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Brandon Wade Harrison",
-      "applicant_full": "Brandon Wade Harrison",
-      "mark": "IRON PATCH HAT CO.",
-      "serial": "99255598",
-      "filingDate": "2025-06-26",
-      "hasLogo": false,
-      "description": "Athletic apparel, namely, shirts, pants, jackets, footwear, hats and caps, athletic uniforms",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-06-28T09:14:02.052376"
+      "processed": "2025-06-29T09:13:55.655658"
     },
     {
       "id": "ebc55c7a12473ea61860fb3bd824ffb7",
@@ -3533,7 +3570,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.054064"
+      "processed": "2025-06-29T09:13:55.657419"
     },
     {
       "id": "620ad5e7e99b55e0fb76c9751731c22a",
@@ -3549,7 +3586,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.055754"
+      "processed": "2025-06-29T09:13:55.659183"
     },
     {
       "id": "8ffdbc13ccb26b0c9aa332391fa9b188",
@@ -3565,7 +3602,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.056885"
+      "processed": "2025-06-29T09:13:55.660349"
     },
     {
       "id": "c7c7f9cccfa14640e6e9538b532ddabb",
@@ -3581,7 +3618,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.061001"
+      "processed": "2025-06-29T09:13:55.664704"
     },
     {
       "id": "7078ce8a000fcb13be1238e5feaa7fbf",
@@ -3598,7 +3635,7 @@
         "009",
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.064183"
+      "processed": "2025-06-29T09:13:55.668032"
     },
     {
       "id": "dcfd424319a7be7dd47083169eb788aa",
@@ -3614,7 +3651,7 @@
       "international_classes": [
         "044"
       ],
-      "processed": "2025-06-28T09:14:02.065334"
+      "processed": "2025-06-29T09:13:55.669214"
     },
     {
       "id": "96f19d6e79e4d5f375be789b691401dd",
@@ -3630,7 +3667,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.066674"
+      "processed": "2025-06-29T09:13:55.670586"
     },
     {
       "id": "7ebf7c26a7c20025a1ebfb31cd12eda2",
@@ -3646,7 +3683,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.068660"
+      "processed": "2025-06-29T09:13:55.672681"
     },
     {
       "id": "52a44891ca31c3636b8a691d45c87648",
@@ -3662,7 +3699,7 @@
       "international_classes": [
         "007"
       ],
-      "processed": "2025-06-28T09:14:02.070355"
+      "processed": "2025-06-29T09:13:55.674444"
     },
     {
       "id": "8e69b34e6a0972d1cd852aa350fb1a32",
@@ -3678,7 +3715,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.073010"
+      "processed": "2025-06-29T09:13:55.677223"
     },
     {
       "id": "98c72fd1e441c647e4b48a69e18a2821",
@@ -3694,7 +3731,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.076713"
+      "processed": "2025-06-29T09:13:55.681090"
     },
     {
       "id": "b0d40f0af593ab5df47f45661f1ad232",
@@ -3710,7 +3747,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.080989"
+      "processed": "2025-06-29T09:13:55.685568"
     },
     {
       "id": "6bd3e73527ace93d102974a359330241",
@@ -3726,7 +3763,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.085477"
+      "processed": "2025-06-29T09:13:55.690342"
     },
     {
       "id": "703cf0960771093b15ee937bc5bb94bc",
@@ -3742,7 +3779,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.090012"
+      "processed": "2025-06-29T09:13:55.694794"
     },
     {
       "id": "6c09a6d63a3feb8dae2597511c9cdf73",
@@ -3758,7 +3795,7 @@
       "international_classes": [
         "014"
       ],
-      "processed": "2025-06-28T09:14:02.090815"
+      "processed": "2025-06-29T09:13:55.695594"
     },
     {
       "id": "f26408e7f2a3b61c4ab0f9850a09525e",
@@ -3774,7 +3811,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.093506"
+      "processed": "2025-06-29T09:13:55.698395"
     },
     {
       "id": "192c482cf06d8348ae2a75b4337326f2",
@@ -3790,7 +3827,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.097086"
+      "processed": "2025-06-29T09:13:55.702215"
     },
     {
       "id": "ba5a8555f78aeee3aaf92500e269b279",
@@ -3806,7 +3843,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.098584"
+      "processed": "2025-06-29T09:13:55.703755"
     },
     {
       "id": "fd9e977f41269500685650666a39cd41",
@@ -3822,7 +3859,7 @@
       "international_classes": [
         "026"
       ],
-      "processed": "2025-06-28T09:14:02.101037"
+      "processed": "2025-06-29T09:13:55.706354"
     },
     {
       "id": "0aedc34b238940194ce587ffcc51cf4f",
@@ -3839,7 +3876,7 @@
         "028",
         "018"
       ],
-      "processed": "2025-06-28T09:14:02.102883"
+      "processed": "2025-06-29T09:13:55.708307"
     },
     {
       "id": "62ee7d42ea0e1908e53293d45a8d45df",
@@ -3855,7 +3892,7 @@
       "international_classes": [
         "027"
       ],
-      "processed": "2025-06-28T09:14:02.105242"
+      "processed": "2025-06-29T09:13:55.710851"
     },
     {
       "id": "45d2f4dae8780a043074a5f45b283d6b",
@@ -3871,7 +3908,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.107443"
+      "processed": "2025-06-29T09:13:55.713197"
     },
     {
       "id": "201e7214b740e5609ff98e869e93fd28",
@@ -3887,7 +3924,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.110574"
+      "processed": "2025-06-29T09:13:55.716584"
     },
     {
       "id": "a29d79064df930d55b07a01b45e2e002",
@@ -3903,7 +3940,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.113329"
+      "processed": "2025-06-29T09:13:55.719554"
     },
     {
       "id": "eb088d3fd0313c9ef35f60fbb024b4ac",
@@ -3919,7 +3956,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.116765"
+      "processed": "2025-06-29T09:13:55.723260"
     },
     {
       "id": "d088b9fede04009776b32f38700277da",
@@ -3935,7 +3972,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.119022"
+      "processed": "2025-06-29T09:13:55.725721"
     },
     {
       "id": "1c149861c8fb0fc67e10287e50d0562f",
@@ -3951,7 +3988,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.120995"
+      "processed": "2025-06-29T09:13:55.727805"
     },
     {
       "id": "9fa46a86830b05fa0749eaebd89b223c",
@@ -3967,7 +4004,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.123937"
+      "processed": "2025-06-29T09:13:55.730998"
     },
     {
       "id": "b40a277452555928a502215d9ea2f416",
@@ -3983,7 +4020,7 @@
       "international_classes": [
         "043"
       ],
-      "processed": "2025-06-28T09:14:02.125041"
+      "processed": "2025-06-29T09:13:55.732090"
     },
     {
       "id": "6a90541660fbcfcf267b5987c9b8b702",
@@ -3999,7 +4036,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.127785"
+      "processed": "2025-06-29T09:13:55.735101"
     },
     {
       "id": "24d23373ba50707f2db5a325ee3537c8",
@@ -4015,7 +4052,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.131948"
+      "processed": "2025-06-29T09:13:55.739748"
     },
     {
       "id": "98f8d042c086a6be5c3e179c30d109df",
@@ -4031,7 +4068,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-06-28T09:14:02.133651"
+      "processed": "2025-06-29T09:13:55.741577"
     },
     {
       "id": "f81cf65ff338d47d64845edac36a4d92",
@@ -4047,7 +4084,7 @@
       "international_classes": [
         "018"
       ],
-      "processed": "2025-06-28T09:14:02.136266"
+      "processed": "2025-06-29T09:13:55.744468"
     },
     {
       "id": "14a897952beff3534deee89a5246990e",
@@ -4063,7 +4100,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.138593"
+      "processed": "2025-06-29T09:13:55.746999"
     },
     {
       "id": "cc575180e9d25c7731b17ab370ba54cb",
@@ -4079,7 +4116,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.142964"
+      "processed": "2025-06-29T09:13:55.751905"
     },
     {
       "id": "20797e329c1946ef7c7e6478138b0a39",
@@ -4095,7 +4132,7 @@
       "international_classes": [
         "004"
       ],
-      "processed": "2025-06-28T09:14:02.145258"
+      "processed": "2025-06-29T09:13:55.754336"
     },
     {
       "id": "f83eade2c4c77fb6aa7ae46ccb324b5a",
@@ -4111,7 +4148,7 @@
       "international_classes": [
         "043"
       ],
-      "processed": "2025-06-28T09:14:02.146317"
+      "processed": "2025-06-29T09:13:55.755396"
     },
     {
       "id": "fe50473a1863b4bca2bfc83cd1b31e97",
@@ -4127,7 +4164,7 @@
       "international_classes": [
         "037"
       ],
-      "processed": "2025-06-28T09:14:02.147341"
+      "processed": "2025-06-29T09:13:55.756457"
     },
     {
       "id": "2c221e1776769cf42a67100aaae858f9",
@@ -4143,7 +4180,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.149965"
+      "processed": "2025-06-29T09:13:55.759284"
     },
     {
       "id": "6a66cc2a09031fba90f9f79a5462741a",
@@ -4159,7 +4196,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.152618"
+      "processed": "2025-06-29T09:13:55.762154"
     },
     {
       "id": "babed016c84e32786bfaecd98fa4a1f3",
@@ -4175,7 +4212,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.155837"
+      "processed": "2025-06-29T09:13:55.765606"
     },
     {
       "id": "154b94bb2ec1fab101b2f32e04fa75d7",
@@ -4191,7 +4228,7 @@
       "international_classes": [
         "007"
       ],
-      "processed": "2025-06-28T09:14:02.159698"
+      "processed": "2025-06-29T09:13:55.769917"
     },
     {
       "id": "7dce22014ba260fa2df9e66183b00f47",
@@ -4207,7 +4244,7 @@
       "international_classes": [
         "044"
       ],
-      "processed": "2025-06-28T09:14:02.160988"
+      "processed": "2025-06-29T09:13:55.771284"
     },
     {
       "id": "d0ce2456efaa3a84360dcf84421f6816",
@@ -4223,7 +4260,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.164995"
+      "processed": "2025-06-29T09:13:55.775663"
     },
     {
       "id": "1a69753c059050b0289eaba0ddd5a35e",
@@ -4239,7 +4276,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.168530"
+      "processed": "2025-06-29T09:13:55.779535"
     },
     {
       "id": "231176160ca2278f07ad6091d958e238",
@@ -4255,7 +4292,7 @@
       "international_classes": [
         "018"
       ],
-      "processed": "2025-06-28T09:14:02.170895"
+      "processed": "2025-06-29T09:13:55.782056"
     },
     {
       "id": "803a3d9941fecb9d7dd31626f4ccd86a",
@@ -4271,7 +4308,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.171771"
+      "processed": "2025-06-29T09:13:55.782948"
     },
     {
       "id": "f8f5c17ec330bcf58cd22a4c4bb7636d",
@@ -4287,7 +4324,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.176257"
+      "processed": "2025-06-29T09:13:55.787848"
     },
     {
       "id": "c132c3b46c2ed8f42faf342405ce8911",
@@ -4303,7 +4340,7 @@
       "international_classes": [
         "014"
       ],
-      "processed": "2025-06-28T09:14:02.178324"
+      "processed": "2025-06-29T09:13:55.790057"
     },
     {
       "id": "d92240678be64fc8c51be5f8b04d9a68",
@@ -4319,7 +4356,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.180236"
+      "processed": "2025-06-29T09:13:55.792105"
     },
     {
       "id": "74233a96621578c8010b0fecadb7a78a",
@@ -4335,7 +4372,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.182396"
+      "processed": "2025-06-29T09:13:55.794426"
     },
     {
       "id": "2a133d11626df0d1c01376ee77bf08e1",
@@ -4351,7 +4388,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.184766"
+      "processed": "2025-06-29T09:13:55.796987"
     },
     {
       "id": "ad8edf1ca0ae282c7594bdbce1702ba4",
@@ -4367,7 +4404,7 @@
       "international_classes": [
         "026"
       ],
-      "processed": "2025-06-28T09:14:02.186891"
+      "processed": "2025-06-29T09:13:55.799251"
     },
     {
       "id": "b3943e5735e797bf0aa3519400235254",
@@ -4383,7 +4420,7 @@
       "international_classes": [
         "008"
       ],
-      "processed": "2025-06-28T09:14:02.189467"
+      "processed": "2025-06-29T09:13:55.802051"
     },
     {
       "id": "fe1c0d846f2a698d5be73345cb2e2702",
@@ -4399,7 +4436,7 @@
       "international_classes": [
         "008"
       ],
-      "processed": "2025-06-28T09:14:02.193882"
+      "processed": "2025-06-29T09:13:55.806846"
     },
     {
       "id": "06b46a54b0b871a8781dbec5addac365",
@@ -4416,7 +4453,7 @@
         "025",
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.197121"
+      "processed": "2025-06-29T09:13:55.810360"
     },
     {
       "id": "a3cdaf176c3663eb82359acf9baf4474",
@@ -4432,7 +4469,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.199453"
+      "processed": "2025-06-29T09:13:55.812896"
     },
     {
       "id": "40ac94985980f2b42a80f6dc74160367",
@@ -4448,7 +4485,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.202173"
+      "processed": "2025-06-29T09:13:55.815831"
     },
     {
       "id": "9f0a652ce40e500e7d2710306f81dc67",
@@ -4464,7 +4501,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.204865"
+      "processed": "2025-06-29T09:13:55.818750"
     },
     {
       "id": "ce7bbb2d65feb11bc905fc0a7d5aa75b",
@@ -4480,7 +4517,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.208886"
+      "processed": "2025-06-29T09:13:55.823153"
     },
     {
       "id": "a913f4a856376d88354d762ff125f330",
@@ -4496,7 +4533,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.211036"
+      "processed": "2025-06-29T09:13:55.825247"
     },
     {
       "id": "7fb227be130453d2dd76fa53e71f8aa1",
@@ -4512,7 +4549,7 @@
       "international_classes": [
         "044"
       ],
-      "processed": "2025-06-28T09:14:02.212347"
+      "processed": "2025-06-29T09:13:55.826687"
     },
     {
       "id": "6fb4a7b3ba1919589f6ddc31f811964c",
@@ -4528,7 +4565,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.215469"
+      "processed": "2025-06-29T09:13:55.830107"
     },
     {
       "id": "c8a87a6f35c84edc06d7c998b1ee75fa",
@@ -4544,7 +4581,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.219183"
+      "processed": "2025-06-29T09:13:55.834174"
     },
     {
       "id": "70c0200722b89b3bd78da5b851634815",
@@ -4560,7 +4597,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.222039"
+      "processed": "2025-06-29T09:13:55.837264"
     },
     {
       "id": "6248691e26742578f7ca8b64134781e7",
@@ -4576,7 +4613,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.225013"
+      "processed": "2025-06-29T09:13:55.840508"
     },
     {
       "id": "68342d0eb47ed707e36ec7b065132900",
@@ -4592,7 +4629,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.227847"
+      "processed": "2025-06-29T09:13:55.843585"
     },
     {
       "id": "1036620c8df2cc9583dbd558f614e5dd",
@@ -4608,7 +4645,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.230580"
+      "processed": "2025-06-29T09:13:55.846581"
     },
     {
       "id": "46226dda811da797ae96f105d24f6f8c",
@@ -4624,7 +4661,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.233555"
+      "processed": "2025-06-29T09:13:55.849834"
     },
     {
       "id": "40917217e484f2981d0d88bced9e8dfe",
@@ -4640,7 +4677,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.236247"
+      "processed": "2025-06-29T09:13:55.852675"
     },
     {
       "id": "6a7c201b5b7186b69523a2f85029fa83",
@@ -4656,7 +4693,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.239231"
+      "processed": "2025-06-29T09:13:55.855944"
     },
     {
       "id": "bf723675df7935e3ef9010be0d80f5b0",
@@ -4673,7 +4710,7 @@
         "025",
         "043"
       ],
-      "processed": "2025-06-28T09:14:02.240476"
+      "processed": "2025-06-29T09:13:55.857267"
     },
     {
       "id": "689621bb32c5b79b08c550ed54c111c1",
@@ -4689,7 +4726,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.242977"
+      "processed": "2025-06-29T09:13:55.859977"
     },
     {
       "id": "96a70c8a373ace892d1f3d62e721d5e3",
@@ -4705,7 +4742,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.244628"
+      "processed": "2025-06-29T09:13:55.861763"
     },
     {
       "id": "5640167f504d4de3e5c4387f720403a6",
@@ -4721,7 +4758,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.248455"
+      "processed": "2025-06-29T09:13:55.865930"
     },
     {
       "id": "472cf04c77a8fae5bd87a4bc6149001c",
@@ -4738,7 +4775,7 @@
         "041",
         "044"
       ],
-      "processed": "2025-06-28T09:14:02.250841"
+      "processed": "2025-06-29T09:13:55.868504"
     },
     {
       "id": "ae4bbda9c8f1fcc647fb654bb0790248",
@@ -4754,7 +4791,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.253679"
+      "processed": "2025-06-29T09:13:55.871555"
     },
     {
       "id": "7b5403729f090ff85454351cfcee4e40",
@@ -4770,7 +4807,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.257064"
+      "processed": "2025-06-29T09:13:55.875258"
     },
     {
       "id": "ee7a05099369febf127ffc1cbb06a044",
@@ -4786,7 +4823,7 @@
       "international_classes": [
         "008"
       ],
-      "processed": "2025-06-28T09:14:02.259314"
+      "processed": "2025-06-29T09:13:55.877686"
     },
     {
       "id": "9496b39baed7985c8fb77aac4513c58c",
@@ -4802,7 +4839,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.263770"
+      "processed": "2025-06-29T09:13:55.882634"
     },
     {
       "id": "bd1a718b4eccfebd10b98fb349f3882f",
@@ -4818,7 +4855,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.266169"
+      "processed": "2025-06-29T09:13:55.885256"
     },
     {
       "id": "cff6fc9b3ed262f1a04ef008547d984a",
@@ -4834,7 +4871,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.269101"
+      "processed": "2025-06-29T09:13:55.888479"
     },
     {
       "id": "f8a0e78c651f0e1000a290b6b7f9f5e1",
@@ -4850,7 +4887,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.271569"
+      "processed": "2025-06-29T09:13:55.891188"
     },
     {
       "id": "6e5ad1e14e1650d11bdafbfe8c229a2c",
@@ -4866,7 +4903,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.273210"
+      "processed": "2025-06-29T09:13:55.892945"
     },
     {
       "id": "225e4592810d3b49072ff417f5a2c255",
@@ -4882,7 +4919,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.275763"
+      "processed": "2025-06-29T09:13:55.895727"
     },
     {
       "id": "f2d03e82849286a4163e5707c1fd537e",
@@ -4898,7 +4935,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.279951"
+      "processed": "2025-06-29T09:13:55.900310"
     },
     {
       "id": "9770f8e9294b5175e1030fc1aeb49925",
@@ -4914,7 +4951,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-06-28T09:14:02.283817"
+      "processed": "2025-06-29T09:13:55.904599"
     },
     {
       "id": "87cd3791460cd918c042657781cf26be",
@@ -4930,7 +4967,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.288052"
+      "processed": "2025-06-29T09:13:55.909264"
     },
     {
       "id": "0cac8e0187ba5a3f34d8076ba5ee86cd",
@@ -4946,7 +4983,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.289352"
+      "processed": "2025-06-29T09:13:55.910638"
     },
     {
       "id": "7ad271f8d4e100bc98ee2848d7d1afa4",
@@ -4962,7 +4999,7 @@
       "international_classes": [
         "018"
       ],
-      "processed": "2025-06-28T09:14:02.291429"
+      "processed": "2025-06-29T09:13:55.912872"
     },
     {
       "id": "132a480f255c4704ddd772ad573e774e",
@@ -4978,7 +5015,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.295537"
+      "processed": "2025-06-29T09:13:55.917356"
     },
     {
       "id": "c3cec2c3b887a50c9b5c4489062ea3f2",
@@ -4994,7 +5031,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.297110"
+      "processed": "2025-06-29T09:13:55.918841"
     },
     {
       "id": "77684bb04827cbb659c705dbdac8120c",
@@ -5010,7 +5047,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.298532"
+      "processed": "2025-06-29T09:13:55.920363"
     },
     {
       "id": "9f3d2d789c3622e7381070335e5559d1",
@@ -5026,7 +5063,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.300865"
+      "processed": "2025-06-29T09:13:55.922948"
     },
     {
       "id": "aeea8b494ac78a9e1529d2697ac4b8e8",
@@ -5042,7 +5079,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.302261"
+      "processed": "2025-06-29T09:13:55.924421"
     },
     {
       "id": "f2494f5561c048ee5eb35ba63503db2c",
@@ -5058,7 +5095,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.305586"
+      "processed": "2025-06-29T09:13:55.928050"
     },
     {
       "id": "98a2aebb7cf3a201859560aab46cc578",
@@ -5074,7 +5111,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.306775"
+      "processed": "2025-06-29T09:13:55.929286"
     },
     {
       "id": "45fb7ae1fc90d77ba2e70d9e5db24c0d",
@@ -5090,7 +5127,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.309606"
+      "processed": "2025-06-29T09:13:55.932393"
     },
     {
       "id": "53384349824cb2571094c8e018ff485a",
@@ -5109,7 +5146,7 @@
         "041",
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.313507"
+      "processed": "2025-06-29T09:13:55.936734"
     },
     {
       "id": "5fe2dc1f0774a150e4162fea24b4fbd0",
@@ -5126,7 +5163,7 @@
         "025",
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.316803"
+      "processed": "2025-06-29T09:13:55.940357"
     },
     {
       "id": "fd6a480f3de6e5f69abdec8eba85f434",
@@ -5142,7 +5179,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.319247"
+      "processed": "2025-06-29T09:13:55.943019"
     },
     {
       "id": "8907a2ad43e32eb6b0246dae42afff18",
@@ -5158,7 +5195,7 @@
       "international_classes": [
         "029"
       ],
-      "processed": "2025-06-28T09:14:02.320492"
+      "processed": "2025-06-29T09:13:55.944335"
     },
     {
       "id": "4b044eb912ac7ae8d4ccadca4a809c1d",
@@ -5174,7 +5211,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.322522"
+      "processed": "2025-06-29T09:13:55.946495"
     },
     {
       "id": "44a717fb430dc8014387d7be3df2cb3d",
@@ -5190,7 +5227,7 @@
       "international_classes": [
         "018"
       ],
-      "processed": "2025-06-28T09:14:02.324515"
+      "processed": "2025-06-29T09:13:55.948637"
     },
     {
       "id": "1ac3d513e25aa0e9f38bbc229f0dfde4",
@@ -5206,7 +5243,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.326306"
+      "processed": "2025-06-29T09:13:55.950556"
     },
     {
       "id": "40716c38bb23557ad432e34117e8e3a0",
@@ -5222,7 +5259,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.328651"
+      "processed": "2025-06-29T09:13:55.953129"
     },
     {
       "id": "2e13dde2ec4a84cb5f2900b5e08ed514",
@@ -5238,7 +5275,7 @@
       "international_classes": [
         "005"
       ],
-      "processed": "2025-06-28T09:14:02.330935"
+      "processed": "2025-06-29T09:13:55.955590"
     },
     {
       "id": "13372694002bbbd2d5813821b9f3e634",
@@ -5254,7 +5291,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.332972"
+      "processed": "2025-06-29T09:13:55.957731"
     },
     {
       "id": "50d050e0bc64490793076856252cd651",
@@ -5270,7 +5307,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-06-28T09:14:02.334397"
+      "processed": "2025-06-29T09:13:55.959246"
     },
     {
       "id": "6b4b1dcc6a2c0ea1cf9ab28522b6c1bf",
@@ -5286,7 +5323,7 @@
       "international_classes": [
         "020"
       ],
-      "processed": "2025-06-28T09:14:02.337986"
+      "processed": "2025-06-29T09:13:55.963187"
     },
     {
       "id": "7e07381146ddb912c77343ce56717c35",
@@ -5302,7 +5339,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.338868"
+      "processed": "2025-06-29T09:13:55.964093"
     },
     {
       "id": "f965248bb732b1141663538209b6ba1c",
@@ -5318,7 +5355,7 @@
       "international_classes": [
         "010"
       ],
-      "processed": "2025-06-28T09:14:02.339868"
+      "processed": "2025-06-29T09:13:55.965138"
     },
     {
       "id": "b201adbd59206f440a773c09eb0c945e",
@@ -5334,7 +5371,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.343714"
+      "processed": "2025-06-29T09:13:55.969355"
     },
     {
       "id": "ed48345aa93042be481d7e87a2bca2a6",
@@ -5350,7 +5387,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.347376"
+      "processed": "2025-06-29T09:13:55.973397"
     },
     {
       "id": "d9f76cbd8bba68198c2216a1d374e343",
@@ -5366,7 +5403,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.351218"
+      "processed": "2025-06-29T09:13:55.977244"
     },
     {
       "id": "000387791d45a56185c6a9b961c469bb",
@@ -5382,7 +5419,7 @@
       "international_classes": [
         "004"
       ],
-      "processed": "2025-06-28T09:14:02.352124"
+      "processed": "2025-06-29T09:13:55.978177"
     },
     {
       "id": "f1824d3c1411207b1faf53ef84bf7453",
@@ -5398,7 +5435,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.356357"
+      "processed": "2025-06-29T09:13:55.982865"
     },
     {
       "id": "6723be9e841971c0e6d44334ae212a06",
@@ -5414,7 +5451,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.360142"
+      "processed": "2025-06-29T09:13:55.987073"
     },
     {
       "id": "99fe9fbd52439b0e9a9c324ffab340bc",
@@ -5431,7 +5468,7 @@
         "030",
         "005"
       ],
-      "processed": "2025-06-28T09:14:02.362755"
+      "processed": "2025-06-29T09:13:55.989911"
     },
     {
       "id": "e2323046b91ae1eff377f4d84f6a8c75",
@@ -5448,7 +5485,7 @@
         "035",
         "045"
       ],
-      "processed": "2025-06-28T09:14:02.366255"
+      "processed": "2025-06-29T09:13:55.993775"
     },
     {
       "id": "ad4beebad5ff172ab30d605df4a816c5",
@@ -5464,7 +5501,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.367222"
+      "processed": "2025-06-29T09:13:55.994781"
     },
     {
       "id": "cedb8a55ebb77b68510697348b6eb6f1",
@@ -5480,7 +5517,7 @@
       "international_classes": [
         "024"
       ],
-      "processed": "2025-06-28T09:14:02.369587"
+      "processed": "2025-06-29T09:13:55.997353"
     },
     {
       "id": "8f83b7598ee488640f87730f7f47b563",
@@ -5496,7 +5533,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.371899"
+      "processed": "2025-06-29T09:13:55.999860"
     },
     {
       "id": "5a2a198f337a7c6a9db32181f1b52d24",
@@ -5512,7 +5549,7 @@
       "international_classes": [
         "014"
       ],
-      "processed": "2025-06-28T09:14:02.372887"
+      "processed": "2025-06-29T09:13:56.000888"
     },
     {
       "id": "633e4a535b061ccdcc381315a012ff3c",
@@ -5528,7 +5565,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.376825"
+      "processed": "2025-06-29T09:13:56.005243"
     },
     {
       "id": "76c67ca0d04bcc5b114130ca774876ab",
@@ -5544,7 +5581,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.379100"
+      "processed": "2025-06-29T09:13:56.007761"
     },
     {
       "id": "16921a72fd1cd58d007466212cc2d502",
@@ -5563,7 +5600,7 @@
         "009",
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.383140"
+      "processed": "2025-06-29T09:13:56.012253"
     },
     {
       "id": "f7007730956bcf4efc51519749badfa0",
@@ -5579,7 +5616,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.386905"
+      "processed": "2025-06-29T09:13:56.016308"
     },
     {
       "id": "de3313c40182dc90b83f52cffab2807f",
@@ -5596,7 +5633,7 @@
         "003",
         "004"
       ],
-      "processed": "2025-06-28T09:14:02.388417"
+      "processed": "2025-06-29T09:13:56.017877"
     },
     {
       "id": "3079e7dfce15cdce92e27c809ad73553",
@@ -5612,7 +5649,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.390930"
+      "processed": "2025-06-29T09:13:56.020553"
     },
     {
       "id": "100a17b3876ede11f82be79ef3b023b5",
@@ -5628,7 +5665,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.395568"
+      "processed": "2025-06-29T09:13:56.025376"
     },
     {
       "id": "5655a31d0cdec13e3f58e69a6547ebf6",
@@ -5644,7 +5681,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.398261"
+      "processed": "2025-06-29T09:13:56.028233"
     },
     {
       "id": "c077e8b207552c0090d409d13b1c936e",
@@ -5661,7 +5698,7 @@
         "030",
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.401926"
+      "processed": "2025-06-29T09:13:56.032070"
     },
     {
       "id": "921a3b47319fc43c2f2360e6c964454e",
@@ -5677,7 +5714,7 @@
       "international_classes": [
         "022"
       ],
-      "processed": "2025-06-28T09:14:02.403238"
+      "processed": "2025-06-29T09:13:56.033412"
     },
     {
       "id": "10e65bdfe526f93edd574d68c884d657",
@@ -5693,7 +5730,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.405913"
+      "processed": "2025-06-29T09:13:56.036218"
     },
     {
       "id": "d0a01e9487dfc0dd0cff7136c4acf179",
@@ -5709,7 +5746,7 @@
       "international_classes": [
         "035"
       ],
-      "processed": "2025-06-28T09:14:02.408970"
+      "processed": "2025-06-29T09:13:56.039457"
     },
     {
       "id": "4aea15d83894099ccb05f95635123c57",
@@ -5725,7 +5762,7 @@
       "international_classes": [
         "038"
       ],
-      "processed": "2025-06-28T09:14:02.411294"
+      "processed": "2025-06-29T09:13:56.041924"
     },
     {
       "id": "355eef2f61fdef70716ac072389c0fef",
@@ -5741,7 +5778,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.413068"
+      "processed": "2025-06-29T09:13:56.043762"
     },
     {
       "id": "bc018383e028656b050c1ae9b4de93f2",
@@ -5757,7 +5794,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.416786"
+      "processed": "2025-06-29T09:13:56.047677"
     },
     {
       "id": "c2525aa49675ed5ace03818b514ca1b5",
@@ -5773,7 +5810,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.421066"
+      "processed": "2025-06-29T09:13:56.052249"
     },
     {
       "id": "284bf45844bb2ea2f99c9f81027c1779",
@@ -5789,7 +5826,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.425334"
+      "processed": "2025-06-29T09:13:56.056794"
     },
     {
       "id": "5bdd96d353dd8d555acdca1a1d311e21",
@@ -5805,7 +5842,7 @@
       "international_classes": [
         "026"
       ],
-      "processed": "2025-06-28T09:14:02.428578"
+      "processed": "2025-06-29T09:13:56.060262"
     },
     {
       "id": "b4dfc5f5291c7372546287eefc0f5bb7",
@@ -5821,7 +5858,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.433340"
+      "processed": "2025-06-29T09:13:56.065377"
     },
     {
       "id": "622c8d97e89dffa385c1db3e9d1121eb",
@@ -5837,7 +5874,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.436414"
+      "processed": "2025-06-29T09:13:56.068589"
     },
     {
       "id": "8ac3fc8842e33849e63cfad44610ebff",
@@ -5853,7 +5890,7 @@
       "international_classes": [
         "014"
       ],
-      "processed": "2025-06-28T09:14:02.438495"
+      "processed": "2025-06-29T09:13:56.070763"
     },
     {
       "id": "e981ac11e08eec9c1730fd233a9afaaf",
@@ -5870,7 +5907,7 @@
         "025",
         "018"
       ],
-      "processed": "2025-06-28T09:14:02.441950"
+      "processed": "2025-06-29T09:13:56.074464"
     },
     {
       "id": "e4e196732b5bc7f453856a782d515919",
@@ -5886,7 +5923,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.443877"
+      "processed": "2025-06-29T09:13:56.076492"
     },
     {
       "id": "f843a061d67c4888332c165a84ce832f",
@@ -5902,7 +5939,7 @@
       "international_classes": [
         "008"
       ],
-      "processed": "2025-06-28T09:14:02.444860"
+      "processed": "2025-06-29T09:13:56.077525"
     },
     {
       "id": "555ea336afcba2281c1d1f9ad1069ada",
@@ -5918,7 +5955,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.446916"
+      "processed": "2025-06-29T09:13:56.079833"
     },
     {
       "id": "adf147299d25ceb82a959c88a22dce0a",
@@ -5934,7 +5971,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.449704"
+      "processed": "2025-06-29T09:13:56.082982"
     },
     {
       "id": "7821e5ca783fd7eec81cb25d11163ba7",
@@ -5950,7 +5987,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.451171"
+      "processed": "2025-06-29T09:13:56.084608"
     },
     {
       "id": "677dcc0379fd7b6f1a4ec8f4020db21f",
@@ -5966,7 +6003,7 @@
       "international_classes": [
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.453091"
+      "processed": "2025-06-29T09:13:56.086759"
     },
     {
       "id": "6e907f94ef112c43b73b97a16797fdc0",
@@ -5982,7 +6019,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.454512"
+      "processed": "2025-06-29T09:13:56.088320"
     },
     {
       "id": "58e6048127330e97b1690a9f7f29bc4c",
@@ -5998,7 +6035,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.458439"
+      "processed": "2025-06-29T09:13:56.092829"
     },
     {
       "id": "0ac2d6a87655e41287018c3f04c1aa96",
@@ -6014,7 +6051,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.459572"
+      "processed": "2025-06-29T09:13:56.094044"
     },
     {
       "id": "07882b95899e4863f175cd8eb5c9aa49",
@@ -6030,7 +6067,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.462108"
+      "processed": "2025-06-29T09:13:56.096622"
     },
     {
       "id": "fd3c3d34e96d24618b242ed65902cf8a",
@@ -6046,7 +6083,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.465037"
+      "processed": "2025-06-29T09:13:56.099952"
     },
     {
       "id": "b4bde93ae2e8f9cd8e44023ec2dde65b",
@@ -6062,7 +6099,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.469232"
+      "processed": "2025-06-29T09:13:56.104776"
     },
     {
       "id": "8bdd65123d2b1e0b0c5f16e55ca56eb2",
@@ -6078,7 +6115,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.473419"
+      "processed": "2025-06-29T09:13:56.109379"
     },
     {
       "id": "6121682f83a239a334cec4c92c15e961",
@@ -6095,7 +6132,7 @@
         "036",
         "041"
       ],
-      "processed": "2025-06-28T09:14:02.476810"
+      "processed": "2025-06-29T09:13:56.113052"
     },
     {
       "id": "230d89bf568e1f65b53ad5d5fea1c9b8",
@@ -6111,7 +6148,7 @@
       "international_classes": [
         "039"
       ],
-      "processed": "2025-06-28T09:14:02.477781"
+      "processed": "2025-06-29T09:13:56.114047"
     },
     {
       "id": "60e4535a7ea97f3210cec3ef678b0362",
@@ -6127,7 +6164,7 @@
       "international_classes": [
         "003"
       ],
-      "processed": "2025-06-28T09:14:02.480429"
+      "processed": "2025-06-29T09:13:56.116919"
     },
     {
       "id": "ecb4145af8d4280531656abc1e1de4c5",
@@ -6143,7 +6180,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-06-28T09:14:02.482852"
+      "processed": "2025-06-29T09:13:56.119533"
     },
     {
       "id": "1a95a67cc83efa292d83339c3960de7d",
@@ -6159,7 +6196,7 @@
       "international_classes": [
         "028"
       ],
-      "processed": "2025-06-28T09:14:02.485865"
+      "processed": "2025-06-29T09:13:56.122782"
     },
     {
       "id": "04eb3c179e6b7ee33d9d39fabe0de659",
@@ -6175,7 +6212,7 @@
       "international_classes": [
         "011"
       ],
-      "processed": "2025-06-28T09:14:02.488136"
+      "processed": "2025-06-29T09:13:56.125251"
     },
     {
       "id": "32d39da99d64750b3fc6633ac4fff52b",
@@ -6191,7 +6228,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.490381"
+      "processed": "2025-06-29T09:13:56.127675"
     },
     {
       "id": "24da19db9ab1c7333267853823f33c6f",
@@ -6207,7 +6244,7 @@
       "international_classes": [
         "030"
       ],
-      "processed": "2025-06-28T09:14:02.491814"
+      "processed": "2025-06-29T09:13:56.129232"
     },
     {
       "id": "b7c7e02a5b102c5410dbf96215720471",
@@ -6223,7 +6260,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.494717"
+      "processed": "2025-06-29T09:13:56.132382"
     },
     {
       "id": "b5c8c2b0ca4ab7712b058476b70d79a6",
@@ -6239,7 +6276,7 @@
       "international_classes": [
         "032"
       ],
-      "processed": "2025-06-28T09:14:02.496559"
+      "processed": "2025-06-29T09:13:56.134365"
     },
     {
       "id": "e1a24a55115e7448a073bf273094e8e3",
@@ -6255,7 +6292,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.497506"
+      "processed": "2025-06-29T09:13:56.135378"
     },
     {
       "id": "8741e171b8a1ea3e52ace61ab5d5aab2",
@@ -6271,7 +6308,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.500113"
+      "processed": "2025-06-29T09:13:56.138175"
     },
     {
       "id": "297f84bdb1796cb9bd82f470436d8494",
@@ -6287,7 +6324,7 @@
       "international_classes": [
         "025"
       ],
-      "processed": "2025-06-28T09:14:02.501584"
+      "processed": "2025-06-29T09:13:56.139722"
     },
     {
       "id": "6a5ace9ae13516e35583cbe5ffd8ef53",
@@ -6303,7 +6340,7 @@
       "international_classes": [
         "036"
       ],
-      "processed": "2025-06-28T09:14:02.504353"
+      "processed": "2025-06-29T09:13:56.142689"
     },
     {
       "id": "5958188fb69d49f04ad56ae5cb127336",
@@ -6319,7 +6356,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.505293"
+      "processed": "2025-06-29T09:13:56.143652"
     },
     {
       "id": "4a767e86e64962990e8c12c28adbe3e9",
@@ -6335,7 +6372,7 @@
       "international_classes": [
         "012"
       ],
-      "processed": "2025-06-28T09:14:02.507086"
+      "processed": "2025-06-29T09:13:56.145585"
     },
     {
       "id": "9dc034ff89af84697ed545a3fc2fd97f",
@@ -6352,7 +6389,7 @@
         "025",
         "005"
       ],
-      "processed": "2025-06-28T09:14:02.511457"
+      "processed": "2025-06-29T09:13:56.150284"
     },
     {
       "id": "890185d89de757b9b549b38b7831d0a4",
@@ -6368,7 +6405,7 @@
       "international_classes": [
         "042"
       ],
-      "processed": "2025-06-28T09:14:02.513131"
+      "processed": "2025-06-29T09:13:56.152002"
     },
     {
       "id": "fdd959b8a2a9eea25c08a77d3d40a698",
@@ -6384,7 +6421,7 @@
       "international_classes": [
         "021"
       ],
-      "processed": "2025-06-28T09:14:02.514028"
+      "processed": "2025-06-29T09:13:56.152901"
     },
     {
       "id": "1e2485b1af2f95ddc9f44ecabf01de4f",
@@ -6400,7 +6437,7 @@
       "international_classes": [
         "024"
       ],
-      "processed": "2025-06-28T09:14:02.515756"
+      "processed": "2025-06-29T09:13:56.154761"
     },
     {
       "id": "ea102870e99226d8d0e11905f92745fb",
@@ -6417,7 +6454,7 @@
         "025",
         "005"
       ],
-      "processed": "2025-06-28T09:14:02.520112"
+      "processed": "2025-06-29T09:13:56.159426"
     },
     {
       "id": "23976669e9f1f1a268a5a46c2a5a1384",
@@ -6433,7 +6470,7 @@
       "international_classes": [
         "016"
       ],
-      "processed": "2025-06-28T09:14:02.523621"
+      "processed": "2025-06-29T09:13:56.163213"
     },
     {
       "id": "eeb45ca1eb4d14dc4700f4949dbdbf4e",
@@ -6449,40 +6486,7 @@
       "international_classes": [
         "009"
       ],
-      "processed": "2025-06-28T09:14:02.526416"
-    },
-    {
-      "id": "d0498954ae036f5dc88d009049c215ce",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "Carter D Bryant LLC",
-      "applicant_full": "Carter D Bryant LLC",
-      "mark": "ILAYA",
-      "serial": "99255861",
-      "filingDate": "2025-06-27",
-      "hasLogo": false,
-      "description": "Education services, namely, providing workshops and training programs for deaf children in the field of sports activities; Charitable donation services, namely, providing educational programs and resources in the field of supporting children; Sports instruction services; Educational services, namely",
-      "international_classes": [
-        "025",
-        "041"
-      ],
-      "processed": "2025-06-28T09:14:02.530716"
-    },
-    {
-      "id": "06cb7b2fc7881a4d74e0c78dd87ed2a6",
-      "category": "uncategorized",
-      "category_confidence": 0.0,
-      "applicant": "ShapeDoll LLC",
-      "applicant_full": "ShapeDoll LLC",
-      "mark": "SHAPEDOLL",
-      "serial": "99255863",
-      "filingDate": "2025-06-27",
-      "hasLogo": false,
-      "description": "Shapewear; Tops as clothing; Bottoms as clothing",
-      "international_classes": [
-        "025"
-      ],
-      "processed": "2025-06-28T09:14:02.531837"
+      "processed": "2025-06-29T09:13:56.166203"
     }
   ]
 }

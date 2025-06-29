@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-28T09:14:02.538824",
+  "lastUpdated": "2025-06-29T09:13:56.173251",
   "categories": {
     "auto": [
       {
@@ -10,6 +10,15 @@
         "serial": "99252111",
         "date": "2025-06-27",
         "url": "https://tsdr.uspto.gov/#caseNumber=99252111&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "auto",
+        "emoji": "\ud83d\ude97",
+        "applicant": "GenZ Automotive, LLC",
+        "mark": "GENZ PROTECT",
+        "serial": "99252342",
+        "date": "2025-06-28",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99252342&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "auto",
