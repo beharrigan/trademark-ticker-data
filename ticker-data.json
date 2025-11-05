@@ -1,36 +1,36 @@
 {
-  "lastUpdated": "2025-11-04T09:16:26.370247",
+  "lastUpdated": "2025-11-05T09:17:09.411188",
   "categories": {
     "auto": [
       {
         "category": "auto",
         "emoji": "\ud83d\ude97",
-        "applicant": "PDOO WHITENING LIMITED",
-        "mark": "PRECOGNI",
-        "serial": "99474925",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474925&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Guangzhou Exchange E-commerce Co., Ltd.",
+        "mark": "AZYTOXI",
+        "serial": "99475405",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475405&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "auto",
         "emoji": "\ud83d\ude97",
-        "applicant": "Inverted Drive Inc.",
-        "mark": "AUTTIMO (& Logo)",
-        "serial": "99474838",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474838&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "auto",
-        "emoji": "\ud83d\ude97",
-        "applicant": "Jian Chen",
-        "mark": "BOTFAMLY",
-        "serial": "99474843",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474843&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Daode Yu",
+        "mark": "YBOVV",
+        "serial": "99475407",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475407&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "gaming": [
+      {
+        "category": "gaming",
+        "emoji": "\ud83c\udfae",
+        "applicant": "Shanke Zhichuang (Shenzhen) Technology Co., Ltd China",
+        "mark": "KONMANDER",
+        "serial": "99475423",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475423&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "gaming",
         "emoji": "\ud83c\udfae",
@@ -41,116 +41,81 @@
         "url": "https://tsdr.uspto.gov/#caseNumber=99178874&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
-    "crypto": [],
+    "crypto": [
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Suzhou Wansiting Trade Co., Ltd",
+        "mark": "SKYDUE",
+        "serial": "99475357",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475357&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      }
+    ],
     "celebrities": [],
     "tech": [
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "HOMELOGS LLC",
-        "mark": "HOMELOGS",
-        "serial": "99474861",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474861&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Small Indie Company LLC",
+        "mark": "WE THE PEOPLE",
+        "serial": "99477168",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99477168&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Roger Nathaniel Erisman",
-        "mark": "ACCOUNTABUILD",
-        "serial": "99474867",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474867&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Intiam Inc.",
+        "mark": "IA",
+        "serial": "99477273",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99477273&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "SONE",
-        "mark": "SONE",
-        "serial": "99474870",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474870&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Gannett Media Corp.",
+        "mark": "USA TODAY CO.",
+        "serial": "99477359",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99477359&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "The Human Protocol Group LLC",
-        "mark": "THE HUMAN PROTOCOL",
-        "serial": "99474905",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474905&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "VICOSAFE INC",
+        "mark": "VICOSAFE (& Logo)",
+        "serial": "99452246",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99452246&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Gerassimos Alexatos",
-        "mark": "AUTOVERSEMIND (& Logo)",
-        "serial": "99474923",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474923&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "WellRite LTD",
+        "mark": "WELLRITE",
+        "serial": "99470962",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99470962&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Daice Labs Inc",
-        "mark": "DAICE LABS",
-        "serial": "99474976",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474976&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Generative Security",
+        "mark": "GENERATIVE SECURITY",
+        "serial": "99475400",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475400&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Richard M Ross",
-        "mark": "IRELATE",
-        "serial": "99475012",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475012&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD.",
-        "mark": "SPACE HUNTER",
-        "serial": "99475056",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475056&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Intelligent Clinical Systems, LLC",
-        "mark": "AII (& Logo)",
-        "serial": "99475061",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475061&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Worktika Inc.",
-        "mark": "ROLE MINT",
-        "serial": "99475112",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475112&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Richard Andrew Schoor",
-        "mark": "SURGEONVERIFY",
-        "serial": "99475299",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475299&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "RVU Wallet, LLC",
-        "mark": "RVU TRACKER",
-        "serial": "99475301",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475301&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Qubit IDE LLC",
+        "mark": "QUBIT IDE",
+        "serial": "99475421",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475421&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
@@ -223,56 +188,56 @@
         "serial": "99178832",
         "date": "2025-05-10",
         "url": "https://tsdr.uspto.gov/#caseNumber=99178832&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Charles Robert Steinmetz",
+        "mark": "AGENTIC ENTERTAINMENT (& Logo)",
+        "serial": "99178846",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178846&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "FestQuest LLC",
+        "mark": "FESTQUEST",
+        "serial": "99178848",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178848&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Enevo Cybersec SRL",
+        "mark": "SENTRYOT",
+        "serial": "99178850",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178850&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "LIGHT & WONDER, INC.",
+        "mark": "DRAGON TRIO",
+        "serial": "99178856",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178856&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "LIGHT & WONDER, INC.",
+        "mark": "SUSHI TRAIN",
+        "serial": "99178867",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178867&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "sports": [],
     "music": [],
     "entertainment": [
-      {
-        "category": "entertainment",
-        "emoji": "\ud83c\udfac",
-        "applicant": "Sweet Authority LLC",
-        "mark": "SWEET AUTHORITY",
-        "serial": "99450961",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99450961&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "entertainment",
-        "emoji": "\ud83c\udfac",
-        "applicant": "Polarfox Co., Ltd.",
-        "mark": "POLARFOX",
-        "serial": "99474909",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474909&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "entertainment",
-        "emoji": "\ud83c\udfac",
-        "applicant": "Kayla Moran LLC",
-        "mark": "CANDID STUDIOS",
-        "serial": "99475170",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475170&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "entertainment",
-        "emoji": "\ud83c\udfac",
-        "applicant": "Green Horizon Press, LLC",
-        "mark": "HUSTLE HARD, LIVE EASY",
-        "serial": "99475288",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475288&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "entertainment",
-        "emoji": "\ud83c\udfac",
-        "applicant": "Ryan William Scott Burton",
-        "mark": "CHAMELEON MULTIMEDIA",
-        "serial": "99474888",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99474888&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
       {
         "category": "entertainment",
         "emoji": "\ud83c\udfac",
@@ -305,15 +270,6 @@
       {
         "category": "food",
         "emoji": "\ud83c\udf54",
-        "applicant": "Guirong Chen",
-        "mark": "OHTOMBER",
-        "serial": "99471990",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99471990&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "food",
-        "emoji": "\ud83c\udf54",
         "applicant": "jnarazurum llc",
         "mark": "JNARA",
         "serial": "99178217",
@@ -334,11 +290,11 @@
       {
         "category": "beverage",
         "emoji": "\ud83e\udd64",
-        "applicant": "SPKED INC.",
-        "mark": "ELECTRIC GREEN POWERED BY VODKA SPKED ADE",
-        "serial": "99475281",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475281&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "EL POLLO LOCO, INC.",
+        "mark": "BERRYCHATA",
+        "serial": "99477318",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99477318&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "beverage",
@@ -354,38 +310,29 @@
       {
         "category": "fashion",
         "emoji": "\ud83d\udc5f",
-        "applicant": "Nashville Advertising & Promotions, Inc.",
-        "mark": "PUPPLIFY (& Logo)",
-        "serial": "99475060",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475060&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "The Collegiate School",
+        "mark": "COLLEGIATE COUGARS",
+        "serial": "99477294",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99477294&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "fashion",
         "emoji": "\ud83d\udc5f",
-        "applicant": "Jonathan Rojas",
-        "mark": "SCENE KID CLOTHING CO (& Logo)",
-        "serial": "99475154",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475154&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Kenneth Taeza",
+        "mark": "SOMETHING OUT OF NOTHING",
+        "serial": "99477306",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99477306&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "fashion",
         "emoji": "\ud83d\udc5f",
-        "applicant": "Stay Anchored Apparel, LLC",
-        "mark": "TEEWHITES (& Logo)",
-        "serial": "99475302",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99475302&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "fashion",
-        "emoji": "\ud83d\udc5f",
-        "applicant": "William Moses Jones",
-        "mark": "\u016aNF\u00dcKWTHBL",
-        "serial": "99378622",
-        "date": "2025-11-02",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99378622&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Dacheng Guo",
+        "mark": "WITTY WINK",
+        "serial": "99475365",
+        "date": "2025-11-03",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99475365&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "fashion",
