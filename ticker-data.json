@@ -1,7 +1,26 @@
 {
-  "lastUpdated": "2025-05-12T19:24:43.063141",
+  "lastUpdated": "2026-01-18T09:15:16.873298",
   "categories": {
-    "auto": [],
+    "auto": [
+      {
+        "category": "auto",
+        "emoji": "\ud83d\ude97",
+        "applicant": "Xuexiang Chen",
+        "mark": "ROCII",
+        "serial": "99600050",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600050&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "auto",
+        "emoji": "\ud83d\ude97",
+        "applicant": "Xuexiang Chen",
+        "mark": "HYLLY",
+        "serial": "99600075",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600075&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      }
+    ],
     "gaming": [
       {
         "category": "gaming",
@@ -13,9 +32,325 @@
         "url": "https://tsdr.uspto.gov/#caseNumber=99178874&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
-    "crypto": [],
+    "crypto": [
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPERLIQUID",
+        "serial": "99599957",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599957&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPERLIQUID",
+        "serial": "99599980",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599980&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPERLIQUID (& Logo)",
+        "serial": "99599981",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599981&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPE",
+        "serial": "99599983",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599983&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPE",
+        "serial": "99599985",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599985&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPE",
+        "serial": "99599987",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599987&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPE (& Logo)",
+        "serial": "99599988",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599988&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPURR",
+        "serial": "99599993",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599993&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPURR",
+        "serial": "99599995",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599995&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "HYPURR",
+        "serial": "99599998",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599998&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99599999",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599999&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99600001",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600001&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99600004",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600004&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99600007",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600007&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99600012",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600012&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99600017",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600017&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "crypto",
+        "emoji": "\ud83e\ude99",
+        "applicant": "Hyper Foundation",
+        "mark": "(Logo Only)",
+        "serial": "99600019",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600019&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      }
+    ],
     "celebrities": [],
     "tech": [
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Darin Hockman",
+        "mark": "INTERNET FOR MANY THINGS",
+        "serial": "99599925",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599925&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Intelliga Health",
+        "mark": "BLAND",
+        "serial": "99599927",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599927&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Learning Boxes, LLC",
+        "mark": "LEARNING BOXES UNBOXING SOMETHING NEW IN EDUCATION (& Logo)",
+        "serial": "99599972",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599972&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Shenzhen JCX Technology Co., Ltd.",
+        "mark": "MIFIND",
+        "serial": "99599986",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599986&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "RIVER SILICON LIMITED",
+        "mark": "HAMMERRIG (& Logo)",
+        "serial": "99600018",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600018&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Cast & Crew Production Software, LLC",
+        "mark": "FINAL DRAFT VAULT",
+        "serial": "99600053",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600053&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Hippocratic AI, Inc.",
+        "mark": "NURSE CO-PILOT",
+        "serial": "99600093",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600093&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "THINK ACADEMY INTERNATIONAL EDUCATION INC.",
+        "mark": "THINK INNOVATION",
+        "serial": "99600123",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600123&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Hunter Thomas Canterbury",
+        "mark": "SOLO SATOSHI (& Logo)",
+        "serial": "99600131",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600131&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "GLIDE IDENTITY, INC.",
+        "mark": "GLIDE ID",
+        "serial": "99600141",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600141&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Adaric Limited",
+        "mark": "(Logo Only)",
+        "serial": "99600147",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600147&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Paper Media LLC",
+        "mark": "PAPER VPN (& Logo)",
+        "serial": "99547435",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99547435&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Jason Holden",
+        "mark": "THIEFTAG",
+        "serial": "99588312",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99588312&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Tuoyuan (Shanwei) Network Technology Co., Ltd.",
+        "mark": "SONIXUS",
+        "serial": "99590389",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99590389&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Bimser International Corp.",
+        "mark": "BIMSER",
+        "serial": "99597186",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99597186&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Turing Shield LLC",
+        "mark": "TURING SHIELD (& Logo)",
+        "serial": "99597994",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99597994&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Saurav Basu",
+        "mark": "EXASURE",
+        "serial": "99598003",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99598003&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Time and Space Technologies, Inc.",
+        "mark": "1ARCHIVE",
+        "serial": "99598031",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99598031&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
@@ -33,128 +368,40 @@
         "serial": "99178810",
         "date": "2025-05-10",
         "url": "https://tsdr.uspto.gov/#caseNumber=99178810&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Aifection LLC",
-        "mark": "HEARTCHIP",
-        "serial": "99178827",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178827&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "DiscoverFire.ai LLC",
-        "mark": "DISCOVERFIRE AI (& Logo)",
-        "serial": "99178834",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178834&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Reclusive Inc.",
-        "mark": "CLOSED-CIRCUIT AI",
-        "serial": "99179115",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99179115&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Anbio (Xiamen) Biotechnology Co., Ltd.",
-        "mark": "ANVET (& Logo)",
-        "serial": "99178786",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178786&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Bookworms United, Inc.",
-        "mark": "KOOBOOM",
-        "serial": "99178823",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178823&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Bookworms United, Inc.",
-        "mark": "KOOBOOM AI",
-        "serial": "99178832",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178832&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Charles Robert Steinmetz",
-        "mark": "AGENTIC ENTERTAINMENT (& Logo)",
-        "serial": "99178846",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178846&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "FestQuest LLC",
-        "mark": "FESTQUEST",
-        "serial": "99178848",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178848&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Enevo Cybersec SRL",
-        "mark": "SENTRYOT",
-        "serial": "99178850",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178850&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "LIGHT & WONDER, INC.",
-        "mark": "DRAGON TRIO",
-        "serial": "99178856",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178856&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "LIGHT & WONDER, INC.",
-        "mark": "SUSHI TRAIN",
-        "serial": "99178867",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178867&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "LIGHT & WONDER, INC.",
-        "mark": "BIRTHDAY BANKIN'",
-        "serial": "99178871",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178871&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Shenzhen Qianyang Network Co., LTD",
-        "mark": "QY STUDIO",
-        "serial": "99178910",
-        "date": "2025-05-10",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99178910&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
-    "sports": [],
-    "music": [],
+    "sports": [
+      {
+        "category": "sports",
+        "emoji": "\u26bd",
+        "applicant": "Yangzhou Ruiqi Fitness Equipment Co., Ltd.",
+        "mark": "NAFT FLET",
+        "serial": "99590530",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99590530&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      }
+    ],
+    "music": [
+      {
+        "category": "music",
+        "emoji": "\ud83c\udfb5",
+        "applicant": "WE THA W.A.V.E. LLC",
+        "mark": "WE THA W.A.V.E.",
+        "serial": "99599952",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599952&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      }
+    ],
     "entertainment": [
+      {
+        "category": "entertainment",
+        "emoji": "\ud83c\udfac",
+        "applicant": "DreamWorks Animation L.L.C.",
+        "mark": "DOOZIE'S DOGHOUSE (& Logo)",
+        "serial": "99599939",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599939&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "entertainment",
         "emoji": "\ud83c\udfac",
@@ -187,6 +434,24 @@
       {
         "category": "food",
         "emoji": "\ud83c\udf54",
+        "applicant": "JABARBAR CENTER",
+        "mark": "JA BAR TAIWANESE FOOD NOODLE FRIED RICE",
+        "serial": "99599960",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99599960&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "food",
+        "emoji": "\ud83c\udf54",
+        "applicant": "JABARBAR CENTER",
+        "mark": "(Logo Only)",
+        "serial": "99600078",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600078&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "food",
+        "emoji": "\ud83c\udf54",
         "applicant": "jnarazurum llc",
         "mark": "JNARA",
         "serial": "99178217",
@@ -215,6 +480,24 @@
       }
     ],
     "fashion": [
+      {
+        "category": "fashion",
+        "emoji": "\ud83d\udc5f",
+        "applicant": "Frank Campanile",
+        "mark": "LIFE IS AWESOME",
+        "serial": "99600043",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99600043&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "fashion",
+        "emoji": "\ud83d\udc5f",
+        "applicant": "Shunliu Xiao",
+        "mark": "KRYNTHOS",
+        "serial": "99590505",
+        "date": "2026-01-16",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99590505&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "fashion",
         "emoji": "\ud83d\udc5f",
