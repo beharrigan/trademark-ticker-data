@@ -1,54 +1,8 @@
 {
-  "lastUpdated": "2026-06-05T11:57:12.997948",
+  "lastUpdated": "2025-05-12T19:24:43.063141",
   "categories": {
-    "auto": [
-      {
-        "category": "auto",
-        "emoji": "\ud83d\ude97",
-        "applicant": "Xiaolan Chen",
-        "mark": "BOLDRAK",
-        "serial": "99863909",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863909&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      }
-    ],
+    "auto": [],
     "gaming": [
-      {
-        "category": "gaming",
-        "emoji": "\ud83c\udfae",
-        "applicant": "Yusheng Wu",
-        "mark": "ZIJARYU",
-        "serial": "99863667",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863667&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "gaming",
-        "emoji": "\ud83c\udfae",
-        "applicant": "Fan Liu",
-        "mark": "STONEKJOY",
-        "serial": "99863783",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863783&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "gaming",
-        "emoji": "\ud83c\udfae",
-        "applicant": "Joshua Derek Feldman",
-        "mark": "TURNING SCREEN TIME INTO SKILL TIME",
-        "serial": "99863942",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863942&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "gaming",
-        "emoji": "\ud83c\udfae",
-        "applicant": "Shenzhen\u00a0Qingshengqiang\u00a0Technology\u00a0Co.,\u00a0Ltd.",
-        "mark": "KINNBEL",
-        "serial": "99861080",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99861080&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
       {
         "category": "gaming",
         "emoji": "\ud83c\udfae",
@@ -59,82 +13,9 @@
         "url": "https://tsdr.uspto.gov/#caseNumber=99178874&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
-    "crypto": [
-      {
-        "category": "crypto",
-        "emoji": "\ud83e\ude99",
-        "applicant": "HottBox Agave Technology LLC",
-        "mark": "HOTTBOX",
-        "serial": "99863570",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863570&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      }
-    ],
+    "crypto": [],
     "celebrities": [],
     "tech": [
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Gridfall Inc.",
-        "mark": "(Logo Only)",
-        "serial": "99863656",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863656&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "IYKYK Brands, Inc.",
-        "mark": "FLOWMS",
-        "serial": "99863721",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863721&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Timelind Inc.",
-        "mark": "TIMELIND (& Logo)",
-        "serial": "99863849",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863849&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Leapora AI Inc.",
-        "mark": "TASKEEN \u2013 THE TRUSTED PROOF CHAIN (& Logo)",
-        "serial": "99863979",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863979&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "TyStringz LLC",
-        "mark": "SOUNDGORITHM",
-        "serial": "99859193",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99859193&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Carsofts LLC",
-        "mark": "RENOLINK",
-        "serial": "99859651",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99859651&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Hainan Camel Software Co., Ltd.",
-        "mark": "LAST AGE",
-        "serial": "99861473",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99861473&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
@@ -251,29 +132,28 @@
         "serial": "99178867",
         "date": "2025-05-10",
         "url": "https://tsdr.uspto.gov/#caseNumber=99178867&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "LIGHT & WONDER, INC.",
+        "mark": "BIRTHDAY BANKIN'",
+        "serial": "99178871",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178871&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Shenzhen Qianyang Network Co., LTD",
+        "mark": "QY STUDIO",
+        "serial": "99178910",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178910&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "sports": [],
-    "music": [
-      {
-        "category": "music",
-        "emoji": "\ud83c\udfb5",
-        "applicant": "Rickerby Alexander Brown-Hinds",
-        "mark": "ILLGOODS",
-        "serial": "99863641",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863641&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "music",
-        "emoji": "\ud83c\udfb5",
-        "applicant": "Amanda Washington Lockett",
-        "mark": "HEY KIDS, PICTURE THIS!",
-        "serial": "99863795",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863795&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      }
-    ],
+    "music": [],
     "entertainment": [
       {
         "category": "entertainment",
@@ -335,15 +215,6 @@
       }
     ],
     "fashion": [
-      {
-        "category": "fashion",
-        "emoji": "\ud83d\udc5f",
-        "applicant": "NOKWAL INC",
-        "mark": "(Logo Only)",
-        "serial": "99863869",
-        "date": "2026-06-03",
-        "url": "https://tsdr.uspto.gov/#caseNumber=99863869&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
       {
         "category": "fashion",
         "emoji": "\ud83d\udc5f",
