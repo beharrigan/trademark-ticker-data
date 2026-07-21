@@ -1,8 +1,45 @@
 {
-  "lastUpdated": "2026-07-20T11:38:28.701686",
+  "lastUpdated": "2026-07-21T11:01:02.847804",
   "categories": {
-    "auto": [],
+    "auto": [
+      {
+        "category": "auto",
+        "emoji": "\ud83d\ude97",
+        "applicant": "Chuanchuan Chen",
+        "mark": "AXISGO",
+        "serial": "50000661",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000661&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "auto",
+        "emoji": "\ud83d\ude97",
+        "applicant": "Shenzhen Qianhai Simeitu Technology Co.,Ltd.",
+        "mark": "GREENSINDOOR",
+        "serial": "50000714",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000714&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "auto",
+        "emoji": "\ud83d\ude97",
+        "applicant": "Melvin Jason sowards",
+        "mark": "RED DIRT LIFE OK (& Logo)",
+        "serial": "50000732",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000732&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      }
+    ],
     "gaming": [
+      {
+        "category": "gaming",
+        "emoji": "\ud83c\udfae",
+        "applicant": "Shenzhen Leyu Electronics Co., Ltd.",
+        "mark": "PEHIAA",
+        "serial": "50000676",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000676&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "gaming",
         "emoji": "\ud83c\udfae",
@@ -17,29 +54,11 @@
       {
         "category": "crypto",
         "emoji": "\ud83e\ude99",
-        "applicant": "COOPER EQUIP INC",
-        "mark": "QUVARA",
-        "serial": "50000034",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000034&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "crypto",
-        "emoji": "\ud83e\ude99",
-        "applicant": "HDO BlueRock LLC",
-        "mark": "NEXIOA",
-        "serial": "50000039",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000039&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "crypto",
-        "emoji": "\ud83e\ude99",
-        "applicant": "Bartr Technologies, Inc.",
-        "mark": "BARTR",
-        "serial": "50000182",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000182&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Upax LLC",
+        "mark": "EVANOX",
+        "serial": "50000596",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000596&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "celebrities": [],
@@ -47,128 +66,101 @@
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Flint App LLC",
-        "mark": "FLINT",
-        "serial": "50000003",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000003&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Orqos LLC",
+        "mark": "ORQOS",
+        "serial": "50000586",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000586&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Brent Aaron Girolimon",
-        "mark": "DETERMINFIRST",
-        "serial": "50000024",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000024&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Collaborative Shared Technologies LLC",
+        "mark": "KNOWLEDEGEROOTS ENTERPRISE INTELLIGENCE ARCHITECTURE",
+        "serial": "50000588",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000588&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "HDO BlueRock LLC",
-        "mark": "TALVION",
-        "serial": "50000038",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000038&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Upax LLC",
+        "mark": "AVATOX",
+        "serial": "50000592",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000592&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Logos IP Licensing LLC",
-        "mark": "HEAVEN (& Logo)",
-        "serial": "50000041",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000041&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Upax LLC",
+        "mark": "PIRLEX",
+        "serial": "50000593",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000593&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Pit Stop BBQ Group, LLC",
-        "mark": "PIT STOP BBQ APP",
-        "serial": "50000102",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000102&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "PageProof.com Limited",
+        "mark": "PREPROOF (& Logo)",
+        "serial": "50000646",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000646&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Armen Markaryan",
-        "mark": "SCPM GATE",
-        "serial": "50000103",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000103&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "John C Saldarini",
+        "mark": "CALORIRX",
+        "serial": "50000648",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000648&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Mashalle Green",
-        "mark": "CLARITY HIMI (& Logo)",
-        "serial": "50000107",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000107&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Genesis AI Ventures, LLC",
+        "mark": "AI WORKFORCE FRAMEWORK (& Logo)",
+        "serial": "50000652",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000652&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "10573 LLC",
-        "mark": "INTUITIVEOPS",
-        "serial": "50000122",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000122&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "MENNA LLC",
+        "mark": "MENNA",
+        "serial": "50000670",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000670&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Tremont AI, Inc",
-        "mark": "TRACE",
-        "serial": "50000151",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000151&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "iartshow corp",
+        "mark": "NEWSTOCK",
+        "serial": "50000677",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000677&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Tutuo, Inc.",
-        "mark": "(Logo Only)",
-        "serial": "50000156",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000156&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Barbara Walker",
+        "mark": "LEGACY BATON .AI PRESERVE WISDOM. PASS IT FORWARD.",
+        "serial": "50000734",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000734&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
         "emoji": "\ud83d\udcbb",
-        "applicant": "Tremont AI, Inc",
-        "mark": "TOXSCRIBE",
-        "serial": "50000162",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000162&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "Cosmic Wire, Inc.",
-        "mark": "ATOMTREE",
-        "serial": "50000173",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000173&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "QUANTUM RENAISSANCE INC.",
-        "mark": "INKLET",
-        "serial": "50000176",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000176&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "tech",
-        "emoji": "\ud83d\udcbb",
-        "applicant": "QUANTUM RENAISSANCE INC.",
-        "mark": "SCRIBLET",
-        "serial": "50000186",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000186&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Nicole Marie Mehta",
+        "mark": "BOLBOTS",
+        "serial": "50000735",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000735&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "tech",
@@ -223,6 +215,33 @@
         "serial": "99178786",
         "date": "2025-05-10",
         "url": "https://tsdr.uspto.gov/#caseNumber=99178786&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Bookworms United, Inc.",
+        "mark": "KOOBOOM",
+        "serial": "99178823",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178823&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Bookworms United, Inc.",
+        "mark": "KOOBOOM AI",
+        "serial": "99178832",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178832&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "tech",
+        "emoji": "\ud83d\udcbb",
+        "applicant": "Charles Robert Steinmetz",
+        "mark": "AGENTIC ENTERTAINMENT (& Logo)",
+        "serial": "99178846",
+        "date": "2025-05-10",
+        "url": "https://tsdr.uspto.gov/#caseNumber=99178846&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "sports": [],
@@ -230,31 +249,31 @@
       {
         "category": "music",
         "emoji": "\ud83c\udfb5",
-        "applicant": "Nick DeMayo",
-        "mark": "LUCKY JERK",
-        "serial": "50000049",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000049&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Nathan Anthony Graves",
+        "mark": "I WNDR RECORDS",
+        "serial": "50000581",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000581&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
+      {
+        "category": "music",
+        "emoji": "\ud83c\udfb5",
+        "applicant": "ABALANCEX LLC",
+        "mark": "XFLOWFI",
+        "serial": "50000664",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000664&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       }
     ],
     "entertainment": [
       {
         "category": "entertainment",
         "emoji": "\ud83c\udfac",
-        "applicant": "Rodney Thornton",
-        "mark": "MOVIE PASSPORT YOUR TICKET TO ENDLESS ENTERTAINMENT",
-        "serial": "50000078",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000078&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "entertainment",
-        "emoji": "\ud83c\udfac",
-        "applicant": "Ferrari Films, LLC",
-        "mark": "HOLLYWOOD SHOT HOUSE",
-        "serial": "50000214",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000214&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "World Wrestling Entertainment, LLC",
+        "mark": "ALIX BROOKS",
+        "serial": "50000632",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000632&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "entertainment",
@@ -288,11 +307,11 @@
       {
         "category": "food",
         "emoji": "\ud83c\udf54",
-        "applicant": "COOPER EQUIP INC",
-        "mark": "ZILOKO",
-        "serial": "50000033",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000033&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "JIN HER LIH CO., LTD.",
+        "mark": "(Logo Only)",
+        "serial": "50000212",
+        "date": "2026-07-20",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000212&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "food",
@@ -317,29 +336,11 @@
       {
         "category": "beverage",
         "emoji": "\ud83e\udd64",
-        "applicant": "COOPER EQUIP INC",
-        "mark": "BRYVON",
-        "serial": "50000040",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000040&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "beverage",
-        "emoji": "\ud83e\udd64",
-        "applicant": "Benoosh LLC",
-        "mark": "BENOOSH",
-        "serial": "50000119",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000119&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
-      },
-      {
-        "category": "beverage",
-        "emoji": "\ud83e\udd64",
-        "applicant": "Clayton King",
-        "mark": "PV PULSEVEND FUEL YOUR PULSE",
-        "serial": "50000131",
-        "date": "2026-07-18",
-        "url": "https://tsdr.uspto.gov/#caseNumber=50000131&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+        "applicant": "Upax LLC",
+        "mark": "MAROTX",
+        "serial": "50000605",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000605&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
       },
       {
         "category": "beverage",
@@ -352,6 +353,15 @@
       }
     ],
     "fashion": [
+      {
+        "category": "fashion",
+        "emoji": "\ud83d\udc5f",
+        "applicant": "Kesheng Zhou",
+        "mark": "TARART",
+        "serial": "50000743",
+        "date": "2026-07-19",
+        "url": "https://tsdr.uspto.gov/#caseNumber=50000743&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch"
+      },
       {
         "category": "fashion",
         "emoji": "\ud83d\udc5f",
